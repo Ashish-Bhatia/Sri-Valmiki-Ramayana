@@ -31,7 +31,7 @@
 - Bāla `1.1.21` and `1.1.22` similarly repeat shared content.
 - `1.1.6` contains an apparent transcription error in the digital corpus. `data/errata.json` records a corrected reading cross-checked against IIT Kanpur's Southern Recension.
 
-## How the scan works
+## Reproduce the scan\nClone the repository and run `node scripts/audit-corpus.mjs --check`. To recompute and write the manifest locally, run `node scripts/audit-corpus.mjs --write`. No GitHub Actions workflow or third-party Node package is required.\n\n## How the scan works
 1. Read every source record with its numeric `kanda.sarga.shloka` fields.
 2. Detect explicitly written numeric addresses matching forms such as `1.1.19` or similar Devanāgarī punctuation around numbers.
 3. Flag if the row includes distinct embedded addresses beyond its own, lacks its own expected address, or lacks a recognizable embedded address entirely.

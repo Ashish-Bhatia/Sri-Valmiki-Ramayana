@@ -30,13 +30,13 @@ data/sanskrit/1.json       Bāla Kāṇḍa source transcription
 ...
 data/sanskrit/7.json       Uttara Kāṇḍa source transcription
 data/translations/1-1.json Independently authored English/Hindi, verses 1–17
-data/errata.json           Transparent corrected-text overlay\ndata/quality-flags.json    Machine-audit flags for source segmentation\ndocs/QA_REPORT.md          Preliminary source quality report
+data/errata.json           Transparent corrected-text overlay\ndata/quality-flags.json    Machine-audit flags for source segmentation\ndocs/QA_REPORT.md          Preliminary source quality report\nscripts/audit-corpus.mjs    Locally reproducible source consistency scan
 docs/SOURCES.md            Corpus provenance and editorial rules
 docs/PROJECT_STATE.md      Permanent progress checkpoint
 docs/NEXT_CHAT_PROMPT.md   Exact continuation instructions
 ```
 
-### Non-negotiable editorial rules
+### Reproduce the preliminary audit\nAfter cloning the repository, run `node scripts/audit-corpus.mjs --check`. It checks whether the committed QA flag manifest matches the scanned digital Sanskrit sources. To regenerate the manifest locally, use `node scripts/audit-corpus.mjs --write` and manually review differences before committing. This has no role in GitHub Pages deployment.\n\n### Non-negotiable editorial rules
 1. Never rewrite, abridge or rearrange Sanskrit narrative order.
 2. Keep the kāṇḍa.sarga.śloka reference on every verse; identify the source recension.
 3. Treat Sanskrit transcription, source-derived meanings, independently authored translation, modern contextualization and teaching as **five separate data layers**.
