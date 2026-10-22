@@ -17,11 +17,11 @@
 - [x] Imported Sanskrit corpus via seven Git blobs (23,291 individual uniquely addressed Sanskrit records, 648 sargas, across seven kāṇḍas).
 - [x] Original foreign-language meanings/annotations from source dataset explicitly **not copied**.
 - [x] Static responsive editorial site assets created: `index.html`, `assets/styles.css`, `assets/app.js`, and `.nojekyll`.
-- [x] Reader navigation by book / sarga / śloka; original Sanskrit always prominent; translation language selection, search, progress, share and mobile navigation.
+- [x] Reader navigation by book / sarga / śloka; original Sanskrit always prominent; translation language selection, search, progress, share and mobile navigation, with visible warnings on QA-flagged records.
 - [x] Authored and published **English and Hindi editorial translations for 1.1.1–1.1.17**, plus selected modern contextual notes and distinct teachings in `data/translations/1-1.json`.
 - [x] 1.1.6 typographic emendation documented with IIT Kanpur cross-check in `data/errata.json`.
 - [ ] Verify on a live GitHub Pages URL (requires Settings → Pages → Deploy from a branch → main / (root); current connected GitHub tool cannot modify Pages settings).
-- [ ] Execute systematic corpus-wide verse segmentation audit and add a reproducible `docs/QA_REPORT.md`.
+- [x] Executed a preliminary corpus-wide embedded-reference audit and added `docs/QA_REPORT.md` plus `data/quality-flags.json`. Exactly **3,213 / 23,291** source records flagged for manual QA (3,204 marker anomalies, 8 absent markers, 1 additional overrun). Flags do not by themselves prove an error.\n- [ ] Complete scholarly and same-recension comparison for all flagged records.
 - [ ] Finish Bāla Kāṇḍa Sarga 1, starting at **1.1.18**. Source rows around 1.1.18–1.1.22 have merged/duplicated passages. Fix source display via source-preserving errata and verse-by-verse alignment with a *same-recension* reference. Then independently translate each verified verse into both languages and add teachings only where appropriate.
 - [ ] Continue Bāla Kāṇḍa Sarga 2, then follow the fixed source order, no skipped verses.
 
@@ -38,7 +38,7 @@
 2. `data/translations/1-1.json`
 3. `data/errata.json`
 4. `data/sanskrit/1.json`, specifically source records `s=1`, `v=18..30`
-5. `assets/app.js`
+5. `docs/QA_REPORT.md` and `data/quality-flags.json`\n6. `assets/app.js`
 
 ## Deployment rules
 Static only, no bundler, GitHub Pages source must be main/(root). Manual Pages setting may still be required. No workflow file under `.github/workflows`.

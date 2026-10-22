@@ -8,7 +8,7 @@ A static, mobile-first reader preserving the **seven kāṇḍas → sargas → 
 ### Current scope (23 October 2026)
 - **Sanskrit:** 23,291 imported Sanskrit verse records from a seven-kāṇḍa digitized corpus, arranged in 648 sargas. Imported does not mean critically proofread.
 - **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.17 currently published in English and Hindi, with selected modern reflections/teachings.
-- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. A source-data anomaly in 1.1.18–1.1.22 requires further verse segmentation review. Never hide textual limitations.
+- **Structural audit:** 3,213 of 23,291 digital verse records have been flagged for review due to numbering markers, multi-verse mergers or observed source overruns. See [QA report](./docs/QA_REPORT.md). A flag is not necessarily a confirmed textual error.\n- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. A source-data anomaly in 1.1.18–1.1.22 requires further verse segmentation review. Never hide textual limitations.
 - **Architecture:** Plain static HTML, CSS and JavaScript. No build system, cloud database or custom GitHub Actions workflow.
 
 ### GitHub Pages, WITHOUT a custom GitHub Actions workflow
@@ -30,7 +30,7 @@ data/sanskrit/1.json       Bāla Kāṇḍa source transcription
 ...
 data/sanskrit/7.json       Uttara Kāṇḍa source transcription
 data/translations/1-1.json Independently authored English/Hindi, verses 1–17
-data/errata.json           Transparent corrected-text overlay
+data/errata.json           Transparent corrected-text overlay\ndata/quality-flags.json    Machine-audit flags for source segmentation\ndocs/QA_REPORT.md          Preliminary source quality report
 docs/SOURCES.md            Corpus provenance and editorial rules
 docs/PROJECT_STATE.md      Permanent progress checkpoint
 docs/NEXT_CHAT_PROMPT.md   Exact continuation instructions

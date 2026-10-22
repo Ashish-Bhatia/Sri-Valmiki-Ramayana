@@ -23,7 +23,7 @@ The seven JSON files in `data/sanskrit/` are derived exclusively from:
 2. **Sanskrit Documents** Devanāgarī text derived from Tokunaga/John Smith digitization of the Baroda Critical Edition: https://sanskritdocuments.org/mirrors/ramayana/valmiki/ramayana.htm and https://sanskritdocuments.org/mirrors/ramayana/utf/1_balakanda_1.html . Critical-edition verse numbering and readings differ from the adopted digital corpus.
 3. **GRETIL** Unicode archive: https://gretil.sub.uni-goettingen.de/gret_utfbk.htm . GRETIL's page limits its provided e-text files to scholarly reference and explicitly excludes commercial uses. For this reason its e-texts have **not** been bulk copied into this repository.
 
-## Correcting and translating
+## Digital integrity warning\nA preliminary structural scan of the imported text found **3,213 records requiring review** (see [QA report](./QA_REPORT.md)). Imported text therefore must not be described as proofread or guaranteed error-free. The reader visibly labels flagged records. These counts are audit alerts, not independent philological confirmations.\n\n## Correcting and translating
 - Keep an immutable source-layer record. Record textual emendations in `data/errata.json`; present the corrected reading with a traceable source.
 - Translate English and Hindi independently into current, readable language. Do not paste modern copyrighted translations from reference sites.
 - Treat modern reflections as editorial views, never as additional original ślokas.
