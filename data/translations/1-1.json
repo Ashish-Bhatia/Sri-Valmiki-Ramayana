@@ -1,0 +1,116 @@
+{
+  "kanda": 1,
+  "sarga": 1,
+  "translationStatus": "original editorial translation, provisional review",
+  "sourceVerseIds": "1.1.1–1.1.17",
+  "verses": {
+    "1": {
+      "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
+      "hi": "तपस्या और स्वाध्याय में निरत, वाणी के श्रेष्ठ ज्ञाता तथा मुनियों में अग्रणी नारद से तपस्वी वाल्मीकि ने प्रश्न किया।",
+      "context": {
+        "en": "The epic opens with a question, not with a battle or a coronation.",
+        "hi": "महाकाव्य का आरम्भ युद्ध या राज्याभिषेक से नहीं, बल्कि एक प्रश्न से होता है।"
+      },
+      "teaching": {
+        "en": "Begin the search for wisdom by asking thoughtful questions of knowledgeable people.",
+        "hi": "ज्ञान की खोज विचारपूर्ण प्रश्नों और योग्य मार्गदर्शन से आरम्भ होती है।"
+      }
+    },
+    "2": {
+      "en": "Who in this world today possesses noble qualities and strength, knows dharma, remembers kindness, speaks truth and remains firm in his commitments?",
+      "hi": "आज इस संसार में ऐसा कौन है जो गुणवान और पराक्रमी है, धर्म को जानता है, उपकार मानता है, सत्य बोलता है और अपने संकल्प पर अटल रहता है?",
+      "teaching": {
+        "en": "Character includes gratitude, truthfulness and keeping commitments, alongside ability.",
+        "hi": "चरित्र में सामर्थ्य के साथ कृतज्ञता, सत्यनिष्ठा और वचनपालन भी महत्त्वपूर्ण हैं।"
+      }
+    },
+    "3": {
+      "en": "Who has excellent conduct and works for the good of all beings? Who is learned, capable and pleasing in the eyes of others?",
+      "hi": "कौन श्रेष्ठ आचरण वाला, सभी प्राणियों का हितैषी, विद्वान, समर्थ और सबको प्रिय लगने वाला है?",
+      "teaching": {
+        "en": "Judge leadership by conduct, competence and concern for the welfare of others.",
+        "hi": "नेतृत्व को आचरण, क्षमता और दूसरों के कल्याण के प्रति प्रतिबद्धता से परखें।"
+      }
+    },
+    "4": {
+      "en": "Who is self-controlled, has mastered anger, shines with distinction and is free from envy? Whose anger in battle would alarm even the gods?",
+      "hi": "कौन आत्मसंयमी, क्रोध को जीतने वाला, तेजस्वी और ईर्ष्या से मुक्त है? युद्ध में क्रोधित होने पर किससे देवता भी भयभीत होते हैं?",
+      "teaching": {
+        "en": "Great strength is most admirable when accompanied by restraint and freedom from envy.",
+        "hi": "महान शक्ति के साथ संयम और ईर्ष्या से मुक्ति भी आवश्यक गुण हैं।"
+      }
+    },
+    "5": {
+      "en": "I wish to hear of such a person, for my curiosity is deep. Great sage, you are able to know someone endowed with these qualities.",
+      "hi": "मैं ऐसे व्यक्ति के विषय में सुनना चाहता हूँ, क्योंकि मेरी जिज्ञासा अत्यन्त गहरी है। हे महर्षि, आप ऐसे मनुष्य को जानने में समर्थ हैं।"
+    },
+    "6": {
+      "en": "Hearing Vālmīki's words, Nārada, who knew the three worlds, gladly invited him to listen and began to speak.",
+      "hi": "वाल्मीकि की बात सुनकर तीनों लोकों के ज्ञाता नारद प्रसन्न हुए। उन्होंने 'सुनिए' कहकर अपना कथन आरम्भ किया।"
+    },
+    "7": {
+      "en": "The qualities you have named are many and rare, O sage. I shall tell you of a man who possesses them; listen.",
+      "hi": "हे मुनि, आपने जिन अनेक गुणों का उल्लेख किया है, वे दुर्लभ हैं। अब मैं उन गुणों से युक्त एक पुरुष के विषय में बताता हूँ, सुनिए।"
+    },
+    "8": {
+      "en": "Born in the Ikṣvāku lineage, he is known among people as Rāma: disciplined, mighty, radiant, steadfast and master of his senses.",
+      "hi": "इक्ष्वाकु वंश में उत्पन्न वह पुरुष राम नाम से प्रसिद्ध है। वह आत्मनियंत्रित, महापराक्रमी, तेजस्वी, धैर्यवान और इन्द्रियों को वश में रखने वाला है।",
+      "teaching": {
+        "en": "Self-discipline and steadiness are presented as foundations of strength.",
+        "hi": "आत्मानुशासन और धैर्य को वास्तविक सामर्थ्य का आधार बताया गया है।"
+      }
+    },
+    "9": {
+      "en": "He is intelligent, understands right governance, speaks well, is prosperous and vanquishes foes. He has broad shoulders, powerful arms, a conch-like neck and a strong jaw.",
+      "hi": "वह बुद्धिमान, नीति का ज्ञाता, प्रभावशाली वक्ता, श्रीसम्पन्न और शत्रुओं का दमन करने वाला है। उसके कंधे चौड़े, भुजाएँ विशाल, गर्दन शंख के समान और ठोड़ी सुदृढ़ है।"
+    },
+    "10": {
+      "en": "His chest is broad; he is a great archer who subdues enemies. His collarbones are well set, his arms reach his knees, and his head, forehead and stride are impressive.",
+      "hi": "उसका वक्षस्थल विशाल है। वह महान धनुर्धर और शत्रुदमनकर्ता है। उसकी हंसलियाँ सुगठित, भुजाएँ घुटनों तक लम्बी तथा सिर, ललाट और पराक्रम प्रशंसनीय हैं।"
+    },
+    "11": {
+      "en": "His form is well-proportioned, his complexion pleasing and his presence commanding. He has a strong chest, wide eyes, good fortune and auspicious marks.",
+      "hi": "उसका शरीर सुगठित और संतुलित है, वर्ण मनोहर तथा व्यक्तित्व प्रभावशाली है। उसका वक्षस्थल पुष्ट, नेत्र विशाल और लक्षण शुभ हैं।"
+    },
+    "12": {
+      "en": "He understands dharma, remains true to his word and is devoted to the welfare of the people. Renowned, knowledgeable and pure in conduct, he is self-controlled and composed.",
+      "hi": "वह धर्म का ज्ञाता, सत्यप्रतिज्ञ और प्रजा के हित में निरत है। यशस्वी, ज्ञानसम्पन्न, शुद्ध आचरण वाला, जितेन्द्रिय और एकाग्रचित्त है।",
+      "teaching": {
+        "en": "Public duty and care for people are central measures of responsible rule.",
+        "hi": "प्रजा का कल्याण और सार्वजनिक कर्तव्य उत्तरदायी शासन की प्रमुख कसौटियाँ हैं।"
+      }
+    },
+    "13": {
+      "en": "A protector of living beings and upholder of dharma, he sustains and safeguards; he is able to defeat his enemies.",
+      "hi": "वह जीव-जगत का रक्षक और धर्म का परिपालक है। वह पालन-पोषण करता है और शत्रुओं का नाश करने में समर्थ है।"
+    },
+    "14": {
+      "en": "He protects his own duty and his people; he knows the principles of the Vedas and their auxiliary disciplines, and is accomplished in the science of archery.",
+      "hi": "वह अपने धर्म और अपने जनों की रक्षा करता है। वेद-वेदांगों के तत्त्व को जानता है और धनुर्विद्या में निपुण है।"
+    },
+    "15": {
+      "en": "He understands the meaning of the scriptures, has a strong memory and keen insight. Beloved by people, kind, unshaken in spirit and discerning, he acts with judgment.",
+      "hi": "वह शास्त्रों का तत्त्वज्ञ, उत्तम स्मरणशक्ति और सूझबूझ वाला है। जनप्रिय, सज्जन, अविचलित मन का और विवेकशील है।",
+      "teaching": {
+        "en": "Knowledge becomes useful when joined to sound judgment and an even temperament.",
+        "hi": "ज्ञान तभी उपयोगी होता है जब उसके साथ विवेक और संतुलित स्वभाव भी हो।"
+      }
+    },
+    "16": {
+      "en": "The virtuous approach him as rivers flow toward the sea. Noble and even-minded toward all, he is consistently agreeable in presence.",
+      "hi": "जैसे नदियाँ समुद्र की ओर जाती हैं, वैसे ही सज्जन उसके समीप आते हैं। वह उदार, सबके प्रति समभाव रखने वाला और प्रियदर्शन है।",
+      "teaching": {
+        "en": "A person worthy of trust remains approachable and treats others fairly.",
+        "hi": "विश्वास के योग्य व्यक्ति सुलभ रहता है और सबके साथ न्यायपूर्ण व्यवहार करता है।"
+      }
+    },
+    "17": {
+      "en": "Endowed with virtues, he brings joy to Kausalyā. In depth he resembles the sea, and in steadfastness the Himalayas.",
+      "hi": "सद्गुणों से सम्पन्न वह कौसल्या के आनंद को बढ़ाता है। उसकी गम्भीरता समुद्र के समान और धैर्य हिमालय के समान है।",
+      "context": {
+        "en": "These are poetic comparisons expressing depth and fortitude, not measurable physical claims.",
+        "hi": "ये उपमाएँ गम्भीरता और धैर्य को व्यक्त करती हैं, कोई भौतिक मापन नहीं।"
+      }
+    }
+  }
+}
