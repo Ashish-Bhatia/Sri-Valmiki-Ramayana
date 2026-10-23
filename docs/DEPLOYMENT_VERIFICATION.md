@@ -1,12 +1,87 @@
-# Release verification in progress: Bāla Kāṇḍa 1.1.51–1.1.60
+# Verified publication: Bāla Kāṇḍa 1.1.51–1.1.60
 
 Date: 23 October 2026, Asia/Kolkata.
+Website: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
+Verified reader: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/?k=1&s=1&v=60
 
-Sixty translations and both `1.1.60` cache markers pass local syntax, corpus-manifest, publication and baseline preservation checks. This pre-commit entry does not claim that the new release is deployed.
+## Current release
 
-The latest-main baseline `65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c` has successful managed Pages run [39888137638](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39888137638). Build job `120201087696` and deploy job `120201221917` succeeded. Inspected logs confirm `ref: main`, Jekyll `source: .`, the matching revision, `_config.yml`, and explicit docs/scripts/README exclusions. The public root returned HTTP 200. Administrative settings were not read. No custom workflow is present.
+- Translation, audit and cache-marker commit: [97b4168e9473909cf15bc88630d2a5ce61dba791](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/commit/97b4168e9473909cf15bc88630d2a5ce61dba791).
+- Successful managed Pages run: [40004902628](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/40004902628).
+- Build job `120590218426`; deploy job `120590432606`; both completed successfully. The run's final result is `completed / success`.
+- Inspected build logs check out `ref: main`, run Jekyll with `source: .`, record the matching `build_revision`, load `/github/workspace/./_config.yml`, and explicitly exclude `/scripts`, `/README.md` and `/docs`.
+- Workflow path: GitHub-managed `dynamic/pages/pages-build-deployment`. No repository `.github/workflows` directory or custom deployment workflow exists. `.nojekyll` remains absent.
+- Administrative settings were not read. The actual successful build inputs and deployed output establish main/root.
+- Baseline main `65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c` also had successful managed run `39888137638`, build job `120201087696` and deploy job `120201221917`, with matching main/root inputs and exclusions. The pre-deployment root request returned the older fifty-verse HTML. After deployment, fresh root requests without a query and with `edition=1.1.60` returned exact new HTML with HTTP 200.
 
-After committing content, inspect its actual managed build and deploy result, verify all fourteen public files against committed bytes, test internal exclusions and perform focused live reader checks. Replace this in-progress section with completed evidence and update both checkpoints in the evidence commit.
+## Public integrity and exclusions
+
+Fourteen public paths returned HTTP 200 with exact content-commit bytes, using `edition=1.1.60` checks:
+
+- `index.html` and `sources.html`.
+- `assets/app.js` and `assets/styles.css`.
+- `data/translations/1-1.json`, exactly sixty consecutive bilingual records.
+- `data/errata.json`, forty boundary overlays and the unchanged earlier 1.1.6 lexical correction.
+- The unchanged `data/quality-flags.json`.
+- All seven immutable `data/sanskrit/{1..7}.json` downloads.
+
+Selected SHA-256 evidence:
+
+| File | SHA-256 |
+|---|---|
+| index.html | `2142de741b831f44774a3f629ea9d710c0db7865ca1433cc2c9c72319198bf7b` |
+| assets/app.js | `e6cbcfc37b5cf09d4120e11bc52c41d11832263c64c89c979da72984681062df` |
+| data/translations/1-1.json | `cdc9bea1b882c0fb0b5901034a8588042a99d3c038a4f8c9cd3cdbd647aeb3a7` |
+| data/errata.json | `7a92344547cda9e4fe2fdce23f6e5d993dacea5abc88e664d1c8df0bac3d09d4` |
+
+Both edition markers are `1.1.60`. All seven raw SHA-256 hashes and the preliminary flag manifest match baseline. Seventeen original flags have corrected displays; 3,196 remain unresolved by these overlays. These figures do not establish complete textual correctness.
+
+All sixteen internal/prohibited paths returned HTTP 404:
+
+- `docs/PROJECT_STATE.md`
+- `docs/NEXT_CHAT_PROMPT.md`
+- `docs/SOURCES.md`
+- `docs/TEXTUAL_AUDIT_1_1_18_30.md`
+- `docs/TEXTUAL_AUDIT_1_1_31_40.md`
+- `docs/TEXTUAL_AUDIT_1_1_41_50.md`
+- `docs/TEXTUAL_AUDIT_1_1_51_60.md`
+- `docs/QA_REPORT.md`
+- `docs/DEPLOYMENT_VERIFICATION.md`
+- `scripts/audit-corpus.mjs`
+- `scripts/verify-publication.mjs`
+- `README.md`
+- `AGENTS.md`
+- `.nojekyll`
+- `.github/workflows/pages.yml`
+- `_config.yml`
+
+`AGENTS.md`, `.nojekyll` and the custom workflow path are also absent from the repository. Internal project records remain available in GitHub; these exclusions apply to the Pages output.
+
+## Live reader checks
+
+Observed in the live reader:
+
+- Sixty published translations and `./assets/app.js?edition=1.1.60`.
+- Verse 51 begins exactly न विरोधो बलवता क्षमो रावण तेन ते and ends after अनादृत्य… with its own 1.1.51 marker. Mārīca's actual speech, continuing-clause note, English/Hindi, context and teaching are distinct.
+- Verse 56 contains exactly its two half-verses. Its expanded original-reading disclosure includes the untouched third half-verse and stray `1151`. Corrected Sanskrit excludes that token.
+- Verse 57's romanization begins `śramaṇīṃ dharmanipuṇāmabhigaccheti rāghava`, preserving the imported lexical reading.
+- Hindi-only selection shows twelve Hindi translation blocks on the tested page, zero English translation blocks and Hindi-only connected-verse notes. The reader was restored to both languages.
+- Search for कबन्धन्नाम रूपेण returns one corrected match, 1.1.55, without repeated raw 54/55 content.
+- Verse 60 has आदितस्तद्यथावृत्तं… / सुग्रीवश्चापि… with its own marker, separate English/Hindi and annotations. The friendship pact is not moved in from 61a.
+- Verse 61 remains explicitly pending in both languages.
+- The verse-56 copy button succeeds. Its clipboard payload was read and equals `1.1.56` followed by the exact corrected Sanskrit, including its retained internal whitespace, with no `1151` or extra 57a half-verse.
+- No internal navigation or horizontal overflow was found at the tested desktop viewport. No separate mobile viewport test is claimed.
+- Final state: both languages, transliteration off, verse 60 selected at the verified reader URL above.
+
+## Validation, textual limits and next action
+
+Passed: JavaScript syntax, unchanged corpus-manifest and publication verification. All fifty earlier translation objects, thirty-one earlier errata objects, seven raw files, the flag manifest, `_config.yml` and three earlier audit ledgers match baseline. The expanded verifier checks sixty bilingual records, forty-three checked verses, forty overlays and eighty-six distinct half-verses, with exact new mappings and raw duplicate/token preservation.
+
+[The audit](./TEXTUAL_AUDIT_1_1_51_60.md) records every half-verse and the retained श्रमणीं / parallel श्रमणाम् difference. The complete numbered parallel supplies all boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages, with direct access unavailable and timeouts recorded for 56 and 59. This is not a full critical collation or independent human review. Earlier translations 1–17 retain their prior provisional status.
+
+Exactly next: **Bāla Kāṇḍa, Sarga 1, 1.1.61–1.1.70**, starting चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् from raw row 60:2. Audit the entire range first, including duplicated raw rows 63/64.
+
+This follow-up evidence commit changes only excluded internal records and both continuity checkpoints. Public runtime bytes remain identical to the verified content release. Its own managed branch result must be checked before final handoff; this record does not claim its future run was inspected.
 
 ---
 

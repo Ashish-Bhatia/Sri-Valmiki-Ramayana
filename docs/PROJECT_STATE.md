@@ -51,8 +51,14 @@ Both edition markers are **1.1.60**. `index.html`, `sources.html` and README cov
 
 Baseline main **65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c** has successful managed Pages run **39888137638**, build job **120201087696**, deploy job **120201221917**. Inspected build logs confirm `ref: main`, Jekyll `source: .`, the matching revision, `_config.yml` and explicit docs/scripts/README exclusions. There is no custom repository workflow. The public root returned HTTP 200. Administrative Pages settings were not read; main/root is verified from successful actual build inputs.
 
-The new sixty-verse content is locally validated but not yet claimed deployed in this pre-commit record. After pushing, verify the managed branch run, exact public bytes, internal 404s and focused reader behavior. Record completed evidence here and in `docs/DEPLOYMENT_VERIFICATION.md`, while updating both checkpoints in the evidence commit. Do not describe a future run as inspected.
+Content commit **97b4168e9473909cf15bc88630d2a5ce61dba791** deployed successfully in managed Pages run **40004902628**. Build job **120590218426** and deploy job **120590432606** completed successfully. The inspected build confirms `ref: main`, Jekyll `source: .`, the matching revision, `_config.yml` and explicit docs/scripts/README exclusions. Administrative settings were not read; successful actual build inputs establish main/root.
+
+Fourteen public files, including the unchanged flag manifest and seven raw downloads, returned HTTP 200 with exact content-commit bytes using `edition=1.1.60`. The root URL, both without a query and with the edition query, also returned HTTP 200 with the new committed HTML. Sixteen internal/prohibited paths returned HTTP 404, including every internal Markdown file, both audit scripts, README, AGENTS, `_config.yml`, `.nojekyll` and the custom workflow path.
+
+Live reader QA confirms sixty translations, exact 51 opening, correctly bounded 56 and 60, retained imported `1151` in the disclosure, corrected 57 romanization, Hindi-only translation and note selection, one search match for कबन्धन्नाम रूपेण at 55, and explicitly pending 61. The verse-56 clipboard payload matches its corrected Sanskrit and ID, with no stray token. No internal navigation or horizontal overflow was found at the tested desktop viewport. No separate mobile viewport test is claimed. Final reader state is both languages, transliteration off, verse 60 selected. Full evidence is in `docs/DEPLOYMENT_VERIFICATION.md`.
+
+This evidence commit updates excluded internal documents and both continuity checkpoints only. Verified public runtime bytes remain unchanged. Check its actual managed branch result before final handoff; this record does not claim its own future run was inspected.
 
 ## Exact next action
 
-Complete post-push release verification, then continue **Bāla Kāṇḍa, Sarga 1, 1.1.61–1.1.70** after a full boundary audit. Preserve everything through 60 and all raw Sanskrit. Advance both markers only with the next published translation batch.
+Check the latest managed evidence-commit build, then continue **Bāla Kāṇḍa, Sarga 1, 1.1.61–1.1.70** after a full boundary audit. Preserve everything through 60 and all raw Sanskrit. Advance both markers only with the next published translation batch.
