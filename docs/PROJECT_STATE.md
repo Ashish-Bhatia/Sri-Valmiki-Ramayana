@@ -49,8 +49,12 @@ Both edition markers are **1.1.70**. `index.html`, `sources.html` and current RE
 
 The baseline main's managed Pages run **40005649424** completed successfully. Build job **120592755827** and deploy job **120593017308** passed. Inspected logs confirm `ref: main`, Jekyll `source: .`, matching baseline revision, `_config.yml` and explicit docs/scripts/README exclusions. No custom workflow or `.nojekyll` exists. Baseline public root returned HTTP 200. Administrative settings were not read; actual build inputs establish main/root.
 
-New content publication status: **local checks pass; post-commit managed build, exact public-byte checks, exclusions and focused live reader checks are pending**. Update this section only with observed results. Full build and reader evidence belongs in `docs/DEPLOYMENT_VERIFICATION.md`.
+Content release **1c88bc2fb10d24c6c2a6f4b28813ba419407c2c3** is **verified live**. Managed Pages run **40012541012** completed successfully, with build **120616297231** and deploy **120616457642**. Inspected build inputs confirm main/root, matching revision, `_config.yml` and exclusions. Administrative settings were not read. Fourteen public files match exact committed bytes over HTTP 200; both root forms match the committed HTML. Seventeen internal/prohibited paths return HTTP 404.
+
+Focused live checks pass: exact 61 opening; correctly separated 63/64; visible original-reading disclosure; corrected 64/65 IAST; retained 66 reading and variant disclosure; Hindi-only translation and annotation mode; unique corrected search; exact verse-64 clipboard payload; pending 71; keyboard focus and status-region attributes. No internal navigation or desktop horizontal overflow at 1348 CSS pixels. No site-origin errors appeared among 26 inspected messages; those messages originated in the browser extension. No separate mobile viewport or actual screen-reader speech test is claimed. Final reader state: both languages, transliteration off, search empty, verse 70 selected.
+
+Full evidence is in `docs/DEPLOYMENT_VERIFICATION.md`. This follow-up evidence commit changes excluded internal records and both checkpoints only. Public runtime bytes remain identical. Check its resulting managed branch run before final handoff; this record does not claim its own future build was inspected.
 
 ## Exact next action
 
-Finish post-commit verification for the seventy-verse release, then continue **Bāla Kāṇḍa, Sarga 1, 1.1.71–1.1.80**. Begin 71 with **स च सर्वान्समानीय वानरान्वानरर्षभः**. Audit duplicated raw 76/77 and their continuing clauses first. Preserve all work through 70 and the raw corpus.
+Check the latest managed evidence-commit build, then continue **Bāla Kāṇḍa, Sarga 1, 1.1.71–1.1.80**. Begin 71 with **स च सर्वान्समानीय वानरान्वानरर्षभः**. Audit duplicated raw 76/77 and their continuing clauses first. Preserve all work through 70 and the raw corpus.

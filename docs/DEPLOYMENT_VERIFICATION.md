@@ -1,10 +1,76 @@
-# Publication verification in progress: 1.1.61–1.1.70
+# Verified publication: Bāla Kāṇḍa 1.1.61–1.1.70
 
 Date: 24 October 2026, Asia/Kolkata.
+Website: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
+Verified reader: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/?k=1&s=1&v=70
 
-Baseline main `58f3e1da511a2973cb9d3c8fdb3ec0da9d0089fd` has successful managed run `40005649424`, build job `120592755827`, deploy job `120593017308`. Inspected logs confirm `ref: main`, `source: .`, matching baseline revision, `_config.yml` and explicit `/docs`, `/scripts`, `/README.md` exclusions. The public root returned HTTP 200. Administrative Pages settings were not read; observed successful build inputs establish main/root. There are no repository custom workflows and `.nojekyll` is absent.
+## Release and actual managed build
 
-The seventy-verse content passes local syntax, corpus, publication and baseline preservation checks. Post-commit managed-build completion, exact public-file comparisons, exclusion checks and focused reader checks remain pending. Do not treat preparation as publication evidence.
+- Content commit: [1c88bc2fb10d24c6c2a6f4b28813ba419407c2c3](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/commit/1c88bc2fb10d24c6c2a6f4b28813ba419407c2c3). Its Git tree is `1b82d15818c7f29fb9ad1763f5122186e940c136`, identical to the fully checked local content tree. The connected GitHub tools published the atomic commit with an expected-head check. A local Git push lacked credentials and did not change remote main; no credential, permission or workflow was changed.
+- Managed Pages run: [40012541012](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/40012541012), **completed / success**.
+- Build job `120616297231` and deploy job `120616457642` completed successfully. Workflow path: `dynamic/pages/pages-build-deployment`, event `dynamic`.
+- Inspected logs explicitly check out `ref: main`, run Jekyll with `source: .`, record `build_revision: 1c88bc2fb10d24c6c2a6f4b28813ba419407c2c3`, load `/github/workspace/./_config.yml`, and report `EntryFilter: excluded /scripts`, `/README.md` and `/docs`.
+- Actual successful build inputs establish **main / (root)**. Administrative Pages settings were not read. No repository `.github/workflows` directory or custom workflow exists; `.nojekyll` remains absent. `_config.yml` is byte-identical to baseline.
+- Latest-main baseline before editing, `58f3e1da511a2973cb9d3c8fdb3ec0da9d0089fd`, also has successful managed run `40005649424`, build `120592755827` and deploy `120593017308`, with inspected main/root inputs, matching revision and exclusions. Its public root returned HTTP 200.
+
+## Exact public bytes and exclusions
+
+Fourteen public files returned **HTTP 200 with bytes identical to the content commit**, using `edition=1.1.70`: `index.html`, `sources.html`, `assets/app.js`, `assets/styles.css`, `data/translations/1-1.json`, `data/errata.json`, `data/quality-flags.json` and all seven `data/sanskrit/{1..7}.json` downloads. Both plain root and edition-query root also returned HTTP 200 with the exact committed HTML.
+
+| File | SHA-256 |
+|---|---|
+| index.html | `23dc4bbb3446839e8f9dba87dbdbda3cf302fe70b9f1f474173f6655ad58f849` |
+| assets/app.js | `5466c13b7ca0e2c82c72735f971eca4a276f2c637706998779e80ca3efab2e6e` |
+| data/translations/1-1.json | `7d224096a2592351dcd1a4347f914781d94cc844daa4194b7b5daadb17466e30` |
+| data/errata.json | `a898bec67aa905845267820ac1d1895ad300b684ae1f44a717b256c1257e39bc` |
+
+Both edition markers are **1.1.70**. Public translations contain seventy consecutive bilingual records. The fifty display overlays comprise forty-four boundary restorations and six display normalizations, plus the separate earlier lexical correction. Raw Sanskrit and the preliminary flag manifest retain their baseline hashes. Nineteen baseline flags have corrected displays; 3,194 remain unresolved by the overlays.
+
+All **seventeen** internal/prohibited paths returned **HTTP 404**:
+
+- `docs/DEPLOYMENT_VERIFICATION.md`
+- `docs/NEXT_CHAT_PROMPT.md`
+- `docs/PROJECT_STATE.md`
+- `docs/QA_REPORT.md`
+- `docs/SOURCES.md`
+- `docs/TEXTUAL_AUDIT_1_1_18_30.md`
+- `docs/TEXTUAL_AUDIT_1_1_31_40.md`
+- `docs/TEXTUAL_AUDIT_1_1_41_50.md`
+- `docs/TEXTUAL_AUDIT_1_1_51_60.md`
+- `docs/TEXTUAL_AUDIT_1_1_61_70.md`
+- `scripts/audit-corpus.mjs`
+- `scripts/verify-publication.mjs`
+- `README.md`
+- `AGENTS.md`
+- `.nojekyll`
+- `.github/workflows/pages.yml`
+- `_config.yml`
+
+All internal Markdown records, both local check scripts and README are excluded from Pages. AGENTS, `.nojekyll` and custom workflow paths are also absent from the repository. These exclusions concern Pages output; the internal records remain available in the public GitHub repository.
+
+## Focused live reader checks
+
+- Live DOM showed **70** published translations and script `./assets/app.js?edition=1.1.70`. Verses 61–70 had exactly the committed corrected Sanskrit, their own numeric addresses and the independently authored English/Hindi. Verses 71 and 72 remained explicitly pending.
+- Verse **61 begins चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्**. ततो वानरराजेन… is its second half. Both continuing fragments and bilingual connected-verse notes were visible. Connected notes, modern context and teachings use separate reader sections.
+- Corrected 63 and 64 appear as separate verses. The expanded original disclosure at 64 was visibly open and retained the unchanged merged import, including its 63 marker. The duplicate raw content is not repeated in the corrected sequence.
+- The transliteration toggle displayed corrected 64 and 65 IAST, including `rāghavapratyayārthaṃ`, `dundubheḥ` and `pādāṅguṣṭhena`. Verse 66 retained **तथा** and disclosed the distinct indexed IIT **तदा** witness. The new correctly bounded rows are labelled normalization overlays rather than additional boundary defects in their textual notes.
+- Hindi-only selection produced **12 Hindi translation blocks, zero English translation blocks**, and Hindi-only connected notes, modern context and teachings. This includes the pending blocks for 71–72. Both languages were restored afterward.
+- Search for **राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्** returned exactly **one** corrected record, 1.1.64, with no duplicated raw 63/64 result.
+- The verse-64 copy control succeeded. Read clipboard text matched **exactly** `1.1.64`, newline, and its two corrected Sanskrit half-verses with marker. There was no extra raw 63 half-verse. The feedback region had `role="status"`, `aria-live="polite"` and “Sanskrit verse copied”. Actual screen-reader speech was not tested.
+- Keyboard Tab from the verse selector moved focus to **Copy verse 1.1.61**, with visible focus outline. This is a focused keyboard check, not a full accessibility audit.
+- No internal navigation links or horizontal overflow at the tested **1348 CSS-pixel desktop width**. Screenshot review confirmed the visible Sanskrit and distinct note layout. No separate mobile viewport test is claimed.
+- All **26** inspected warning/error messages came from the browser extension's metadata script. No site-origin warning/error appeared in that inspected log set. This does not claim control over browser-extension internals.
+- Final state: both languages, transliteration off, search empty, verse **70** selected at the verified reader URL above.
+
+## Preservation, textual limits and next step
+
+Passed: JavaScript syntax, unchanged corpus-manifest check, expanded publication verification, explicit baseline comparisons and an independent Devanāgarī-to-IAST character-mapping check. All **60** prior translation objects, **41** prior errata objects, seven raw files, the quality manifest, exclusions and four previous audit ledgers match baseline. Runtime logic changed only at its edition marker.
+
+[The new audit](./TEXTUAL_AUDIT_1_1_61_70.md) records all twenty distinct half-verses, actual source access and lexical/typographic differences. The complete numbered parallel supplies every boundary. IIT evidence was indexed, with direct access unavailable; no full fresh IIT collation or independent human reviewer is claimed. Earlier 1–17 translations retain their provisional status. The documented श्रमणीं in 57a and वने in 48a remain unchanged.
+
+Exactly next: **1.1.71–1.1.80**, beginning **स च सर्वान्समानीय वानरान्वानरर्षभः**. Audit duplicated raw rows **76/77**, their continuing clauses and all boundaries before translation.
+
+This evidence update changes excluded internal records and both continuity checkpoints only. Verified public runtime bytes remain unchanged. Check its resulting managed branch run before final handoff; this document does not claim to have inspected its own future run.
 
 ---
 
