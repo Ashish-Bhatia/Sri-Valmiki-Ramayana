@@ -603,5 +603,213 @@
       }
     ],
     "latin": "sahāyaṃ varayāmāsa mārīcaṃ nāma rākṣasam | vāryamāṇassubahuśo mārīcena sa rāvaṇaḥ ||"
+  },
+  "1.1.51": {
+    "text": "न विरोधो बलवता क्षमो रावण तेन ते ।\nअनादृत्य तु तद्वाक्यं रावणः कालचोदितः ।।1.1.51।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.50",
+        "segment": 2
+      },
+      {
+        "row": "1.1.51",
+        "segment": 1
+      }
+    ],
+    "latin": "na virodho balavatā kṣamo rāvaṇa tena te | anādṛtya tu tadvākyaṃ rāvaṇaḥ kālacoditaḥ ||"
+  },
+  "1.1.52": {
+    "text": "जगाम सह मारीचस्तस्याश्रमपदं तदा ।\nतेन मायाविना दूरमपवाह्य नृपात्मजौ ।।1.1.52।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.51",
+        "segment": 2
+      },
+      {
+        "row": "1.1.52",
+        "segment": 1
+      }
+    ],
+    "latin": "jagāma saha mārīcastasyāśramapadaṃ tadā | tena māyāvinā dūramapavāhya nṛpātmajau ||"
+  },
+  "1.1.53": {
+    "text": "जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम् ।\nगृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् ।।1.1.53।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.52",
+        "segment": 2
+      },
+      {
+        "row": "1.1.53",
+        "segment": 1
+      }
+    ],
+    "latin": "jahāra bhāryāṃ rāmasya gṛdhraṃ hatvā jaṭāyuṣam | gṛdhraṃ ca nihataṃ dṛṣṭvā hṛtāṃ śrutvā ca maithilīm ||"
+  },
+  "1.1.54": {
+    "text": "राघवश्शोकसन्तप्तो विललापाकुलेन्द्रियः ।\nततस्तेनैव शोकेन गृध्रं दग्ध्वा जटायुषम् ।।1.1.54।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate. The repeated opening in imported rows 54 and 55 belongs to the second half of 54.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.53",
+        "segment": 2
+      },
+      {
+        "row": "1.1.54",
+        "segment": 1
+      }
+    ],
+    "latin": "rāghavaśśokasantapto vilalāpākulendriyaḥ | tatastenaiva śokena gṛdhraṃ dagdhvā jaṭāyuṣam ||"
+  },
+  "1.1.55": {
+    "text": "मार्गमाणो वने सीतां राक्षसं सन्ददर्श ह ।\nकबन्धन्नाम रूपेण विकृतं घोरदर्शनम् ।।1.1.55।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate. Imported rows 54 and 55 duplicate one block; its two remaining half-verses are displayed once here.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.54",
+        "segment": 2
+      },
+      {
+        "row": "1.1.54",
+        "segment": 3
+      }
+    ],
+    "latin": "mārgamāṇo vane sītāṃ rākṣasaṃ sandadarśa ha | kabandhannāma rūpeṇa vikṛtaṃ ghoradarśanam ||"
+  },
+  "1.1.56": {
+    "text": "तं निहत्य महाबाहुर्ददाह स्वर्गतश्च  सः ।\nस चास्य कथयामास शबरीं धर्मचारिणीम् ।।1.1.56।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate. The following instruction belongs to 57a. The stray numeric token 1151 is not Sanskrit verse text; it remains in the imported-reading disclosure.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.56",
+        "segment": 1
+      },
+      {
+        "row": "1.1.56",
+        "segment": 2
+      }
+    ],
+    "latin": "taṃ nihatya mahābāhurdadāha svargataśca saḥ | sa cāsya kathayāmāsa śabarīṃ dharmacāriṇīm ||"
+  },
+  "1.1.57": {
+    "text": "श्रमणीं धर्मनिपुणामभिगच्छेति राघव ।\nसोऽभ्यगच्छन्महातेजाश्शबरीं शत्रुसूदनः ।।1.1.57।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate. The instruction continues from 56. The imported श्रमणीं is retained; the numbered parallel reads श्रमणाम्. Both describe a woman ascetic.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.56",
+        "segment": 3
+      },
+      {
+        "row": "1.1.57",
+        "segment": 1
+      }
+    ],
+    "latin": "śramaṇīṃ dharmanipuṇāmabhigaccheti rāghava | so'bhyagacchanmahātejāśśabarīṃ śatrusūdanaḥ ||",
+    "lexicalVariants": [
+      {
+        "location": "57a",
+        "importedReading": "श्रमणीं",
+        "parallelReading": "श्रमणाम्",
+        "decision": "Retain the imported reading; both denote a woman ascetic."
+      }
+    ]
+  },
+  "1.1.58": {
+    "text": "शबर्या पूजितस्सम्यग्रामो दशरथात्मजः ।\nपम्पातीरे हनुमता सङ्गतो वानरेण ह ।।1.1.58।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.57",
+        "segment": 2
+      },
+      {
+        "row": "1.1.58",
+        "segment": 1
+      }
+    ],
+    "latin": "śabaryā pūjitassamyagrāmo daśarathātmajaḥ | pampātīre hanumatā saṅgato vānareṇa ha ||"
+  },
+  "1.1.59": {
+    "text": "हनुमद्वचनाच्चैव सुग्रीवेण समागतः ।\nसुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः ।।1.1.59।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.58",
+        "segment": 2
+      },
+      {
+        "row": "1.1.59",
+        "segment": 1
+      }
+    ],
+    "latin": "hanumadvacanāccaiva sugrīveṇa samāgataḥ | sugrīvāya ca tatsarvaṃ śaṃsadrāmo mahābalaḥ ||"
+  },
+  "1.1.60": {
+    "text": "आदितस्तद्यथावृत्तं सीतायाश्च विशेषतः ।\nसुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः ।।1.1.60।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported half-verses. The adjacent numbered verses remain separate. The act of making friendship belongs to 61a, beyond this verse.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.59",
+        "segment": 2
+      },
+      {
+        "row": "1.1.60",
+        "segment": 1
+      }
+    ],
+    "latin": "āditastadyathāvṛttaṃ sītāyāśca viśeṣataḥ | sugrīvaścāpi tatsarvaṃ śrutvā rāmasya vānaraḥ ||"
   }
 }

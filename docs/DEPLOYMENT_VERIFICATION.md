@@ -1,3 +1,17 @@
+# Release verification in progress: Bāla Kāṇḍa 1.1.51–1.1.60
+
+Date: 23 October 2026, Asia/Kolkata.
+
+Sixty translations and both `1.1.60` cache markers pass local syntax, corpus-manifest, publication and baseline preservation checks. This pre-commit entry does not claim that the new release is deployed.
+
+The latest-main baseline `65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c` has successful managed Pages run [39888137638](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39888137638). Build job `120201087696` and deploy job `120201221917` succeeded. Inspected logs confirm `ref: main`, Jekyll `source: .`, the matching revision, `_config.yml`, and explicit docs/scripts/README exclusions. The public root returned HTTP 200. Administrative settings were not read. No custom workflow is present.
+
+After committing content, inspect its actual managed build and deploy result, verify all fourteen public files against committed bytes, test internal exclusions and perform focused live reader checks. Replace this in-progress section with completed evidence and update both checkpoints in the evidence commit.
+
+---
+
+## Earlier verification record: coverage through 1.1.50
+
 # Verified publication: Bāla Kāṇḍa 1.1.41–1.1.50
 
 Date: 23 October 2026, Asia/Kolkata.

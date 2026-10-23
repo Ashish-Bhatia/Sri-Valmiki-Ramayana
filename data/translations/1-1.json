@@ -1,8 +1,8 @@
 {
   "kanda": 1,
   "sarga": 1,
-  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–50, with source-access limitations recorded per verse.",
-  "sourceVerseIds": "1.1.1–1.1.50",
+  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–60, with source-access limitations recorded per verse.",
+  "sourceVerseIds": "1.1.1–1.1.60",
   "verses": {
     "1": {
       "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
@@ -856,6 +856,234 @@
           "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
         ],
         "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "51": {
+      "en": "“Rāvaṇa, hostility with that mighty one [Rāma] is not advisable for you.” But Rāvaṇa, driven by fate and disregarding those words...",
+      "hi": "“रावण, उन बलवान [राम] से वैर करना तुम्हारे लिए उचित नहीं है।” किन्तु काल से प्रेरित रावण, उस बात की अवहेलना करके...",
+      "connection": {
+        "en": "Nārada narrates Mārīca’s warning, continuing 1.1.50b. The quotation ends in this verse’s first half. Rāvaṇa’s action begins in the second half and reaches its verb in 1.1.52a. कालचोदितः is rendered “driven by fate”; the literal expression invokes Time.",
+        "hi": "नारद यहाँ मारीच की चेतावनी बताते हैं, जो 1.1.50 के दूसरे अर्धश्लोक से जुड़ी है। उद्धृत चेतावनी इस श्लोक के पहले अर्धश्लोक में समाप्त होती है। दूसरे में रावण की क्रिया का आरम्भ होता है, जिसकी मुख्य क्रिया 1.1.52 के पहले अर्धश्लोक में आती है। कालचोदितः का अर्थ काल से प्रेरित रखा गया है।"
+      },
+      "context": {
+        "en": "Rāvaṇa dismisses a warning from the ally he approached. In a present-day decision, examine the reason for advice before rejecting it because it obstructs your plan.",
+        "hi": "रावण उसी सहायक की चेतावनी की अवहेलना करता है जिसके पास वह गया था। आज कोई सलाह आपकी योजना में बाधा डाले, तो उसे अस्वीकार करने से पहले उसका कारण समझें।"
+      },
+      "teaching": {
+        "en": "Consider a warning on its merits before acting.",
+        "hi": "कदम उठाने से पहले चेतावनी के कारणों पर विचार करें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "52": {
+      "en": "...then went with Mārīca to his [Rāma’s] hermitage. Having drawn the two princes far away through that master of illusion [Mārīca]...",
+      "hi": "...तब मारीच के साथ उनके [राम के] आश्रम में गया। उस मायावी [मारीच] के द्वारा दोनों राजकुमारों को दूर हटाकर...",
+      "connection": {
+        "en": "The opening completes Rāvaṇa’s action from 1.1.51b. The two princes are Rāma and Lakṣmaṇa. The second half begins the means by which the abduction in 1.1.53a occurs. This verse does not describe the form of Mārīca’s illusion.",
+        "hi": "आरम्भ 1.1.51 के दूसरे अर्धश्लोक से चली रावण की क्रिया पूरी करता है। दोनों राजकुमार राम और लक्ष्मण हैं। दूसरे अर्धश्लोक में 1.1.53 के पहले अर्धश्लोक में होने वाले अपहरण की युक्ति शुरू होती है। यहाँ मारीच की माया का रूप नहीं बताया गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "53": {
+      "en": "...[Rāvaṇa] abducted Rāma’s wife after slaying the vulture Jaṭāyus. On seeing the vulture struck down and hearing that Maithilī had been carried away...",
+      "hi": "...[रावण] ने गृध्र जटायु का वध करके राम की पत्नी का अपहरण कर लिया। गृध्र को मारा हुआ देखकर और यह सुनकर कि मैथिली का हरण हो गया है...",
+      "connection": {
+        "en": "The first half completes 1.1.52b. The second turns to Rāma, whose grief is stated in 1.1.54a. Maithilī is Sītā. This compressed verse does not specify who reports the abduction or give Jaṭāyus’s final words; no such dialogue is added.",
+        "hi": "पहला अर्धश्लोक 1.1.52 के दूसरे अर्धश्लोक का वाक्य पूरा करता है। दूसरे में राम की ओर प्रसंग मुड़ता है, जिनका शोक 1.1.54 के पहले अर्धश्लोक में आता है। मैथिली सीता हैं। यह संक्षिप्त श्लोक नहीं बताता कि अपहरण की सूचना किसने दी, न इसमें जटायु के अन्तिम शब्द हैं। ऐसा कोई संवाद नहीं जोड़ा गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "54": {
+      "en": "Rāghava, his senses distraught and burning with grief, lamented. Then, still in that same grief, after cremating the vulture Jaṭāyus...",
+      "hi": "शोक से संतप्त और व्याकुल इन्द्रियों वाले राघव विलाप करने लगे। फिर उसी शोक में गृध्र जटायु का दाह-संस्कार करके...",
+      "connection": {
+        "en": "Rāghava is Rāma. The opening completes the response begun in 1.1.53b. The cremation clause in the second half continues into Rāma’s search and encounter in 1.1.55. The duplicate raw 54/55 block is not repeated in the corrected sequence.",
+        "hi": "राघव राम हैं। आरम्भ 1.1.53 के दूसरे अर्धश्लोक से शुरू हुई प्रतिक्रिया पूरी करता है। दूसरे अर्धश्लोक का दाह-संस्कार वाला वाक्य 1.1.55 में राम की खोज और भेंट तक चलता है। मूल आयातित 54 और 55 की दोहराई सामग्री संशोधित क्रम में दोबारा नहीं दी गई है।"
+      },
+      "context": {
+        "en": "Rāma’s grief and his care for Jaṭāyus occur together. A present-day reflection is to allow room for mourning while attending to the responsibilities a death brings.",
+        "hi": "राम का शोक और जटायु के लिए किया गया संस्कार साथ आते हैं। आज के संदर्भ में इससे मृत्यु से जुड़े दायित्व निभाते समय शोक के लिए भी स्थान रखने का विचार मिलता है।"
+      },
+      "teaching": {
+        "en": "Attend to another’s dignity even while grieving.",
+        "hi": "अपने शोक के बीच भी दूसरे की गरिमा का ध्यान रखें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "55": {
+      "en": "...while searching for Sītā in the forest, [Rāma] saw a rākṣasa named Kabandha, misshapen in body and terrifying to behold.",
+      "hi": "...वन में सीता को खोजते हुए [राम] ने कबन्ध नाम के राक्षस को देखा, जो रूप से विकृत और देखने में भयानक था।",
+      "connection": {
+        "en": "This completes the continuing clause in 1.1.54b. The two half-verses occur in both imported rows 54 and 55; one source occurrence supplies this numbered verse. The description of Kabandha is retained without turning bodily difference into a general moral judgment.",
+        "hi": "यह 1.1.54 के दूसरे अर्धश्लोक से चले वाक्य को पूरा करता है। ये दोनों अर्धश्लोक आयातित पंक्तियों 54 और 55 में दोहराए गए हैं। उनमें से एक स्थान से इस क्रमांकित श्लोक का पाठ लिया गया है। कबन्ध का वर्णन रखा गया है। शारीरिक भिन्नता के आधार पर कोई सामान्य नैतिक निष्कर्ष नहीं जोड़ा गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "56": {
+      "en": "Having slain him, mighty-armed [Rāma] cremated him, and he [Kabandha] went to heaven. He told [Rāma] of Śabarī, who practised dharma...",
+      "hi": "उसे मारकर महाबाहु [राम] ने उसका दाह-संस्कार किया और वह [कबन्ध] स्वर्ग गया। उसने [राम] को धर्म का आचरण करने वाली शबरी के विषय में बताया...",
+      "connection": {
+        "en": "The pronouns change referent: Rāma slays and cremates Kabandha; Kabandha goes to heaven and speaks to Rāma. His instruction about Śabarī continues in 1.1.57a. The heavenly event is part of the epic narrative. The imported token 1151 is not part of this verse.",
+        "hi": "सर्वनामों का संकेत बदलता है। राम कबन्ध का वध और दाह-संस्कार करते हैं। कबन्ध स्वर्ग जाता है और राम से बोलता है। शबरी के विषय में उसका निर्देश 1.1.57 के पहले अर्धश्लोक में पूरा होता है। स्वर्ग जाने की घटना महाकाव्य के कथानक का भाग है। आयातित 1151 अंक इस श्लोक का भाग नहीं है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "57": {
+      "en": "“O Rāghava, go to [her], the woman ascetic well versed in dharma.” That radiant destroyer of foes [Rāma] went to Śabarī.",
+      "hi": "“हे राघव, धर्म में निपुण [उस] तपस्विनी के पास जाओ।” वे महातेजस्वी, शत्रुओं का नाश करने वाले [राम] शबरी के पास गए।",
+      "connection": {
+        "en": "Kabandha’s instruction in the first half completes his words in 1.1.56b. The bracketed pronoun refers to Śabarī. Nārada resumes the account of Rāma’s action in the second half. The imported श्रमणीं is retained; the numbered parallel has श्रमणाम्. Both denote a woman ascetic, without establishing a sectarian affiliation here.",
+        "hi": "पहले अर्धश्लोक में कबन्ध का निर्देश 1.1.56 के दूसरे अर्धश्लोक के कथन को पूरा करता है। कोष्ठक का सर्वनाम शबरी के लिए है। दूसरे अर्धश्लोक में नारद फिर राम की क्रिया बताते हैं। आयातित श्रमणीं रखा गया है। क्रमांकित समानान्तर पाठ में श्रमणाम् है। दोनों का अर्थ तपस्विनी है। यहाँ किसी सम्प्रदाय से उनका सम्बन्ध निश्चित नहीं किया गया है।"
+      },
+      "context": {
+        "en": "Śabarī is introduced through her practice and knowledge of dharma. In present-day learning, a person’s demonstrated understanding is a reason to listen to them.",
+        "hi": "शबरी का परिचय उनके धर्माचरण और धर्म के ज्ञान से दिया गया है। आज सीखने के संदर्भ में किसी व्यक्ति की प्रमाणित समझ उसकी बात सुनने का आधार है।"
+      },
+      "teaching": {
+        "en": "Recognise knowledge and practice when seeking guidance.",
+        "hi": "मार्गदर्शन लेते समय ज्ञान और आचरण को पहचानें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "58": {
+      "en": "Rāma, Daśaratha’s son, duly honoured by Śabarī, met the vānara Hanumān on the bank of Pampā.",
+      "hi": "शबरी द्वारा यथोचित सम्मान पाए हुए दशरथपुत्र राम पम्पा के तट पर वानर हनुमान से मिले।",
+      "connection": {
+        "en": "Śabarī’s reception belongs to this verse’s first half; the meeting with Hanumān belongs to its second. Vānara is retained as the epic’s designation. No account of fruit, tasting, lineage or a further conversation is supplied by this verse.",
+        "hi": "शबरी का सत्कार इस श्लोक के पहले और हनुमान से भेंट दूसरे अर्धश्लोक में है। वानर महाकाव्य का अपना पद है। इस श्लोक में फल, उन्हें चखने, वंश या किसी अतिरिक्त बातचीत का विवरण नहीं है।"
+      },
+      "context": {
+        "en": "The account acknowledges Śabarī’s welcome before moving to the next encounter. A present-day reflection is to recognise the care offered by a host.",
+        "hi": "कथा अगली भेंट की ओर बढ़ने से पहले शबरी के सत्कार का उल्लेख करती है। आज के संदर्भ में इससे अपने आतिथेय की देखभाल को सम्मान देने का विचार मिलता है।"
+      },
+      "teaching": {
+        "en": "Acknowledge hospitality received along the way.",
+        "hi": "यात्रा में मिले आतिथ्य का आदर करें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "59": {
+      "en": "At Hanumān’s suggestion, [Rāma] also met Sugrīva. Mighty Rāma related all of it to Sugrīva...",
+      "hi": "हनुमान के कहने पर [राम] सुग्रीव से भी मिले। महाबली राम ने सुग्रीव को वह सब बताया...",
+      "connection": {
+        "en": "The first half follows the meeting with Hanumān in 1.1.58b. The account Rāma relates continues in 1.1.60a, which specifies its order and particular concern with Sītā. The pact of friendship is not made until 1.1.61a.",
+        "hi": "पहला अर्धश्लोक 1.1.58 के दूसरे अर्धश्लोक में हनुमान से हुई भेंट के बाद आता है। राम का वृत्तान्त 1.1.60 के पहले अर्धश्लोक में आगे चलता है, जहाँ उसका क्रम और विशेष रूप से सीता का विषय आता है। मित्रता का बन्धन 1.1.61 के पहले अर्धश्लोक में बनता है।"
+      },
+      "context": {
+        "en": "Hanumān enables an introduction, and Rāma explains his situation. In present-day cooperation, an introduction is a starting point for a clear conversation.",
+        "hi": "हनुमान भेंट कराते हैं और राम अपनी स्थिति बताते हैं। आज सहयोग के संदर्भ में परिचय स्पष्ट बातचीत का आरम्भ होता है।"
+      },
+      "teaching": {
+        "en": "Explain your situation clearly when beginning to work with someone.",
+        "hi": "किसी के साथ काम शुरू करते समय अपनी स्थिति स्पष्ट बताएँ।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "60": {
+      "en": "...from the beginning, as it had happened, especially [what had happened] to Sītā. The vānara Sugrīva too, having heard Rāma’s entire account...",
+      "hi": "...आरम्भ से, जैसा वह घटा था, और विशेष रूप से सीता के विषय में। वानर सुग्रीव भी राम की वह सारी बात सुनकर...",
+      "connection": {
+        "en": "The first half completes the narration begun in 1.1.59b. The bracketed English words supply the understood event, without adding a new one. The second half starts Sugrīva’s response, whose verb and fire-witnessed friendship occur in 1.1.61a. They are not moved into this verse.",
+        "hi": "पहला अर्धश्लोक 1.1.59 के दूसरे अर्धश्लोक से शुरू हुआ वर्णन पूरा करता है। अंग्रेज़ी के कोष्ठकों में निहित घटना-संबंध स्पष्ट किया गया है, कोई नई घटना नहीं जोड़ी गई है। दूसरे अर्धश्लोक में सुग्रीव की प्रतिक्रिया शुरू होती है। उसकी मुख्य क्रिया और अग्नि को साक्षी बनाकर की गई मित्रता 1.1.61 के पहले अर्धश्लोक में हैं। उन्हें इस श्लोक में नहीं लाया गया है।"
+      },
+      "context": {
+        "en": "Sugrīva hears Rāma’s account before his response is narrated. In a present-day conversation, allow the other person to explain their experience before deciding how to respond.",
+        "hi": "सुग्रीव की प्रतिक्रिया बताने से पहले राम की बात सुनने का उल्लेख है। आज बातचीत में अपना उत्तर तय करने से पहले दूसरे व्यक्ति को अपना अनुभव बताने का समय दें।"
+      },
+      "teaching": {
+        "en": "Listen to another person’s account before choosing your response.",
+        "hi": "अपनी प्रतिक्रिया चुनने से पहले दूसरे की पूरी बात सुनें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
       }
     }
   }

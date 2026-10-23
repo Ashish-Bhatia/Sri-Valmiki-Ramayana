@@ -50,7 +50,7 @@ Clone the repository and run `node scripts/audit-corpus.mjs --check`. To recompu
 - Before declaring a sarga complete, verify sequential addresses, exact Sanskrit segmentation, parallel same-recension witness, English/Hindi translations, references and teaching vs interpretation classification.
 
 ## Priority
-**Next: Bāla Kāṇḍa Sarga 1, verses 51–60**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
+**Next: Bāla Kāṇḍa Sarga 1, verses 61–70**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
 
 ## Completed boundary audit: 1.1.18–1.1.30
 
@@ -79,3 +79,15 @@ Cumulative totals are fifty consecutive English/Hindi records, thirty-three boun
 Passed: `node --check assets/app.js`, `node scripts/audit-corpus.mjs --check` and `node scripts/verify-publication.mjs`. The publication verifier also checks the exact new alignment map, no translation of 51, the retained वने reading and matching `1.1.50` script/data cache markers. All forty prior translation objects and twenty-two prior errata objects match baseline `27a4232240a5e22f3bcbbedd33f676441e92b126`. Seven raw files, the flag manifest, `_config.yml` and the two earlier audit ledgers are byte-identical.
 
 Exactly next: **1.1.51–1.1.60**, beginning न विरोधो बलवता क्षमो रावण तेन ते… in 51a. Imported rows again cross boundaries. Audit duplicate 54/55 blocks and the stray `1151` token in row 56 before translating. Publication evidence is maintained in `docs/DEPLOYMENT_VERIFICATION.md`.
+
+## Completed boundary audit: 1.1.51–1.1.60
+
+Numbered boundaries were established before translation. [The new ledger](./TEXTUAL_AUDIT_1_1_51_60.md) records all twenty unique imported half-verses. Ten new overlays correct all ten displays. Raw 54/55 are identical merged blocks and remain unchanged. Their content is presented once. Raw 56 retains its `1151` token, while the corrected Sanskrit excludes it and places the preceding instruction in 57a. The imported श्रमणीं remains explicit against the parallel's श्रमणाम्.
+
+The complete numbered parallel supplies every boundary. Indexed IIT base-Sanskrit passages corroborate selected 50–55 and 57–60 passages. Direct IIT access failed, including timeouts for 56 and 59. No full fresh IIT collation or independent human reviewer is claimed.
+
+Cumulative totals: sixty consecutive English/Hindi records, forty-three boundary-checked verses, forty boundary overlays and eighty-six unique half-verses across 18–60. The earlier 1.1.6 lexical correction is separate. Two additional baseline flags, 54 and 55, now have corrected displays. Seventeen baseline flags are resolved in the display and 3,196 remain unresolved by these overlays. Eight unflagged defects in 51–53 and 56–60 are corrected. Raw counts and the preliminary 3,213-flag manifest remain unchanged.
+
+Passed: JavaScript syntax, corpus-manifest and publication checks. All fifty earlier translation objects, thirty-one earlier correction objects, seven raw files, the flag manifest, `_config.yml` and three earlier audit ledgers match baseline `65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c`. Both edition markers are `1.1.60`.
+
+Exactly next: **1.1.61–1.1.70**, beginning चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् from raw row 60. Audit the complete range, including duplicated rows 63/64, before translating. Deployment and focused reader evidence are maintained in `docs/DEPLOYMENT_VERIFICATION.md`.

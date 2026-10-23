@@ -7,9 +7,9 @@ A static, mobile-first reader preserving the **seven kāṇḍas → sargas → 
 
 ### Current scope (23 October 2026)
 - **Sanskrit:** 23,291 imported Sanskrit verse records from a seven-kāṇḍa digitized corpus, arranged in 648 sargas. Imported does not mean critically proofread.
-- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.50 currently published in English and Hindi, with selected modern reflections/teachings.
+- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.60 currently published in English and Hindi, with selected modern reflections/teachings.
 - **Structural audit:** 3,213 of 23,291 digital verse records have been flagged for review due to numbering markers, multi-verse mergers or observed source overruns. See [QA report](./docs/QA_REPORT.md). A flag is not necessarily a confirmed textual error.
-- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Thirty source-preserving overlays now correct verse boundaries in 1.1.18–22, 1.1.25–45 and 1.1.47–50. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
+- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Forty source-preserving overlays now correct verse boundaries in 1.1.18–22, 1.1.25–45 and 1.1.47–60. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
 - **Architecture:** Plain static HTML, CSS and JavaScript. No build system, cloud database or custom GitHub Actions workflow.
 
 ### GitHub Pages, WITHOUT a custom GitHub Actions workflow
@@ -31,7 +31,7 @@ assets/app.js              Navigation and verse reader
 data/sanskrit/1.json       Bāla Kāṇḍa source transcription
 ...
 data/sanskrit/7.json       Uttara Kāṇḍa source transcription
-data/translations/1-1.json Independently authored English/Hindi, verses 1–50
+data/translations/1-1.json Independently authored English/Hindi, verses 1–60
 data/errata.json           Transparent corrected-text overlay
 data/quality-flags.json    Machine-audit flags for source segmentation
 docs/QA_REPORT.md          Preliminary source quality report
@@ -73,10 +73,18 @@ Ten new English/Hindi translations and ten boundary overlays extend coverage thr
 
 The original flag manifest remains unchanged. Thirteen baseline flags now have corrected displays; 3,200 remain unresolved by the boundary overlays. Seven additional unflagged defects in 32–38 have been corrected. Run both audit scripts and the JavaScript syntax check. Exactly next: **1.1.41–1.1.50**, after verifying the main/root branch deployment and internal-file exclusions.
 
-### Latest audited batch: 1.1.41–1.1.50
+### Earlier audited batch: 1.1.41–1.1.50
 
 Ten independently authored English/Hindi translations and nine boundary overlays extend coverage through 1.1.50. Verse 46 already has correct boundaries. The [new alignment ledger](./docs/TEXTUAL_AUDIT_1_1_41_50.md) records all twenty hemistichs and preserves the imported वने reading in 48a against the parallel’s रणे. All forty prior translation objects, twenty-two prior correction objects, seven raw files and the preliminary flag manifest remain unchanged.
 
 Current totals: fifty bilingual translations, thirty-three boundary-checked verses, thirty boundary overlays and sixty-six distinct hemistichs across 18–50. Fifteen baseline flags have corrected displays; 3,198 remain unresolved by boundary overlays. The script and data cache markers advance to `1.1.50`. Modern context, teachings and connected-verse notes remain separate and bilingual.
 
 Exactly next: **1.1.51–1.1.60**, beginning न विरोधो बलवता क्षमो रावण तेन ते…, after verifying the latest main/root branch build and internal-file exclusions.
+
+### Latest audited batch: 1.1.51–1.1.60
+
+Ten new English/Hindi translations and ten source-preserving overlays extend coverage to 1.1.60. [The audit](./docs/TEXTUAL_AUDIT_1_1_51_60.md) restores twenty distinct half-verses, resolves the duplicated 54/55 display and excludes the stray `1151` from corrected Sanskrit while retaining all raw records. The imported श्रमणीं variant is documented and preserved. All fifty prior translation objects and thirty-one prior correction objects remain identical.
+
+Current totals: sixty bilingual translations, forty-three boundary-checked verses, forty boundary overlays and eighty-six unique half-verses across 18–60. Seventeen baseline flags have corrected displays; 3,196 remain unresolved by boundary overlays. Both edition markers are `1.1.60`. Modern context and teachings remain separate and bilingual. All local validation passes.
+
+Exactly next: **1.1.61–1.1.70**, beginning चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् in raw row 60's second half. First audit the complete range, including duplicated 63/64 blocks. Verify the managed main/root build and internal-file exclusions without a custom workflow.

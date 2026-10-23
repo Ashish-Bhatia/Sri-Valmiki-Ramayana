@@ -67,3 +67,13 @@ Nine new source-preserving overlays correct 41–45 and 47–50. Verse 46 needs 
 Published coverage is now 1.1.1–1.1.50. All forty earlier translation objects, twenty-two earlier errata objects, seven raw files and the original flag manifest remain unchanged. Thirty boundary overlays and the separate 1.1.6 lexical correction are present. Two additional baseline flags, 44 and 45, have corrected displays, making fifteen in total and leaving 3,198 baseline flags unresolved by boundary overlays. Seven unflagged boundary defects in 41–43 and 47–50 also receive corrections. These counts do not establish textual completeness. The first seventeen translations retain their prior provisional status.
 
 The sentences spanning 41–44 and 47–51 retain their numbered boundaries. Mārīca's actual warning begins in 51a, outside this batch. Exactly next: 1.1.51–1.1.60, after a new boundary audit.
+
+## Boundary check completed for 1.1.51–1.1.60
+
+See [the alignment ledger](./TEXTUAL_AUDIT_1_1_51_60.md). The complete numbered Sanskrit Documents parallel supplies every boundary. Retrieved indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages. Direct requests failed, including timeout errors for 56 and 59. Indexed retrieval is not a fresh IIT download. No full critical collation or independent human review is claimed.
+
+Ten new overlays restore the next ten numbered verses. Duplicate raw rows 54/55 remain untouched, with their Sanskrit used once in the corrected sequence. The stray `1151` in raw row 56 remains in the original disclosure and is excluded from Sanskrit overlays. Its preceding instruction belongs to 57a. The imported श्रमणीं is retained there against the complete parallel's श्रमणाम्; both mean a woman ascetic. No sectarian identity is inferred.
+
+Coverage is now 1.1.1–1.1.60. All fifty previous translations, thirty-one previous corrections, seven raw files and the flag manifest remain unchanged. Forty boundary overlays cover 18–22, 25–45 and 47–60, plus the separate 1.1.6 lexical correction. Forty-three checked verses contain eighty-six distinct half-verses. Seventeen baseline flags have corrected displays; 3,196 remain unresolved by the boundary overlays. Eight previously unflagged rows in this batch are also corrected. The initial 1–17 translations retain their provisional status.
+
+Mārīca's warning is in 51a. Kabandha's instruction spans 56b–57a. Rāma's account spans 59b–60a, while Sugrīva's pact of friendship belongs to 61a. Exactly next: 1.1.61–1.1.70, after auditing all boundaries, including the duplicated 63/64 block.
