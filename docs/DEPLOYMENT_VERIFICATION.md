@@ -1,12 +1,76 @@
-# Publication checkpoint: Bāla Kāṇḍa 1.1.41–1.1.50
+# Verified publication: Bāla Kāṇḍa 1.1.41–1.1.50
 
 Date: 23 October 2026, Asia/Kolkata.
+Website: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
+Verified reader: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/?k=1&s=1&v=50
 
-The ten new translations and nine boundary overlays pass local publication checks. Fifty-verse deployment is pending this content push. Do not treat the older forty-verse verification below as evidence for the new public bytes.
+## Current release
 
-Baseline main `27a4232240a5e22f3bcbbedd33f676441e92b126` has successful managed run [39886119077](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39886119077). Build job `120194582631` verifies checkout `ref: main`, Jekyll `source: .`, matching `build_revision`, `_config.yml` and explicit exclusions for docs, scripts and README.md. The baseline root returned HTTP 200. Administrative Pages settings were not read. No custom workflow exists.
+- Translation, audit and cache-marker commit: [0abbe950729869ed8fc7e64d4467ace5eab28dd1](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/commit/0abbe950729869ed8fc7e64d4467ace5eab28dd1).
+- Successful managed Pages run: [39887733062](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39887733062).
+- Build job `120199746759`; deploy job `120199880189`; both completed successfully.
+- The actual build log checks out `ref: main`, runs Jekyll with `source: .`, records `build_revision: 0abbe950729869ed8fc7e64d4467ace5eab28dd1` and loads `/github/workspace/./_config.yml`.
+- The log explicitly reports `EntryFilter: excluded /scripts`, `/README.md` and `/docs`.
+- Workflow path: GitHub-managed `dynamic/pages/pages-build-deployment`. No repository `.github/workflows` directory or custom deployment workflow exists. `.nojekyll` remains absent.
+- Administrative Pages settings were not read. Main/root is verified from the successful build inputs and public output.
+- The baseline main before editing, `27a4232240a5e22f3bcbbedd33f676441e92b126`, also had successful managed run `39886119077` with matching main/root inputs and exclusions. Its public root HTML matched baseline bytes.
 
-After push, record the content commit, managed run/jobs, main/root build inputs, public-byte comparisons, internal-path 404 checks and focused live reader results here. Update both continuity checkpoints in the evidence commit.
+## HTTP integrity and exclusions
+
+Fourteen public paths returned HTTP 200 with bytes identical to the content commit, using `edition=1.1.50` query checks:
+
+- `index.html` and `sources.html`.
+- `assets/app.js` and `assets/styles.css`.
+- `data/translations/1-1.json`, exactly fifty consecutive bilingual records.
+- `data/errata.json`, thirty boundary overlays plus the unchanged earlier 1.1.6 lexical correction.
+- The unchanged `data/quality-flags.json`.
+- All seven immutable `data/sanskrit/{1..7}.json` downloads.
+
+Both runtime markers are `1.1.50`. The live browser loaded the matching script URL and fifty-verse data. The seven raw SHA-256 hashes and the preliminary flag manifest match the baseline. Fifteen baseline flags now have corrected displays; 3,198 remain unresolved by boundary overlays. These counts are not a claim of full textual completeness.
+
+All thirteen internal/prohibited paths below returned HTTP 404:
+
+- `docs/PROJECT_STATE.md`
+- `docs/NEXT_CHAT_PROMPT.md`
+- `docs/SOURCES.md`
+- `docs/TEXTUAL_AUDIT_1_1_41_50.md`
+- `docs/TEXTUAL_AUDIT_1_1_31_40.md`
+- `docs/QA_REPORT.md`
+- `docs/DEPLOYMENT_VERIFICATION.md`
+- `scripts/audit-corpus.mjs`
+- `scripts/verify-publication.mjs`
+- `README.md`
+- `AGENTS.md`
+- `.nojekyll`
+- `.github/workflows/pages.yml`
+
+`AGENTS.md`, `.nojekyll` and the custom workflow path are also absent from the repository. Internal records remain in GitHub; the exclusions apply to the Pages site.
+
+## Live reader checks
+
+Observed in the live browser after reloading the new release:
+
+- Fifty published bilingual translations and the `./assets/app.js?edition=1.1.50` script URL.
+- Verse 41 contains exactly प्रविश्य तु महारण्यं… / विराधं राक्षसं… and its own 1.1.41 marker. Its English/Hindi and connected-verse note are visible. Modern context is a separate section.
+- Verse 42 starts सुतीक्ष्णं चाप्यगस्त्यं च… and ends with the acceptance of Indra's bow.
+- Verse 41's disclosure opens the unchanged merged imported text, including its extra सुतीक्ष्णं… half-verse. Corrected and imported romanizations remain distinct.
+- Search for सुतीक्ष्णं returns exactly one corrected record, 1.1.42, without repeating the imported overrun in 41.
+- Hindi-only selection removes the English translation block and switches the connected-verse note to Hindi. The reader was restored to both languages.
+- Verse 50 contains सहायं वरयामास… / वार्यमाणस्सुबहुशो… with exactly its own numeric marker. Its English/Hindi, continued-clause note, modern context and selected teaching are displayed separately. Mārīca's actual warning is not moved into 50.
+- Verse 51 remains explicitly pending in both translation columns.
+- The verse-50 copy button reports success. Clipboard contents were read and match `1.1.50` followed by the exact corrected two-hemistich Sanskrit display, without the imported 51a warning.
+- No internal navigation links or horizontal overflow were found at the tested desktop viewport. No separate mobile viewport test is claimed.
+- Final reader state: both languages, transliteration off, verse 50 selected.
+
+## Local validation and editorial limits
+
+Passed: JavaScript syntax, unchanged corpus-manifest checks and publication verification. All forty prior translation objects, twenty-two prior errata objects, seven raw files, the flag manifest, publication exclusions and earlier audit ledgers match baseline.
+
+The [new audit](./TEXTUAL_AUDIT_1_1_41_50.md) maps every imported hemistich. The complete numbered parallel supplies all boundaries; indexed IIT passages corroborate selected passages, with direct IIT access unavailable. The imported वने in 48a remains explicit against the parallel's रणे. No full critical collation or independent human review is claimed. Earlier 1–17 translations retain their provisional status.
+
+Exactly next: **Bāla Kāṇḍa, Sarga 1, 1.1.51–1.1.60**, starting न विरोधो बलवता क्षमो रावण तेन ते… in 51a. Audit the whole range before translating, including duplicated 54/55 blocks and the stray `1151` token in raw row 56.
+
+This evidence update changes only excluded internal documents and both continuity checkpoints. Public runtime bytes remain identical to the verified content commit. Check the follow-up managed branch build before final handoff; this record does not claim its own future run was inspected.
 
 ---
 
