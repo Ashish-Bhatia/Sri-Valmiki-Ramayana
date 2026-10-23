@@ -35,7 +35,7 @@ A preliminary structural scan of the imported text found **3,213 records requiri
 - For each completed sarga, document edition, verse-range check, parallel sources, defects, corrected readings, translation reviewer, coverage, and audit result.
 
 ## Known edition / segmentation issue
-Within the imported Bāla 1.1 corpus, several rows merge or repeat adjacent verses. Boundary overlays now correct 1.1.18–22 and 1.1.25–30, while preserving every raw source row. The unflagged overrun at 1.1.25 was also identified. This dataset should **not** be treated as one clean śloka per imported JSON record without QA. The critical-edition text also varies in both numbering and wording; do not simply substitute verses from it while retaining Southern Recension labels.
+Within the imported Bāla 1.1 corpus, several rows merge or repeat adjacent verses. Boundary overlays now correct 1.1.18–22 and 1.1.25–40, while preserving every raw source row. The unflagged overrun at 1.1.25 was also identified. This dataset should **not** be treated as one clean śloka per imported JSON record without QA. The critical-edition text also varies in both numbering and wording; do not simply substitute verses from it while retaining Southern Recension labels.
 
 ## Copyright and manuscript images
 The ancient Sanskrit composition is in the public domain; modern typesetting, digitization, translation, critical apparatus and scanned editions can have separate rights or reuse conditions. Keep source-specific attribution and check reuse terms before adding facsimile PDF scans or third-party translations.
@@ -51,3 +51,9 @@ Raw-source alert counts remain 3,213. Ten baseline alerts now have corrected dis
 ## Public and internal files
 
 The public edition page is `sources.html`. It contains reader-facing provenance, source downloads and limitations. Internal research, continuity and audit records remain in `docs/`, excluded from the branch-based Pages build together with `scripts/` and `README.md` by `_config.yml`. Do not restore `.nojekyll` without replacing that exclusion mechanism, because the bypass would publish internal records again. GitHub Pages still deploys from main / (root), using its built-in branch process and no custom workflow.
+
+## Boundary check completed for 1.1.31–1.1.40
+
+See [the new alignment ledger](./TEXTUAL_AUDIT_1_1_31_40.md). Ten additional source-preserving overlays restore the next ten numbered verses. The complete numbered Sanskrit Documents parallel supplies all boundaries, with indexed IIT base-Sanskrit extracts corroborating selected passages. Direct access to the legacy IIT site and its newly identified portal failed. No full fresh IIT download or critical collation is claimed. Imported lexical variants, including मृते, सुमहात्मानं and दत्वा, are recorded and preserved rather than silently replaced by the parallel's readings.
+
+Published English/Hindi coverage is now 1.1.1–1.1.40. All thirty previous translations, twelve previous errata entries and seven raw files remain unchanged. Twenty new distinct hemistichs continue the existing sequence, with forty-six distinct hemistichs across 18–40. The cumulative boundary layer has twenty-one overlays; the earlier 1.1.6 lexical correction remains separate. Thirteen baseline flags have corrected displays, leaving 3,200 baseline flags unresolved by these boundary overlays. Seven newly identified unflagged boundary defects in 32–38 have also received overlays. These counts do not establish textual completeness.

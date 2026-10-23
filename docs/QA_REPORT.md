@@ -50,7 +50,7 @@ Clone the repository and run `node scripts/audit-corpus.mjs --check`. To recompu
 - Before declaring a sarga complete, verify sequential addresses, exact Sanskrit segmentation, parallel same-recension witness, English/Hindi translations, references and teaching vs interpretation classification.
 
 ## Priority
-**Next: Bāla Kāṇḍa Sarga 1, verses 18–30**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
+**Next: Bāla Kāṇḍa Sarga 1, verses 41–50**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
 
 ## Completed boundary audit: 1.1.18–1.1.30
 
@@ -61,3 +61,11 @@ The [detailed audit](./TEXTUAL_AUDIT_1_1_18_30.md) records source access, all he
 Publication checks: `node scripts/verify-publication.mjs`. They verify seven immutable source hashes, 30 consecutive bilingual entries, 11 overlays reconstructed from imported hemistichs, 26 distinct hemistichs across 18–30, correct embedded addresses, bilingual annotations, source links, no internal navigation and branch publication exclusions. Browser QA covers corrected text, original-reading expansion, matching romanization, language selection, corrected search and source downloads.
 
 GitHub Pages baseline evidence: successful built-in run [39869234028](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39869234028), head `ab2a6a6e0c4fccd21b6e09453a0f3c955ea163ea`. Its build log checks out `ref: main` and uploads `path: .`, confirming the main/root branch deployment. The root public URL returned HTTP 200 with the baseline HTML. The Settings UI required sign-in and was not inspected as an authenticated administrator. Post-commit verification passed for content commit `57f0d384f7dd90fc3ebc78f2db605ff66bd38518` and successful built-in Pages run `39879827107`. Six changed public runtime files matched committed bytes over HTTP 200. Five internal document/script/README paths returned HTTP 404. The build checked out main and used source `.`. Live browser rendering showed the corrected verses, 30 published translations and explicit pending content. See [deployment evidence](./DEPLOYMENT_VERIFICATION.md).
+
+## Completed boundary audit: 1.1.31–1.1.40
+
+Ten verses receive independent English and Hindi translations and ten source-preserving overlays. [The alignment and interpretation ledger](./TEXTUAL_AUDIT_1_1_31_40.md) records every hemistich, retained lexical difference and source-access limitation. Direct IIT access failed; indexed IIT base-Sanskrit extracts and the complete numbered parallel were used. No independent human reviewer or full critical collation is claimed.
+
+The three newly resolved baseline flags are 1.1.31, 1.1.39 and 1.1.40. Seven defects in previously unflagged rows 32–38 were also corrected. Cumulative totals: 40 bilingual translations, 23 boundary-checked verses, 21 boundary overlays, thirteen baseline flags with corrected displays and 3,200 unresolved baseline flags. The earlier 1.1.6 lexical correction remains separate. The raw 3,213-flag manifest and all seven source files remain unchanged. The publication verifier now checks 46 distinct hemistichs across 18–40. All thirty previous translation objects and twelve previous errata objects match the latest-main baseline.
+
+The next batch is exactly **1.1.41–1.1.50**. Imported rows 41–43 again combine or displace adjacent hemistichs. Start 41 with प्रविश्य तु महारण्यं… and restore सुतीक्ष्णं… to 42a. Post-push Pages and reader verification for this batch is recorded in `docs/DEPLOYMENT_VERIFICATION.md` when complete.

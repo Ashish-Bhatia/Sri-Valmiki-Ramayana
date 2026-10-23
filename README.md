@@ -7,9 +7,9 @@ A static, mobile-first reader preserving the **seven kāṇḍas → sargas → 
 
 ### Current scope (23 October 2026)
 - **Sanskrit:** 23,291 imported Sanskrit verse records from a seven-kāṇḍa digitized corpus, arranged in 648 sargas. Imported does not mean critically proofread.
-- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.30 currently published in English and Hindi, with selected modern reflections/teachings.
+- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.40 currently published in English and Hindi, with selected modern reflections/teachings.
 - **Structural audit:** 3,213 of 23,291 digital verse records have been flagged for review due to numbering markers, multi-verse mergers or observed source overruns. See [QA report](./docs/QA_REPORT.md). A flag is not necessarily a confirmed textual error.
-- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Eleven source-preserving overlays now correct verse boundaries in 1.1.18–22 and 1.1.25–30. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
+- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Twenty-one source-preserving overlays now correct verse boundaries in 1.1.18–22 and 1.1.25–40. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
 - **Architecture:** Plain static HTML, CSS and JavaScript. No build system, cloud database or custom GitHub Actions workflow.
 
 ### GitHub Pages, WITHOUT a custom GitHub Actions workflow
@@ -31,7 +31,7 @@ assets/app.js              Navigation and verse reader
 data/sanskrit/1.json       Bāla Kāṇḍa source transcription
 ...
 data/sanskrit/7.json       Uttara Kāṇḍa source transcription
-data/translations/1-1.json Independently authored English/Hindi, verses 1–30
+data/translations/1-1.json Independently authored English/Hindi, verses 1–40
 data/errata.json           Transparent corrected-text overlay
 data/quality-flags.json    Machine-audit flags for source segmentation
 docs/QA_REPORT.md          Preliminary source quality report
@@ -59,10 +59,16 @@ This website is an **independent modern reading edition**, not a newly discovere
 
 [Sources and scholarly distinctions](./docs/SOURCES.md) · [Project state](./docs/PROJECT_STATE.md) · [Next prompt](./docs/NEXT_CHAT_PROMPT.md)
 
-### Latest audited batch
+### Earlier audited batch: 1.1.18–1.1.30
 
 Bāla Kāṇḍa 1.1.18–1.1.30 now has independent English and Hindi translations. The original imported text remains unchanged. Eleven overlays resolve merged or misplaced hemistichs, and connected-verse notes preserve sentences spanning numbered verses. This is a boundary check, not a full critical collation or independent human review. [Detailed audit](./docs/TEXTUAL_AUDIT_1_1_18_30.md).
 
-The original manifest retains 3,213 raw-source flags. Ten now have corrected displays, and an additional unflagged overrun at 1.1.25 has also been corrected. Another 3,203 baseline flags remain unresolved. Run `node scripts/verify-publication.mjs` in addition to the original audit. Next untranslated batch: **1.1.31–1.1.40**.
+The original manifest retains 3,213 raw-source flags. Ten now have corrected displays, and an additional unflagged overrun at 1.1.25 has also been corrected. Another 3,203 baseline flags remain unresolved. Run `node scripts/verify-publication.mjs` in addition to the original audit. That batch’s next range was **1.1.31–1.1.40**, now completed below.
 
 Public navigation links to `sources.html`. Internal checkpoints and audits remain in Git and are excluded from Pages output. The prior `.nojekyll` marker was removed because it published every root file, including internal records. This is still main/root branch deployment, with no custom workflow.
+
+### Latest audited batch: 1.1.31–1.1.40
+
+Ten new English/Hindi translations and ten boundary overlays extend coverage through 1.1.40. Raw Sanskrit and all prior translations/corrections are preserved. The complete numbered parallel and available indexed IIT base-Sanskrit extracts support the boundary check; direct IIT access failed. Imported lexical differences remain explicit. [Detailed audit](./docs/TEXTUAL_AUDIT_1_1_31_40.md).
+
+The original flag manifest remains unchanged. Thirteen baseline flags now have corrected displays; 3,200 remain unresolved by the boundary overlays. Seven additional unflagged defects in 32–38 have been corrected. Run both audit scripts and the JavaScript syntax check. Exactly next: **1.1.41–1.1.50**, after verifying the main/root branch deployment and internal-file exclusions.

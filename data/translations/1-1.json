@@ -1,8 +1,8 @@
 {
   "kanda": 1,
   "sarga": 1,
-  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–30, with source-access limitations recorded per verse.",
-  "sourceVerseIds": "1.1.1–1.1.30",
+  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–40, with source-access limitations recorded per verse.",
+  "sourceVerseIds": "1.1.1–1.1.40",
   "verses": {
     "1": {
       "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
@@ -396,6 +396,246 @@
           "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
         ],
         "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "31": {
+      "en": "Having reached Citrakūṭa at Bharadvāja’s direction and made a pleasant dwelling, the three, delighting in the forest...",
+      "hi": "भरद्वाज के निर्देश पर चित्रकूट पहुँचकर और वहाँ रमणीय निवास बनाकर, वन में आनन्द लेते हुए वे तीनों...",
+      "connection": {
+        "en": "The journey begins in the second half of 1.1.30. Here the three are Rāma, Sītā and Lakṣmaṇa. The sentence ends with “they lived there happily” in the first half of 1.1.32.",
+        "hi": "यात्रा 1.1.30 के दूसरे अर्धश्लोक से शुरू होती है। यहाँ तीनों से राम, सीता और लक्ष्मण अभिप्रेत हैं। वाक्य 1.1.32 के पहले अर्धश्लोक में “वे वहाँ सुख से रहे” के साथ पूरा होता है।"
+      },
+      "context": {
+        "en": "Shared effort and trusted guidance remain useful to families settling in an unfamiliar place.",
+        "hi": "किसी अपरिचित स्थान पर बसते समय परिवारों के लिए साझा प्रयास और अनुभवी लोगों का मार्गदर्शन उपयोगी रहता है।"
+      },
+      "teaching": {
+        "en": "Seek informed guidance and contribute to the practical work of starting life in a new place.",
+        "hi": "नई जगह जीवन शुरू करते समय अनुभवी लोगों से मार्गदर्शन लें और आवश्यक कामों में अपना योगदान दें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "32": {
+      "en": "Resembling gods and gandharvas, they lived there happily. When Rāma had thus gone to Citrakūṭa, [Daśaratha], stricken with grief for his son...",
+      "hi": "देवताओं और गन्धर्वों के समान वे वहाँ सुख से रहे। राम के इस प्रकार चित्रकूट चले जाने पर पुत्र के शोक से व्याकुल [दशरथ]...",
+      "connection": {
+        "en": "The first half completes 1.1.30–31. The second begins the account of Daśaratha, whose name and action occur in 1.1.33. His name is supplied in brackets for clarity.",
+        "hi": "पहला अर्धश्लोक 1.1.30–31 का वाक्य पूरा करता है। दूसरे में दशरथ का प्रसंग शुरू होता है। उनका नाम और आगे की क्रिया 1.1.33 में हैं। स्पष्टता के लिए उनका नाम कोष्ठकों में दिया गया है।"
+      },
+      "context": {
+        "en": "The narrative places the forest party’s happiness beside a father’s grief. Members of the same family often experience a major separation differently.",
+        "hi": "कथा वन में रहने वालों के सुख के साथ पिता का शोक रखती है। परिवार के अलग-अलग सदस्य किसी बड़े बिछोह को अलग तरह से अनुभव करते हैं।"
+      },
+      "teaching": {
+        "en": "Remain attentive to a loved one’s distress even when you are adapting well to a change.",
+        "hi": "आप बदलाव के साथ सहज हो रहे हों, तब भी अपने प्रियजनों की पीड़ा पर ध्यान दें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "33": {
+      "en": "King Daśaratha went to heaven, lamenting his son. After his death, Bharata, whom Vasiṣṭha and the other Brahmins...",
+      "hi": "पुत्र के लिए विलाप करते हुए राजा दशरथ स्वर्ग गए। उनकी मृत्यु के बाद भरत को वसिष्ठ के नेतृत्व में द्विजों द्वारा...",
+      "connection": {
+        "en": "The first half completes Daśaratha’s account from 1.1.32. The second continues in 1.1.34 with the effort to appoint Bharata to rule. The imported मृते, “after his death”, is retained; the parallel reads गते, “after his departure”.",
+        "hi": "पहला अर्धश्लोक 1.1.32 से चले आ रहे दशरथ के प्रसंग को पूरा करता है। दूसरा 1.1.34 में भरत को राज्य सँभालने के लिए नियुक्त करने के प्रयास के साथ आगे बढ़ता है। आयातित पाठ का मृते, अर्थात् “उनकी मृत्यु के बाद”, रखा गया है। समानान्तर पाठ में गते, अर्थात् “उनके चले जाने के बाद”, है।"
+      },
+      "context": {
+        "en": "Bereavement sometimes coincides with urgent decisions about family or organisational responsibilities. The narrative brings those pressures together.",
+        "hi": "शोक के समय ही परिवार या संस्था के दायित्वों पर तत्काल निर्णय लेने पड़ सकते हैं। कथा में ये दोनों परिस्थितियाँ एक साथ आती हैं।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "34": {
+      "en": "...were urging to rule, did not desire the kingdom, mighty though he was. The valiant Bharata went to the forest to seek Rāma’s favour.",
+      "hi": "...राज्य सँभालने के लिए नियुक्त किए जाने पर भी महाबली भरत ने राज्य नहीं चाहा। वे वीर राम की कृपा पाने के लिए वन गए।",
+      "connection": {
+        "en": "Read the opening with Bharata and the Brahmins named in 1.1.33. रामपादप्रसादकः expresses Bharata’s wish to win Rāma’s favour, with reverence conveyed through “Rāma’s feet”.",
+        "hi": "आरम्भ को 1.1.33 में आए भरत और द्विजों के साथ पढ़ें। रामपादप्रसादकः में भरत का राम को प्रसन्न करने का भाव है। “राम के चरण” के उल्लेख से आदर प्रकट होता है।"
+      },
+      "context": {
+        "en": "Bharata’s capacity to govern does not settle his willingness to accept the position. Modern appointments also involve personal conviction about the responsibility offered.",
+        "hi": "शासन करने की भरत की क्षमता से यह तय नहीं हो जाता कि वे पद स्वीकार करना चाहते हैं। आज भी कोई दायित्व स्वीकार करने में व्यक्ति की अपनी मान्यता महत्त्व रखती है।"
+      },
+      "teaching": {
+        "en": "Examine an offered advantage in light of your responsibilities before accepting it.",
+        "hi": "कोई लाभ स्वीकार करने से पहले अपने दायित्वों के आधार पर उसे परखें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "35": {
+      "en": "Then, approaching the most noble Rāma, unfailing in valour, Bharata appealed to his brother Rāma with reverence...",
+      "hi": "फिर अत्यन्त उदार आत्मा और अमोघ पराक्रम वाले राम के पास जाकर भरत ने आदरपूर्ण भाव से अपने भाई राम से प्रार्थना की...",
+      "connection": {
+        "en": "Bharata’s request is spoken in the first half of 1.1.36. The imported सुमहात्मानं is retained rather than silently replacing it with the parallel’s स महात्मानम्.",
+        "hi": "भरत की प्रार्थना के शब्द 1.1.36 के पहले अर्धश्लोक में हैं। आयातित पाठ का सुमहात्मानं रखा गया है। इसे समानान्तर पाठ के स महात्मानम् से चुपचाप बदला नहीं गया है।"
+      },
+      "teaching": {
+        "en": "Make a difficult request with humility and respect.",
+        "hi": "कठिन प्रार्थना भी विनम्रता और सम्मान के साथ रखें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "36": {
+      "en": "“You alone are king, knower of dharma,” he said to Rāma. Rāma too, supremely generous, gracious in countenance and greatly renowned...",
+      "hi": "उन्होंने राम से कहा, “धर्मज्ञ राम, आप ही राजा हैं।” परम उदार, सौम्य मुख वाले और महान यशस्वी राम भी...",
+      "connection": {
+        "en": "Bharata speaks in the first half, completing 1.1.35. The second half describes Rāma; his response continues in 1.1.37.",
+        "hi": "पहले अर्धश्लोक में भरत बोलते हैं और 1.1.35 की बात पूरी करते हैं। दूसरे में राम का वर्णन है। उनकी प्रतिक्रिया 1.1.37 में आती है।"
+      },
+      "context": {
+        "en": "Bharata appeals to Rāma’s understanding of duty. His claim belongs to this royal family’s succession dispute and expresses Bharata’s position.",
+        "hi": "भरत राम के धर्मज्ञान का आह्वान करते हैं। उनका कथन इस राजपरिवार के उत्तराधिकार के प्रसंग में भरत का पक्ष व्यक्त करता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "37": {
+      "en": "Mighty Rāma did not wish to accept the kingdom because of his father’s command. Having given Bharata his sandals as a trust for the kingdom, again and again...",
+      "hi": "पिता की आज्ञा के कारण महाबली राम ने राज्य स्वीकार करना नहीं चाहा। राज्य के लिए भरत को अपनी पादुकाएँ धरोहर के रूप में देकर, बार-बार...",
+      "connection": {
+        "en": "The first half completes Rāma’s response begun in 1.1.36. “Again and again” belongs with persuading Bharata to return in 1.1.38; it does not describe repeated gifts of sandals.",
+        "hi": "पहला अर्धश्लोक 1.1.36 से शुरू हुई राम की प्रतिक्रिया पूरी करता है। “बार-बार” का सम्बन्ध 1.1.38 में भरत को लौटने के लिए समझाने से है। इसका अर्थ बार-बार पादुकाएँ देना नहीं है।"
+      },
+      "context": {
+        "en": "The sandals serve as a visible sign of entrusted authority. A modern point of comparison is temporary responsibility carried out on another person’s behalf.",
+        "hi": "पादुकाएँ सौंपे गए अधिकार का प्रत्यक्ष प्रतीक बनती हैं। आज के संदर्भ में इससे किसी अन्य की ओर से अस्थायी दायित्व निभाने पर विचार किया जा सकता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "38": {
+      "en": "...Bharata’s elder brother then persuaded him to return. Bharata, his wish still unfulfilled, reverently touching Rāma’s feet...",
+      "hi": "...तब भरत के बड़े भाई ने उन्हें लौटने के लिए समझाया। अपनी इच्छा पूरी न होने पर भी भरत राम के चरणों को आदर से स्पर्श करते हुए...",
+      "connection": {
+        "en": "The first half completes the repeated persuasion in 1.1.37. The second follows Bharata into 1.1.39. रामपादौ is translated literally as Rāma’s feet; an interpretive association with the sandals is not substituted for the Sanskrit.",
+        "hi": "पहला अर्धश्लोक 1.1.37 के बार-बार समझाने के प्रसंग को पूरा करता है। दूसरे में भरत की बात 1.1.39 तक चलती है। रामपादौ का शाब्दिक अनुवाद “राम के चरण” रखा गया है। पादुकाओं से उसके व्याख्यात्मक सम्बन्ध को मूल शब्दों के स्थान पर नहीं रखा गया है।"
+      },
+      "teaching": {
+        "en": "A request being refused need not end mutual respect.",
+        "hi": "प्रार्थना स्वीकार न होने पर भी परस्पर सम्मान बना रहता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "39": {
+      "en": "...governed the kingdom from Nandigrāma, longing for Rāma’s return. After Bharata had departed, the glorious one, true to his word and master of his senses...",
+      "hi": "...राम के लौटने की प्रतीक्षा में नन्दिग्राम से राज्य सँभालते रहे। भरत के चले जाने पर श्रीमान्, सत्यप्रतिज्ञ और जितेन्द्रिय [राम]...",
+      "connection": {
+        "en": "The first half completes Bharata’s action from 1.1.38. The second turns to Rāma, who is named in 1.1.40. The bracketed name in Hindi makes that change of subject clear.",
+        "hi": "पहला अर्धश्लोक 1.1.38 से चली आ रही भरत की क्रिया पूरी करता है। दूसरे में विषय राम हो जाते हैं, जिनका नाम 1.1.40 में आता है। विषय बदलने को स्पष्ट करने के लिए हिन्दी में नाम कोष्ठकों में दिया गया है।"
+      },
+      "context": {
+        "en": "Bharata carries out public duties while awaiting Rāma. The episode offers a reflection on accountability during a temporary appointment.",
+        "hi": "राम की प्रतीक्षा करते हुए भरत सार्वजनिक दायित्व निभाते हैं। इस प्रसंग से अस्थायी पद पर उत्तरदायित्व निभाने के बारे में विचार मिलता है।"
+      },
+      "teaching": {
+        "en": "Carry out entrusted responsibilities without treating them as personal possessions.",
+        "hi": "सौंपे गए दायित्व निभाएँ और उन्हें अपनी निजी सम्पत्ति न समझें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "40": {
+      "en": "Rāma, anticipating the townspeople’s return there, entered the Daṇḍaka forests with his mind firmly resolved.",
+      "hi": "नगरवासियों के फिर वहाँ आने की सम्भावना देखकर, एकाग्रचित्त राम दण्डक वनों में प्रवेश कर गए।",
+      "connection": {
+        "en": "This completes the description of Rāma begun in the second half of 1.1.39. आलक्ष्य is understood here as anticipating further visits, rather than proof that repeated visits had already occurred.",
+        "hi": "यह 1.1.39 के दूसरे अर्धश्लोक से शुरू हुआ राम का वर्णन पूरा करता है। यहाँ आलक्ष्य का अर्थ आगे फिर आने की सम्भावना समझना लिया गया है। इससे यह सिद्ध नहीं होता कि बार-बार आगमन पहले ही हो चुका था।"
+      },
+      "context": {
+        "en": "For a responsibility requiring sustained attention, reducing repeated interruptions helps preserve concentration.",
+        "hi": "किसी दायित्व में लगातार ध्यान देना आवश्यक हो, तो बार-बार होने वाले व्यवधान कम करना एकाग्रता बनाए रखने में सहायक है।"
+      },
+      "teaching": {
+        "en": "Protect the time and attention needed to fulfil a considered commitment.",
+        "hi": "सोच-समझकर लिए गए संकल्प को निभाने के लिए आवश्यक समय और ध्यान सुरक्षित रखें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
       }
     }
   }
