@@ -44,7 +44,7 @@ This is a verse-boundary check, not a full critical collation or independent hum
 
 The responsive reader retains seven-book navigation, sarga selection, Sanskrit, translation language choice, search, romanization, copy/link and reading position. Corrected Sanskrit and romanization are used for display, search and copy. Corrected rows no longer show an unresolved-source warning. The original imported reading is available in each correction’s disclosure. The public source/download page is `sources.html`. Reader navigation has no internal project-document links.
 
-Baseline deployment was verified by built-in Pages run `39869234028`: `ref: main`, artifact `path: .`, successful deployment, public root HTTP 200 matching baseline HTML. The authenticated Settings UI was unavailable. The upcoming commit must be checked for a successful new branch build, new public data and HTTP 404 for excluded internal paths. No new-deployment result is claimed before the push.
+Content commit `57f0d384f7dd90fc3ebc78f2db605ff66bd38518` deployed successfully in built-in Pages run `39879827107`. The build log records `ref: main`, `source: .` and the Jekyll output directory `_site`, confirming main/root branch deployment. Public HTML, JavaScript, CSS, translations, corrections and the source/download page returned HTTP 200 and matched committed files byte for byte. The browser displayed corrected 1.1.30 with both translations and pending 1.1.31. Excluded checkpoint, source-documentation, script and README paths returned HTTP 404. The authenticated Settings UI was unavailable, so branch/root verification rests on the actual successful build and live responses. See `docs/DEPLOYMENT_VERIFICATION.md`. This follow-up checkpoint changes no public runtime files.
 
 ## Checks
 

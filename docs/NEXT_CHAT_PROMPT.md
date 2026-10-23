@@ -12,4 +12,4 @@ Deploy only with GitHub Pages from main / (root), without a custom GitHub Action
 
 Run node --check assets/app.js, node scripts/audit-corpus.mjs --check, node scripts/verify-publication.mjs, and focused reader checks. Update the publication verifier’s coverage assertions only after adding the new verified records. Commit verified changes and both continuity files to main. Verify the deployed result. Finish with the exact next untranslated range and a copy-ready continuation prompt.
 
-Current batch checkpoint: prepared for publication, with baseline branch/root deployment verified. Record the actual new deployment result after pushing rather than assuming success.
+Verified content commit: 57f0d384f7dd90fc3ebc78f2db605ff66bd38518. Built-in Pages run 39879827107 completed successfully from main/root. Public runtime files matched the commit and internal document/script/README URLs returned 404. The follow-up continuity commit changes no public runtime files. Read docs/DEPLOYMENT_VERIFICATION.md, check the latest main deployment, then continue exactly 1.1.31–1.1.40.
