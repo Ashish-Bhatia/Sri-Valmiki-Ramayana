@@ -1,3 +1,23 @@
+# Release checkpoint: Bāla Kāṇḍa 1.1.71–1.1.80
+
+Date: 24 October 2026, Asia/Kolkata.
+Website: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
+
+## Baseline build inspected before editing
+
+- Latest main was `9c55fdf15b8e81a41fcd6c8a71d602041a3b25aa`.
+- Managed run [40013216331](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/40013216331) completed successfully. Build `120618597377` and deploy `120618842614` passed.
+- Inspected build log: checkout `ref: main`; Jekyll source `.`; matching baseline build revision; `/github/workspace/./_config.yml`; explicit exclusions for `/scripts`, `/README.md` and `/docs`.
+- Actual build inputs establish **main / (root)**. Administrative Pages settings were not read. The workflow is GitHub-managed `dynamic/pages/pages-build-deployment`; the repository has no custom workflow and `.nojekyll` is absent.
+
+## New content release
+
+Local syntax, corpus, publication, baseline-preservation and independent Sanskrit/IAST checks pass for eighty bilingual records. Both cache markers are `1.1.80`. Seventy prior translations and fifty-one prior corrections retain exact values and value bytes; fifteen immutable whole files match baseline. The raw corpus and preliminary 3,213-flag manifest are unchanged.
+
+The new content commit and its managed build do not yet exist at this checkpoint. New-release HTTP byte comparisons, internal-file exclusions and focused live reader checks are **pending**. Record them only after observing the published revision. The previous verified seventy-verse release and its evidence follow below.
+
+---
+
 # Verified publication: Bāla Kāṇḍa 1.1.61–1.1.70
 
 Date: 24 October 2026, Asia/Kolkata.

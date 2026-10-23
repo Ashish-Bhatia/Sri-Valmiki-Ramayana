@@ -7,9 +7,9 @@ A static, mobile-first reader preserving the **seven kāṇḍas → sargas → 
 
 ### Current scope (24 October 2026)
 - **Sanskrit:** 23,291 imported Sanskrit verse records from a seven-kāṇḍa digitized corpus, arranged in 648 sargas. Imported does not mean critically proofread.
-- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.70 currently published in English and Hindi, with selected modern reflections/teachings.
+- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.80 currently published in English and Hindi, with selected modern reflections/teachings.
 - **Structural audit:** 3,213 of 23,291 digital verse records have been flagged for review due to numbering markers, multi-verse mergers or observed source overruns. See [QA report](./docs/QA_REPORT.md). A flag is not necessarily a confirmed textual error.
-- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Forty-four source-preserving overlays restore verse boundaries in 1.1.18–22, 1.1.25–45 and 1.1.47–64; six further overlays normalize displays on already correctly bounded 65–70. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
+- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Forty-six source-preserving overlays restore verse boundaries in 1.1.18–22, 1.1.25–45, 1.1.47–64 and 1.1.76–77. Fourteen normalize already correctly bounded displays in 65–75 and 78–80. Cached/indexed IIT Sanskrit and the complete numbered parallel are documented in each batch audit, without claiming a fresh full IIT collation. Never hide textual limitations.
 - **Architecture:** Plain static HTML, CSS and JavaScript. No build system, cloud database or custom GitHub Actions workflow.
 
 ### GitHub Pages, WITHOUT a custom GitHub Actions workflow
@@ -31,7 +31,7 @@ assets/app.js              Navigation and verse reader
 data/sanskrit/1.json       Bāla Kāṇḍa source transcription
 ...
 data/sanskrit/7.json       Uttara Kāṇḍa source transcription
-data/translations/1-1.json Independently authored English/Hindi, verses 1–60
+data/translations/1-1.json Independently authored English/Hindi, verses 1–80
 data/errata.json           Transparent corrected-text overlay
 data/quality-flags.json    Machine-audit flags for source segmentation
 docs/QA_REPORT.md          Preliminary source quality report
@@ -90,10 +90,19 @@ Current totals: sixty bilingual translations, forty-three boundary-checked verse
 Exactly next: **1.1.61–1.1.70**, beginning चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् in raw row 60's second half. First audit the complete range, including duplicated 63/64 blocks. Verify the managed main/root build and internal-file exclusions without a custom workflow.
 
 
-### Latest audited batch: 1.1.61–1.1.70
+### Earlier audited batch: 1.1.61–1.1.70
 
 Ten independent English/Hindi translations extend coverage to 1.1.70. [The audit](./docs/TEXTUAL_AUDIT_1_1_61_70.md) restores 61–64, beginning with the friendship pact from raw 60:2, and uses duplicated raw 63/64 content once. Six further overlays normalize displays and IAST on correctly bounded 65–70. Every new overlay discloses the imported reading. The parallel's printed differences at 64–65 and indexed IIT तथा/तदा difference at 66 are documented; imported readings remain intact. Direct IIT access failed, and indexed evidence is not a fresh collation.
 
 Current totals: seventy bilingual translations, fifty-three boundary-checked verses and 106 unique half-verses. Fifty display overlays comprise forty-four boundary restorations and six normalizations. The separate earlier lexical correction remains intact. Nineteen baseline flags have corrected displays; 3,194 remain unresolved by the overlays. All sixty previous translations, forty-one previous corrections, raw corpus, flag manifest and publication exclusions are preserved. Both edition markers are `1.1.70`.
 
 Exactly next: **1.1.71–1.1.80**, beginning स च सर्वान्समानीय वानरान्वानरर्षभः. Audit duplicated raw rows 76/77 and every boundary before translation. Preserve the managed main/root deployment and exclusions. No custom workflow or `.nojekyll` is permitted.
+
+
+### Latest audited batch: 1.1.71–1.1.80
+
+Ten independently authored English/Hindi translations extend coverage to 1.1.80. [The audit](./docs/TEXTUAL_AUDIT_1_1_71_80.md) separates the duplicated 76/77 block with two boundary restorations and normalizes eight already correctly bounded displays. Original readings and matching IAST remain available. Cached/indexed IIT Sanskrit and the complete numbered parallel were compared, with no claim of a fresh IIT collation. The readings at 74, 77 and 78 are explicitly disclosed, and the sentence spanning 76–77 remains connected without merging its numbered verses.
+
+Totals: eighty bilingual records, sixty-three checked verses, 126 distinct half-verses, forty-six restorations and fourteen normalizations. Twenty-one baseline flags have corrected displays; 3,192 remain unresolved by these overlays. All seventy earlier translations, fifty-one earlier corrections, raw Sanskrit, flag manifest and publication exclusions are preserved. Both edition markers are `1.1.80`. Local syntax, corpus, publication, baseline byte/object and independent IAST checks pass.
+
+Exactly next: **1.1.81–1.1.90**, beginning **तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे**. Check 83/84 ordering against the adopted numbered IIT witness and complete parallel before translating. Keep main/root managed Pages, `_config.yml` exclusions, no `.nojekyll` and no custom workflow.

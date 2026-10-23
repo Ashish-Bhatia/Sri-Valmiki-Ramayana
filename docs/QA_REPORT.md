@@ -50,7 +50,7 @@ Clone the repository and run `node scripts/audit-corpus.mjs --check`. To recompu
 - Before declaring a sarga complete, verify sequential addresses, exact Sanskrit segmentation, parallel same-recension witness, English/Hindi translations, references and teaching vs interpretation classification.
 
 ## Priority
-**Next: Bāla Kāṇḍa Sarga 1, verses 71–80**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
+**Next: Bāla Kāṇḍa Sarga 1, verses 81–90**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
 
 ## Completed boundary audit: 1.1.18–1.1.30
 
@@ -104,3 +104,16 @@ Totals: seventy bilingual records; fifty-three boundary-checked verses; 106 dist
 JavaScript syntax, corpus-manifest and publication verification pass. All sixty previous translation objects, forty-one previous correction objects, seven raw files, the manifest, `_config.yml` and four older ledgers match baseline `58f3e1da511a2973cb9d3c8fdb3ec0da9d0089fd`. Runtime logic is unchanged except for the edition marker. Both markers are `1.1.70`. Post-commit public verification is recorded separately when observed.
 
 Exactly next: **1.1.71–1.1.80**, beginning स च सर्वान्समानीय वानरान्वानरर्षभः. Audit duplicated raw rows 76/77 and continuing clauses before translation.
+
+
+## Boundary check completed for 1.1.71–1.1.80
+
+Date: 24 October 2026, Asia/Kolkata. [The ledger](./TEXTUAL_AUDIT_1_1_71_80.md) establishes every boundary before translation and distinguishes actual cached/indexed evidence from fresh direct access. The complete numbered `sites/valmikiramayan` parallel supplies all ten boundaries. Cached IIT 71 and 76 pages corroborate 71 and separately marked 76–77. Indexed IIT base Sanskrit supplies the remaining blocks. The direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. No full fresh IIT download, critical collation or independent human review is claimed.
+
+Two overlays separate the duplicated four-half-verse raw 76/77 block. Eight others normalize already correctly bounded displays and matching IAST. All raw rows and all work through 70 remain intact. The double avagraha at 74, च निवेद्य च, च मैथिलीम् at 77 and अधिगम्य at 78 are retained. Distinct numbered commentary readings विनिवेद्य, तु and अभिगम्य, and the parallel’s printed अभिगंय, are disclosed. Previous श्रमणीं, वने and तथा are preserved.
+
+Nārada narrates to Vālmīki throughout. Verse 76 remains a continuing fragment completed by 77. Hanumān’s actual short report is quoted at 78. All supplied names and words are marked. No ring specification, invented dialogue, modern yojana conversion, construction method or moral instruction endorsing violence is added. Connected notes, modern context and teachings remain separate and bilingual.
+
+Coverage: eighty consecutive bilingual records, sixty-three checked verses and 126 unique half-verses. Sixty display overlays comprise forty-six restorations and fourteen normalizations; the separate earlier lexical correction makes sixty-one errata objects. Twenty-one baseline flags have corrected displays; 3,192 remain unresolved by these overlays. All seventy previous translation objects and fifty-one previous correction objects retain both their values and exact value bytes. Seven raw files, the flag manifest, exclusions, CSS and five previous ledgers are byte-identical. Both edition markers are `1.1.80`.
+
+JavaScript syntax, corpus, publication, baseline preservation and independent Devanāgarī/IAST checks pass. Publication evidence is recorded separately after observation. Exactly next: **1.1.81–1.1.90**, beginning **तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे**. Audit 83/84 ordering explicitly against numbered IIT base Sanskrit and the complete parallel; do not silently transfer another arrangement or Baroda numbering.

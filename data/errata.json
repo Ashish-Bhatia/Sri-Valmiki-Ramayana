@@ -1053,5 +1053,251 @@
       }
     ],
     "latin": "tatassugrīvavacanāddhatvā vālinamāhave | sugrīvameva tadrājye rāghavaḥ pratyapādayat ||"
+  },
+  "1.1.71": {
+    "text": "स च सर्वान्समानीय वानरान्वानरर्षभः ।\nदिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम् ।।1.1.71।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.71",
+        "segment": 1
+      },
+      {
+        "row": "1.1.71",
+        "segment": 2
+      }
+    ],
+    "latin": "sa ca sarvānsamānīya vānarānvānararṣabhaḥ | diśaḥ prasthāpayāmāsa didṛkṣurjanakātmajām ||"
+  },
+  "1.1.72": {
+    "text": "ततो गृध्रस्य वचनात्सम्पातेर्हनुमान्बली ।\nशतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम् ।।1.1.72।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.72",
+        "segment": 1
+      },
+      {
+        "row": "1.1.72",
+        "segment": 2
+      }
+    ],
+    "latin": "tato gṛdhrasya vacanātsampāterhanumānbalī | śatayojanavistīrṇaṃ pupluve lavaṇārṇavam ||"
+  },
+  "1.1.73": {
+    "text": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।\nददर्श सीतां ध्यायन्तीमशोकवनिकां गताम् ।।1.1.73।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.73",
+        "segment": 1
+      },
+      {
+        "row": "1.1.73",
+        "segment": 2
+      }
+    ],
+    "latin": "tatra laṅkāṃ samāsādya purīṃ rāvaṇapālitām | dadarśa sītāṃ dhyāyantīmaśokavanikāṃ gatām ||"
+  },
+  "1.1.74": {
+    "text": "निवेदयित्वाऽऽभिज्ञानं प्रवृत्तिं च निवेद्य च ।\nसमाश्वास्य च वैदेहीं मर्दयामास तोरणम् ।।1.1.74।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect. Retain the double avagraha and च निवेद्य च; the complete parallel separates अभिज्ञानम् and an indexed numbered IIT commentary block has विनिवेद्य च.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.74",
+        "segment": 1
+      },
+      {
+        "row": "1.1.74",
+        "segment": 2
+      }
+    ],
+    "latin": "nivedayitvā''bhijñānaṃ pravṛttiṃ ca nivedya ca | samāśvāsya ca vaidehīṃ mardayāmāsa toraṇam ||",
+    "lexicalVariants": [
+      {
+        "location": "74a",
+        "importedReading": "निवेदयित्वाऽऽभिज्ञानं",
+        "parallelReading": "निवेदयित्वा अभिज्ञानम्",
+        "decision": "Retain both imported avagraha signs, corroborated by indexed IIT base Sanskrit, and matching double-apostrophe IAST; the recognized noun is अभिज्ञानम्."
+      },
+      {
+        "location": "74a",
+        "importedReading": "प्रवृत्तिं च निवेद्य च",
+        "parallelReading": "प्रवृत्तिम् च निवेद्य च",
+        "otherReading": "प्रवृत्तिं विनिवेद्य च",
+        "otherSource": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=35&language=dv&scaa=1&scgr=1&sckt=1&scmt=1&scnb=1&scss=1&scty=1",
+        "decision": "Retain च निवेद्य च, also in indexed IIT base Sanskrit; disclose the numbered commentary witness’s विनिवेद्य without adopting it."
+      }
+    ]
+  },
+  "1.1.75": {
+    "text": "पञ्च सेनाग्रगान्हत्वा सप्तमन्त्रिसुतानपि ।\nशूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् ।।1.1.75।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.75",
+        "segment": 1
+      },
+      {
+        "row": "1.1.75",
+        "segment": 2
+      }
+    ],
+    "latin": "pañca senāgragānhatvā saptamantrisutānapi | śūramakṣaṃ ca niṣpiṣya grahaṇaṃ samupāgamat ||"
+  },
+  "1.1.76": {
+    "text": "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्वरात् ।\nमर्षयन्राक्षसान्वीरो यन्त्रिणस्तान्यदृच्छया ।।1.1.76।।",
+    "source": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=76&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Restore the separately numbered verse from the duplicated raw 76/77 four-half-verse block. Keep every raw row unchanged and present each half-verse once; the sentence spans 76–77.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "boundary-restoration",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.76",
+        "segment": 1
+      },
+      {
+        "row": "1.1.76",
+        "segment": 2
+      }
+    ],
+    "latin": "astreṇonmuktamātmānaṃ jñātvā paitāmahādvarāt | marṣayanrākṣasānvīro yantriṇastānyadṛcchayā ||"
+  },
+  "1.1.77": {
+    "text": "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम् ।\nरामाय प्रियमाख्यातुं पुनरायान्महाकपिः ।।1.1.77।।",
+    "source": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=76&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Restore the separately numbered verse from the duplicated raw 76/77 four-half-verse block. Keep every raw row unchanged and present each half-verse once; the sentence spans 76–77. Retain च मैथिलीम्, agreeing with the complete parallel and cached IIT 76/77 page; an indexed numbered commentary block has तु मैथिलीम्.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "boundary-restoration",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.76",
+        "segment": 3
+      },
+      {
+        "row": "1.1.76",
+        "segment": 4
+      }
+    ],
+    "latin": "tato dagdhvā purīṃ laṅkāmṛte sītāṃ ca maithilīm | rāmāya priyamākhyātuṃ punarāyānmahākapiḥ ||",
+    "lexicalVariants": [
+      {
+        "location": "77a",
+        "importedReading": "सीतां च मैथिलीम्",
+        "parallelReading": "सीताम् च मैथिलीम्",
+        "otherReading": "सीतां तु मैथिलीम्",
+        "otherSource": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=35&language=dv&scaa=1&scgr=1&sckt=1&scmt=1&scnb=1&scss=1&scty=1",
+        "decision": "Retain च, corroborated by the complete parallel and cached IIT 76/77 page; disclose the distinct indexed numbered commentary reading तु."
+      }
+    ]
+  },
+  "1.1.78": {
+    "text": "सोऽधिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् ।\nन्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः ।।1.1.78।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect. Retain अधिगम्य, corroborated by indexed IIT base Sanskrit; the numbered commentary witness has अभिगम्य and the complete parallel prints अभिगंय.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.78",
+        "segment": 1
+      },
+      {
+        "row": "1.1.78",
+        "segment": 2
+      }
+    ],
+    "latin": "so'dhigamya mahātmānaṃ kṛtvā rāmaṃ pradakṣiṇam | nyavedayadameyātmā dṛṣṭā sīteti tattvataḥ ||",
+    "lexicalVariants": [
+      {
+        "location": "78a",
+        "importedReading": "सोऽधिगम्य",
+        "parallelReading": "सः अभिगंय",
+        "otherReading": "सो ऽभिगम्य",
+        "otherSource": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=35&language=dv&scaa=1&scgr=1&sckt=1&scmt=1&scnb=1&scss=1&scty=1",
+        "decision": "Retain अधिगम्य and matching so'dhigamya, corroborated by indexed IIT base Sanskrit; disclose the commentary’s अभिगम्य and the complete parallel’s printed अभिगंय."
+      }
+    ]
+  },
+  "1.1.79": {
+    "text": "ततस्सुग्रीवसहितो गत्वा तीरं महोदधेः ।\nसमुद्रं क्षोभयामास शरैरादित्यसन्निभैः ।।1.1.79।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.79",
+        "segment": 1
+      },
+      {
+        "row": "1.1.79",
+        "segment": 2
+      }
+    ],
+    "latin": "tatassugrīvasahito gatvā tīraṃ mahodadheḥ | samudraṃ kṣobhayāmāsa śarairādityasannibhaiḥ ||"
+  },
+  "1.1.80": {
+    "text": "दर्शयामास चात्मानं समुद्रस्सरितां पतिः ।\nसमुद्रवचनाच्चैव नलं सेतुमकारयत् ।।1.1.80।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has the correct two-half-verse boundary. This overlay normalizes display layout, numeric punctuation and any ASCII visarga, and supplies matching IAST. It does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "The complete numbered Sanskrit Documents parallel supplies all ten boundaries. Cached IIT verse-71 and verse-76 pages corroborate 71 and separately marked 76–77; indexed IIT base-Sanskrit blocks corroborate the remaining verses. These are cached/indexed witnesses, not a fresh direct IIT download or full collation. Direct sarga, 77 and 80 opens timed out; 74 and 78 were inaccessible. Numbered commentary blocks disclose distinct readings at 74, 77 and 78 without replacing the imported lexemes or base numbering.",
+    "sourceSegments": [
+      {
+        "row": "1.1.80",
+        "segment": 1
+      },
+      {
+        "row": "1.1.80",
+        "segment": 2
+      }
+    ],
+    "latin": "darśayāmāsa cātmānaṃ samudrassaritāṃ patiḥ | samudravacanāccaiva nalaṃ setumakārayat ||"
   }
 }

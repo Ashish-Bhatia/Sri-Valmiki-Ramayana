@@ -1,6 +1,6 @@
 "use strict";
 /* Static reader. No bundler, server, remote AI service or deployment workflow. */
-const EDITION_REVISION="1.1.70";
+const EDITION_REVISION="1.1.80";
 const BOOKS=[
  {en:"Bāla Kāṇḍa",hi:"बालकाण्डम्",id:"Bala Kanda",desc:"The beginnings of Rāma's story, the sage Vālmīki's enquiry, the princes' early years and the wedding of Sītā and Rāma."},
  {en:"Ayodhyā Kāṇḍa",hi:"अयोध्याकाण्डम्",id:"Ayodhya Kanda",desc:"Royal succession, the promised boons, exile and the choices facing the royal family."},

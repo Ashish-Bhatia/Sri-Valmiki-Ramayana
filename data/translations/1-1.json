@@ -1,8 +1,8 @@
 {
   "kanda": 1,
   "sarga": 1,
-  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–70, with source-access limitations recorded per verse.",
-  "sourceVerseIds": "1.1.1–1.1.70",
+  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–80, with source-access limitations recorded per verse.",
+  "sourceVerseIds": "1.1.1–1.1.80",
   "verses": {
     "1": {
       "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
@@ -1298,6 +1298,230 @@
           "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
         ],
         "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "71": {
+      "en": "He, foremost among vānaras [Sugrīva], gathered all the vānaras and sent them out in different directions, wishing to see Janaka’s daughter [Sītā].",
+      "hi": "वानरों में श्रेष्ठ [सुग्रीव] ने जनकपुत्री [सीता] को देखने की इच्छा से सभी वानरों को एकत्र करके अलग-अलग दिशाओं में भेज दिया।",
+      "connection": {
+        "en": "Nārada continues narrating to Vālmīki. “He” refers to Sugrīva, established as ruler in 1.1.70. The supplied names are bracketed. The verse states the purpose of the dispatch without supplying the search parties’ orders or routes.",
+        "hi": "नारद वाल्मीकि को कथा सुना रहे हैं। यहाँ वानरों में श्रेष्ठ व्यक्ति 1.1.70 में राज्य पर प्रतिष्ठित सुग्रीव हैं। स्पष्टता के लिए जोड़े गए नाम कोष्ठकों में हैं। श्लोक वानरों को भेजने का उद्देश्य बताता है। खोज-दलों के आदेश या मार्ग यहाँ नहीं दिए गए हैं।"
+      },
+      "context": {
+        "en": "A shared search requires people to be gathered and work to be distributed. This is a present-day reflection on the dispatch described here.",
+        "hi": "किसी सामूहिक खोज के लिए लोगों को एकत्र करना और काम बाँटना आवश्यक होता है। यह यहाँ वर्णित प्रस्थान पर आधारित आधुनिक विवेचन है।"
+      },
+      "teaching": {
+        "en": "Organize the people taking part and distribute work toward a clear shared purpose.",
+        "hi": "भाग लेने वाले लोगों को संगठित करें और स्पष्ट साझा उद्देश्य के लिए काम बाँटें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "72": {
+      "en": "Then, following the word of the vulture Sampāti, mighty Hanumān leapt across the salt ocean, a hundred yojanas wide.",
+      "hi": "फिर गृध्र सम्पाति के कहने पर बलवान हनुमान ने सौ योजन चौड़े खारे समुद्र को लाँघ लिया।",
+      "connection": {
+        "en": "Sampāti is explicitly a vulture here. His report is mentioned, but its spoken words and further family relationships are not given. The width remains in the text’s traditional unit, the yojana; no fixed modern conversion is supplied.",
+        "hi": "यहाँ सम्पाति को स्पष्ट रूप से गृध्र कहा गया है। उनके कथन का उल्लेख है, पर उसके प्रत्यक्ष शब्द या अन्य पारिवारिक सम्बन्ध नहीं बताए गए हैं। दूरी पाठ की परम्परागत इकाई योजन में ही रखी गई है। उसका कोई निश्चित आधुनिक रूपान्तरण नहीं दिया गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "73": {
+      "en": "There, reaching the city of Laṅkā ruled by Rāvaṇa, [Hanumān] saw Sītā absorbed in thought in the aśoka grove.",
+      "hi": "वहाँ रावण द्वारा शासित लङ्का नगरी पहुँचकर [हनुमान] ने अशोक वाटिका में स्थित, चिन्तन में लीन सीता को देखा।",
+      "connection": {
+        "en": "The bracketed subject continues Hanumān from 1.1.72. ध्यायन्तीम् describes Sītā as contemplating; the object of her thought is not stated in this verse. No additional words or conversation are supplied.",
+        "hi": "कोष्ठकों का कर्ता 1.1.72 से चले आ रहे हनुमान को स्पष्ट करता है। ध्यायन्तीम् में सीता के चिन्तन का भाव है। वे किसका चिन्तन कर रही हैं, यह इस श्लोक में नहीं कहा गया है। कोई अतिरिक्त कथन या संवाद नहीं जोड़ा गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "74": {
+      "en": "After presenting a token of recognition, giving the news and reassuring Vaidehī, [Hanumān] smashed the gateway arch.",
+      "hi": "पहचान की निशानी देकर, वृत्तान्त बताकर और वैदेही को ढाढ़स बँधाकर [हनुमान] ने द्वार का तोरण तोड़ डाला।",
+      "connection": {
+        "en": "Vaidehī is Sītā. The verse names a recognition token and news without specifying a ring or the content of the report. तोरणम् is the gateway arch; the destruction of the whole grove is not inserted. The import’s double avagraha and च निवेद्य च are retained. An indexed IIT numbered commentary block instead has विनिवेद्य च.",
+        "hi": "वैदेही सीता हैं। श्लोक में पहचान की निशानी और वृत्तान्त का उल्लेख है। निशानी को अँगूठी नहीं कहा गया है और वृत्तान्त का विषय भी नहीं दिया गया है। तोरणम् द्वार का तोरण है। पूरी वाटिका का विनाश यहाँ नहीं जोड़ा गया है। आयातित पाठ के दोनों अवग्रह और च निवेद्य च रखे गए हैं। IIT के एक अनुक्रमित क्रमांकित टीका-पाठ में इसके स्थान पर विनिवेद्य च है।"
+      },
+      "context": {
+        "en": "A recognizable token and clear information help establish trust when delivering important news. The destruction that follows is a separate narrative action.",
+        "hi": "महत्त्वपूर्ण सूचना देते समय पहचान की निशानी और स्पष्ट जानकारी भरोसा स्थापित करने में सहायक होती हैं। उसके बाद हुआ विध्वंस कथा का अलग कार्य है।"
+      },
+      "teaching": {
+        "en": "Support reassurance with a basis for recognition and clear information.",
+        "hi": "ढाढ़स बँधाते समय पहचान का आधार और स्पष्ट जानकारी दें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "75": {
+      "en": "Having killed five commanders and seven ministers’ sons, and crushed the valiant Akṣa, [Hanumān] was taken captive.",
+      "hi": "पाँच सेनानायकों और मन्त्रियों के सात पुत्रों का वध करके तथा वीर अक्ष को कुचलकर [हनुमान] बन्दी हुए।",
+      "connection": {
+        "en": "Five commanders and seven sons of ministers are distinct counts. Akṣa is named separately. This verse does not name the captor or the weapon. The account of release from the weapon and forbearance begins in 1.1.76.",
+        "hi": "पाँच सेनानायक और मन्त्रियों के सात पुत्र अलग-अलग संख्याएँ हैं। अक्ष का नाम अलग से आया है। इस श्लोक में बन्दी बनाने वाले या अस्त्र का नाम नहीं है। अस्त्र से मुक्ति और राक्षसों को सहन करने का प्रसंग 1.1.76 में शुरू होता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "76": {
+      "en": "Knowing himself released from the weapon’s [bond] through a boon from Brahmā, the valiant [Hanumān], willingly bearing with those rākṣasas who were restraining [him]...",
+      "hi": "ब्रह्मा के वरदान से अस्त्र के [बन्धन] से अपने को मुक्त जानकर, अपने को बाँधने वाले उन राक्षसों को स्वेच्छा से सहन करते हुए वीर [हनुमान]...",
+      "connection": {
+        "en": "This participial construction continues into 1.1.77, where the main verb “returned” and concluding subject “the great vānara” occur. The supplied name, bond and pronoun are bracketed. The Sanskrit says that he knew himself released, not merely able to obtain release. It gives no duration, rope material, weapon name or spoken terms of the boon. Raw 76 and 77 repeat both verses; the corrected sequence uses the four half-verses once.",
+        "hi": "यह कृदन्त-प्रधान वाक्य 1.1.77 में जारी है। मुख्य क्रिया “लौट आए” और अन्त में कर्ता “महाकपि” वहीं आते हैं। जोड़े गए नाम और बन्धन को कोष्ठकों में दिखाया गया है। संस्कृत में अपने को मुक्त जानना कहा गया है, केवल मुक्त हो सकने की क्षमता नहीं। यहाँ समयावधि, रस्सी का पदार्थ, अस्त्र का नाम या वरदान के प्रत्यक्ष शब्द नहीं हैं। आयातित 76 और 77 में दोनों श्लोक दोहराए गए हैं। संशोधित क्रम में चारों अर्धश्लोक एक ही बार लिए गए हैं।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+          "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=76&language=dv"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "77": {
+      "en": "...then, after burning the city of Laṅkā while sparing Maithilī Sītā, the great vānara [Hanumān] returned to tell Rāma the welcome [news].",
+      "hi": "...फिर मैथिली सीता को छोड़कर लङ्का नगरी को जलाकर महाकपि [हनुमान] राम को प्रिय [समाचार] सुनाने के लिए लौट आए।",
+      "connection": {
+        "en": "This completes the construction begun in 1.1.76. ऋते excepts Sītā from the burning. The Sanskrit does not name other spared buildings or narrate a meeting with Rāvaṇa here. “News” is supplied for प्रियम् and marked in brackets. च मैथिलीम् agrees with the complete parallel and cached IIT 76/77 page; an indexed numbered commentary block has तु मैथिलीम्. The imported च is retained.",
+        "hi": "यह 1.1.76 में शुरू हुए वाक्य को पूरा करता है। ऋते से सीता को जलाने की क्रिया से अलग रखा गया है। संस्कृत में यहाँ अन्य बचाए गए भवनों का नाम या रावण से भेंट का वर्णन नहीं है। प्रियम् के लिए निहित “समाचार” को कोष्ठकों में रखा गया है। च मैथिलीम् पूर्ण समानान्तर पाठ और IIT के संचित 76/77 पृष्ठ से मेल खाता है। एक अनुक्रमित क्रमांकित टीका-पाठ में तु मैथिलीम् है। आयातित च ही रखा गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+          "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=76&language=dv"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "78": {
+      "en": "He, whose spirit was beyond measure, approached the great-souled Rāma, circumambulated him, and truthfully reported, “Sītā has been seen.”",
+      "hi": "अपरिमित आत्मबल वाले वे [हनुमान] महात्मा राम के पास गए, उनकी प्रदक्षिणा की और यथार्थ रूप से बताया, “सीता देखी गई हैं।”",
+      "connection": {
+        "en": "Nārada reports Hanumān’s actual short statement here. The quotation preserves the passive “Sītā has been seen”; no further speech is invented. प्रदक्षिणम् denotes circling with the honoured person to one’s right. The import’s अधिगम्य, also in indexed IIT base Sanskrit, is retained against अभिगम्य in the numbered commentary witness and the parallel’s printed अभिगंय.",
+        "hi": "नारद यहाँ हनुमान का संक्षिप्त वास्तविक कथन बताते हैं। उद्धरण में “सीता देखी गई हैं” का कर्मवाच्य रखा गया है। कोई आगे का संवाद नहीं गढ़ा गया है। प्रदक्षिणा में आदरणीय व्यक्ति को अपनी दाहिनी ओर रखते हुए परिक्रमा की जाती है। आयातित अधिगम्य IIT के अनुक्रमित मूल संस्कृत में भी है। टीका-पाठ के अभिगम्य और समानान्तर पाठ के मुद्रित अभिगंय के स्थान पर वही रखा गया है।"
+      },
+      "context": {
+        "en": "An important report is clearest when it states what was observed. Here the report first establishes that Sītā was seen.",
+        "hi": "महत्त्वपूर्ण सूचना में जो प्रत्यक्ष देखा गया हो, उसे स्पष्ट कहना उपयोगी होता है। यहाँ सूचना सबसे पहले सीता के देखे जाने की पुष्टि करती है।"
+      },
+      "teaching": {
+        "en": "Report the verified result clearly and truthfully.",
+        "hi": "सत्यापित परिणाम को स्पष्ट और सत्य रूप में बताएँ।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; Hanumān’s brief report is quoted in 78.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "79": {
+      "en": "Then [Rāma], accompanied by Sugrīva, went to the shore of the great ocean and stirred up the sea with arrows resembling the sun.",
+      "hi": "फिर सुग्रीव के साथ [राम] महासागर के तट पर गए और सूर्य के समान बाणों से समुद्र को क्षुब्ध कर दिया।",
+      "connection": {
+        "en": "The subject changes from Hanumān to Rāma; the supplied name is bracketed in both languages. The arrows are compared with the sun. No refusal by the Ocean, drying-up mechanism or general endorsement of coercion is added to this compressed action.",
+        "hi": "यहाँ कर्ता हनुमान से बदलकर राम हो जाते हैं। स्पष्टता के लिए नाम दोनों भाषाओं में कोष्ठकों में है। बाणों की सूर्य से तुलना की गई है। इस संक्षिप्त क्रिया में समुद्र का इनकार, पानी सुखाने की प्रक्रिया या बल-प्रयोग का कोई सामान्य समर्थन नहीं जोड़ा गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
+      }
+    },
+    "80": {
+      "en": "The Ocean, lord of rivers, revealed himself. At the Ocean’s word, [Rāma] had Nala build a bridge.",
+      "hi": "नदियों के स्वामी समुद्र ने स्वयं को प्रकट किया। समुद्र के कहने पर [राम] ने नल से सेतु बनवाया।",
+      "connection": {
+        "en": "The first half personifies the Ocean. In the second, the causative अकारयत् distinguishes [Rāma], who has the work done, from Nala, who builds. The verse gives no spoken wording, construction method, floating-stone claim or modern site identification. The crossing by that bridge begins in 1.1.81 and is not moved here.",
+        "hi": "पहले अर्धश्लोक में समुद्र का मानवीकरण है। दूसरे में प्रेरणार्थक अकारयत् काम करवाने वाले [राम] और बनाने वाले नल के बीच भेद स्पष्ट करता है। यहाँ प्रत्यक्ष संवाद, निर्माण-विधि, तैरते पत्थरों का दावा या आधुनिक स्थान की पहचान नहीं है। उस सेतु से पार जाने का वर्णन 1.1.81 में शुरू होता है, उसे यहाँ नहीं लाया गया है।"
+      },
+      "context": {
+        "en": "Naming the person who will carry out a task helps make responsibility clear. This is an editorial application of Nala’s named role.",
+        "hi": "किसी काम को करने वाले व्यक्ति का नाम तय होने से जिम्मेदारी स्पष्ट होती है। यह नल की उल्लिखित भूमिका पर आधारित संपादकीय अनुप्रयोग है।"
+      },
+      "teaching": {
+        "en": "Make clear who is responsible for carrying out an agreed task.",
+        "hi": "तय किए गए काम को करने की जिम्मेदारी किसकी है, यह स्पष्ट करें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered parallel and cached/indexed IIT Sanskrit witnesses were compared. No fresh direct IIT download, full critical collation or independent human review is claimed. Documented witness differences are retained and disclosed."
       }
     }
   }
