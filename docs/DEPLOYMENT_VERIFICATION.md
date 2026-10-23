@@ -1,3 +1,17 @@
+# Publication checkpoint: Bāla Kāṇḍa 1.1.41–1.1.50
+
+Date: 23 October 2026, Asia/Kolkata.
+
+The ten new translations and nine boundary overlays pass local publication checks. Fifty-verse deployment is pending this content push. Do not treat the older forty-verse verification below as evidence for the new public bytes.
+
+Baseline main `27a4232240a5e22f3bcbbedd33f676441e92b126` has successful managed run [39886119077](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39886119077). Build job `120194582631` verifies checkout `ref: main`, Jekyll `source: .`, matching `build_revision`, `_config.yml` and explicit exclusions for docs, scripts and README.md. The baseline root returned HTTP 200. Administrative Pages settings were not read. No custom workflow exists.
+
+After push, record the content commit, managed run/jobs, main/root build inputs, public-byte comparisons, internal-path 404 checks and focused live reader results here. Update both continuity checkpoints in the evidence commit.
+
+---
+
+## Earlier verification record: coverage through 1.1.40
+
 # Verified publication: Bāla Kāṇḍa 1.1.31–1.1.40
 
 Date: 23 October 2026, Asia/Kolkata.

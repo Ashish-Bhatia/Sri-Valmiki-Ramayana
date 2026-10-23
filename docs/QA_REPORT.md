@@ -50,7 +50,7 @@ Clone the repository and run `node scripts/audit-corpus.mjs --check`. To recompu
 - Before declaring a sarga complete, verify sequential addresses, exact Sanskrit segmentation, parallel same-recension witness, English/Hindi translations, references and teaching vs interpretation classification.
 
 ## Priority
-**Next: Bāla Kāṇḍa Sarga 1, verses 41–50**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
+**Next: Bāla Kāṇḍa Sarga 1, verses 51–60**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
 
 ## Completed boundary audit: 1.1.18–1.1.30
 
@@ -69,3 +69,13 @@ Ten verses receive independent English and Hindi translations and ten source-pre
 The three newly resolved baseline flags are 1.1.31, 1.1.39 and 1.1.40. Seven defects in previously unflagged rows 32–38 were also corrected. Cumulative totals: 40 bilingual translations, 23 boundary-checked verses, 21 boundary overlays, thirteen baseline flags with corrected displays and 3,200 unresolved baseline flags. The earlier 1.1.6 lexical correction remains separate. The raw 3,213-flag manifest and all seven source files remain unchanged. The publication verifier now checks 46 distinct hemistichs across 18–40. All thirty previous translation objects and twelve previous errata objects match the latest-main baseline.
 
 The next batch is exactly **1.1.41–1.1.50**. Imported rows 41–43 again combine or displace adjacent hemistichs. Start 41 with प्रविश्य तु महारण्यं… and restore सुतीक्ष्णं… to 42a. Post-push Pages and reader verification for this batch is recorded in `docs/DEPLOYMENT_VERIFICATION.md` when complete.
+
+## Completed boundary audit: 1.1.41–1.1.50
+
+Boundaries were aligned before translation. [The ledger](./TEXTUAL_AUDIT_1_1_41_50.md) maps all twenty imported hemistichs to the ten numbered verses. Nine new overlays restore 41–45 and 47–50; 46 is already correctly bounded. The imported वने in 48a remains explicit despite the parallel's रणे. Indexed IIT passages provide selected corroboration, with direct access unavailable. No full critical collation or independent human review is claimed.
+
+Cumulative totals are fifty consecutive English/Hindi records, thirty-three boundary-checked verses, thirty boundary overlays and sixty-six distinct hemistichs across 18–50. The earlier 1.1.6 lexical correction remains separate. Two additional baseline flags, 44 and 45, now have corrected displays. Fifteen baseline flags are resolved in the display and 3,198 remain unresolved by boundary overlays. Seven new unflagged defects in 41–43 and 47–50 are also corrected.
+
+Passed: `node --check assets/app.js`, `node scripts/audit-corpus.mjs --check` and `node scripts/verify-publication.mjs`. The publication verifier also checks the exact new alignment map, no translation of 51, the retained वने reading and matching `1.1.50` script/data cache markers. All forty prior translation objects and twenty-two prior errata objects match baseline `27a4232240a5e22f3bcbbedd33f676441e92b126`. Seven raw files, the flag manifest, `_config.yml` and the two earlier audit ledgers are byte-identical.
+
+Exactly next: **1.1.51–1.1.60**, beginning न विरोधो बलवता क्षमो रावण तेन ते… in 51a. Imported rows again cross boundaries. Audit duplicate 54/55 blocks and the stray `1151` token in row 56 before translating. Publication evidence is maintained in `docs/DEPLOYMENT_VERIFICATION.md`.

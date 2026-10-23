@@ -423,5 +423,185 @@
       }
     ],
     "latin": "rāmastu punarālakṣya nāgarasya janasya ca | tatrāgamanamekāgro daṇḍakānpraviveśa ha ||"
+  },
+  "1.1.41": {
+    "text": "प्रविश्य तु महारण्यं रामो राजीवलोचनः ।\nविराधं राक्षसं हत्वा शरभङ्गं ददर्श ह ।।1.1.41।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.41",
+        "segment": 1
+      },
+      {
+        "row": "1.1.41",
+        "segment": 2
+      }
+    ],
+    "latin": "praviśya tu mahāraṇyaṃ rāmo rājīvalocanaḥ | virādhaṃ rākṣasaṃ hatvā śarabhaṅgaṃ dadarśa ha ||"
+  },
+  "1.1.42": {
+    "text": "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा ।\nअगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम् ।।1.1.42।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.41",
+        "segment": 3
+      },
+      {
+        "row": "1.1.42",
+        "segment": 1
+      }
+    ],
+    "latin": "sutīkṣṇaṃ cāpyagastyaṃ ca agastyabhrātaraṃ tathā | agastyavacanāccaiva jagrāhaindraṃ śarāsanam ||"
+  },
+  "1.1.43": {
+    "text": "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ ।\nवसतस्तस्य रामस्य वने वनचरैस्सह ।।1.1.43।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.42",
+        "segment": 2
+      },
+      {
+        "row": "1.1.43",
+        "segment": 1
+      }
+    ],
+    "latin": "khaḍgaṃ ca paramaprītastūṇī cākṣayasāyakau | vasatastasya rāmasya vane vanacaraissaha ||"
+  },
+  "1.1.44": {
+    "text": "ऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम् ।\nस तेषां प्रतिशुश्राव राक्षसानां तथा वने ।।1.1.44।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.43",
+        "segment": 2
+      },
+      {
+        "row": "1.1.44",
+        "segment": 1
+      }
+    ],
+    "latin": "ṛṣayo’bhyāgamansarve vadhāyāsurarakṣasām | sa teṣāṃ pratiśuśrāva rākṣasānāṃ tathā vane ||"
+  },
+  "1.1.45": {
+    "text": "प्रतिज्ञातश्च रामेण वधस्संयति रक्षसाम् ।\nऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम् ।।1.1.45।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.44",
+        "segment": 2
+      },
+      {
+        "row": "1.1.44",
+        "segment": 3
+      }
+    ],
+    "latin": "pratijñātaśca rāmeṇa vadhassaṃyati rakṣasām | ṛṣīṇāmagnikalpānāṃ daṇḍakāraṇyavāsinām ||"
+  },
+  "1.1.47": {
+    "text": "ततश्शूर्पणखावाक्यादुद्युक्तान्सर्वराक्षसान् ।\nखरं त्रिशिरसं चैव दूषणं चैव राक्षसम् ।।1.1.47।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.47",
+        "segment": 1
+      },
+      {
+        "row": "1.1.47",
+        "segment": 2
+      }
+    ],
+    "latin": "tataśśūrpaṇakhāvākyādudyuktānsarvarākṣasān | kharaṃ triśirasaṃ caiva dūṣaṇaṃ caiva rākṣasam ||"
+  },
+  "1.1.48": {
+    "text": "निजघान वने रामस्तेषां चैव पदानुगान् ।\nवने तस्मिन्निवसता जनस्थाननिवासिनाम् ।।1.1.48।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate. The imported वने (in the forest) is retained; the parallel has रणे (in battle). This boundary correction does not resolve that lexical difference.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.47",
+        "segment": 3
+      },
+      {
+        "row": "1.1.48",
+        "segment": 1
+      }
+    ],
+    "latin": "nijaghāna vane rāmasteṣāṃ caiva padānugān | vane tasminnivasatā janasthānanivāsinām ||"
+  },
+  "1.1.49": {
+    "text": "रक्षसां निहतान्यासन्सहस्राणि चतुर्दश ।\nततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः ।।1.1.49।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.48",
+        "segment": 2
+      },
+      {
+        "row": "1.1.49",
+        "segment": 1
+      }
+    ],
+    "latin": "rakṣasāṃ nihatānyāsansahasrāṇi caturdaśa | tato jñātivadhaṃ śrutvā rāvaṇaḥ krodhamūrchitaḥ ||"
+  },
+  "1.1.50": {
+    "text": "सहायं वरयामास मारीचं नाम राक्षसम् ।\nवार्यमाणस्सुबहुशो मारीचेन स रावणः ।।1.1.50।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from the unchanged imported hemistichs, checked against the complete numbered Sanskrit parallel and available indexed IIT base-Sanskrit passages. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.49",
+        "segment": 2
+      },
+      {
+        "row": "1.1.50",
+        "segment": 1
+      }
+    ],
+    "latin": "sahāyaṃ varayāmāsa mārīcaṃ nāma rākṣasam | vāryamāṇassubahuśo mārīcena sa rāvaṇaḥ ||"
   }
 }

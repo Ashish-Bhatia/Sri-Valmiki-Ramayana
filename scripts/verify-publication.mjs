@@ -27,7 +27,7 @@ const rows=new Map(books.flatMap((b,i)=>b.verses.map(row=>[`${i+1}.${row.s}.${ro
 assert.equal(rows.size,23291);
 const translations=json('data/translations/1-1.json');
 const numbers=Object.keys(translations.verses).map(Number).sort((a,b)=>a-b);
-assert.deepEqual(numbers,Array.from({length:40},(_,i)=>i+1));
+assert.deepEqual(numbers,Array.from({length:50},(_,i)=>i+1));
 const errata=json('data/errata.json');
 const flags=json('data/quality-flags.json');
 const normalize=s=>s.replace(/:/g,'ः').replace(/\s+/g,'').normalize('NFC');
@@ -37,7 +37,12 @@ function segments(text){
 const used=new Set();
 let corrected=0;
 let resolvedFlags=0;
-for(let n=18;n<=40;n++){
+const newBoundaryMap={
+ 41:[[41,1],[41,2]],42:[[41,3],[42,1]],43:[[42,2],[43,1]],
+ 44:[[43,2],[44,1]],45:[[44,2],[44,3]],46:[[46,1],[46,2]],
+ 47:[[47,1],[47,2]],48:[[47,3],[48,1]],49:[[48,2],[49,1]],50:[[49,2],[50,1]]
+};
+for(let n=18;n<=50;n++){
  const id=`1.1.${n}`;
  const correction=errata[id];
  const tr=translations.verses[n];
@@ -46,6 +51,13 @@ for(let n=18;n<=40;n++){
  assert.equal(tr.review?.sanskrit,'verse-boundaries-checked');
  for(const field of ['context','teaching','connection']){
   if(tr[field])assert.ok(tr[field].en?.trim()&&tr[field].hi?.trim(),`Both annotation languages required: ${id}/${field}`);
+ }
+ if(newBoundaryMap[n]){
+  const expected=newBoundaryMap[n].map(([row,segment])=>({row:`1.1.${row}`,segment}));
+  if(n===46){
+   assert.ok(!correction,'Verse 46 already has correct raw boundaries.');
+   assert.equal(segments(rows.get(id).text).length,2);
+  }else assert.deepEqual(correction?.sourceSegments,expected,`Incorrect audited alignment: ${id}`);
  }
  if(!correction)continue;
  corrected++;
@@ -67,18 +79,23 @@ for(let n=18;n<=40;n++){
  assert.deepEqual(markers,[id],`Wrong or merged numeric address: ${id}`);
  if(flags.flags[id])resolvedFlags++;
 }
-assert.equal(corrected,21);
-assert.equal(resolvedFlags,13);
-// The full passage 18–40 contains 46 unique hemistichs, without lost or repeated text.
-const ordered=Array.from({length:23},(_,i)=>{
+assert.equal(corrected,30);
+assert.equal(resolvedFlags,15);
+// The full passage 18–50 contains 66 unique hemistichs, without lost or repeated text.
+const ordered=Array.from({length:33},(_,i)=>{
  const id=`1.1.${i+18}`;return segments(errata[id]?.text||rows.get(id).text);
 }).flat().map(normalize);
-assert.equal(ordered.length,46);
-assert.equal(new Set(ordered).size,46);
+assert.equal(ordered.length,66);
+assert.equal(new Set(ordered).size,66);
+assert.ok(!translations.verses['51'],'Verse 51 must remain pending.');
+assert.ok(!errata['1.1.50'].text.includes('न विरोधो'),'Mārīca’s warning belongs to verse 51.');
+assert.ok(errata['1.1.48'].text.startsWith('निजघान वने'),'Preserve the imported वने lexical reading.');
 const index=read('index.html');
-assert.match(index,/<strong id="translatedCount">40<\/strong>/);
-assert.match(index,/assets\/app\.js\?edition=1\.1\.40/);
-assert.match(read('assets/app.js'),/EDITION_REVISION="1\.1\.40"/);
+assert.match(index,/<strong id="translatedCount">50<\/strong>/);
+assert.match(index,/assets\/app\.js\?edition=1\.1\.50/);
+assert.match(read('assets/app.js'),/EDITION_REVISION="1\.1\.50"/);
+assert.match(read('sources.html'),/through 1\.1\.50/);
+assert.match(read('sources.html'),/1\.1\.18–1\.1\.50/);
 assert.match(index,/<title>Sri Valmiki Ramayana \(A Version of the AI Era\)<\/title>/);
 assert.ok(!existsSync(resolve(root,'.nojekyll')),'The .nojekyll bypass would disable publication exclusions.');
 for(const path of ['docs','scripts','README.md','AGENTS.md'])assert.ok(read('_config.yml').includes(`  - ${path}`));
@@ -89,4 +106,4 @@ for(const file of readdirSync(root).filter(p=>p.endsWith('.html'))){
   assert.ok(existsSync(resolve(root,match[1])),`Broken local asset/link in ${file}: ${match[1]}`);
  }
 }
-console.log(JSON.stringify({result:'PASS',rawSanskritRecords:rows.size,bilingualVerses:numbers.length,boundaryCheckedVerses:23,newBoundaryCheckedVerses:10,correctedOverlays:corrected,rawFlagsResolvedInDisplay:resolvedFlags,remainingBaselineFlags:flags.flagCount-resolvedFlags,nextUntranslated:'1.1.41–1.1.50'},null,2));
+console.log(JSON.stringify({result:'PASS',rawSanskritRecords:rows.size,bilingualVerses:numbers.length,boundaryCheckedVerses:33,newBoundaryCheckedVerses:10,correctedOverlays:corrected,rawFlagsResolvedInDisplay:resolvedFlags,remainingBaselineFlags:flags.flagCount-resolvedFlags,nextUntranslated:'1.1.51–1.1.60'},null,2));

@@ -1,8 +1,8 @@
 {
   "kanda": 1,
   "sarga": 1,
-  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–40, with source-access limitations recorded per verse.",
-  "sourceVerseIds": "1.1.1–1.1.40",
+  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–50, with source-access limitations recorded per verse.",
+  "sourceVerseIds": "1.1.1–1.1.50",
   "verses": {
     "1": {
       "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
@@ -636,6 +636,226 @@
           "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
         ],
         "limitation": "Complete numbered parallel used for all ten boundaries; indexed IIT base-Sanskrit extracts corroborate selected passages. Direct IIT access failed. Imported lexical readings are preserved. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "41": {
+      "en": "After entering the great forest and slaying the rākṣasa Virādha, lotus-eyed Rāma saw Śarabhaṅga...",
+      "hi": "विशाल वन में प्रवेश कर और राक्षस विराध का वध करके कमलनयन राम ने शरभङ्ग को देखा...",
+      "connection": {
+        "en": "The list of those whom Rāma saw continues in 1.1.42a. Sutīkṣṇa, Agastya and Agastya’s brother belong to that next half-verse.",
+        "hi": "राम ने जिनसे भेंट की, उनकी सूची 1.1.42 के पहले अर्धश्लोक में जारी है। सुतीक्ष्ण, अगस्त्य और अगस्त्य के भाई का उल्लेख उसी अगले अर्धश्लोक में है।"
+      },
+      "context": {
+        "en": "Entering unfamiliar surroundings involves learning about both dangers and sources of guidance. The narrative places a confrontation beside a meeting with a sage.",
+        "hi": "अनजाने स्थान में प्रवेश करने पर वहाँ के संकटों और मार्गदर्शन देने वालों, दोनों को समझना पड़ता है। कथा में संघर्ष के साथ ऋषि से भेंट भी आती है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "42": {
+      "en": "...Sutīkṣṇa too, Agastya, and Agastya’s brother as well. At Agastya’s bidding, he received Indra’s bow...",
+      "hi": "...सुतीक्ष्ण को भी, अगस्त्य को और अगस्त्य के भाई को भी। अगस्त्य के कहने पर उन्होंने इन्द्र का धनुष लिया...",
+      "connection": {
+        "en": "The first half completes the list begun in 1.1.41. The second begins the acceptance of weapons, continued by the sword and two quivers in 1.1.43a. The brother is not named in this verse.",
+        "hi": "पहला अर्धश्लोक 1.1.41 से शुरू हुई सूची पूरी करता है। दूसरे में अस्त्र लेने का वर्णन शुरू होता है। तलवार और दो तरकस 1.1.43 के पहले अर्धश्लोक में आते हैं। इस श्लोक में अगस्त्य के भाई का नाम नहीं दिया गया है।"
+      },
+      "context": {
+        "en": "Rāma receives equipment through a sage’s guidance. For present-day readers, this invites reflection on seeking advice when accepting new resources or responsibilities.",
+        "hi": "ऋषि के मार्गदर्शन में राम अस्त्र ग्रहण करते हैं। आज के पाठक इससे नए संसाधन या दायित्व स्वीकार करते समय सलाह लेने पर विचार कर सकते हैं।"
+      },
+      "teaching": {
+        "en": "Seek informed guidance when taking on unfamiliar responsibilities.",
+        "hi": "नए दायित्व स्वीकार करते समय जानकार व्यक्ति का मार्गदर्शन लें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "43": {
+      "en": "Deeply pleased, [he also received] a sword and two quivers with inexhaustible arrows. While that Rāma was living in the forest with the forest dwellers...",
+      "hi": "अत्यन्त प्रसन्न होकर [उन्होंने] एक तलवार और कभी समाप्त न होने वाले बाणों से भरे दो तरकस भी [लिए]। उन राम के वनचरों के साथ वन में रहते समय...",
+      "connection": {
+        "en": "The bracketed words carry forward the verb from 1.1.42b. Two quivers are specified. The residence clause in the second half continues into the sages’ arrival in 1.1.44a; “with the forest dwellers” belongs to that residence clause.",
+        "hi": "कोष्ठकों के शब्द 1.1.42 के दूसरे अर्धश्लोक की क्रिया को आगे जोड़ते हैं। यहाँ दो तरकस कहे गए हैं। दूसरे अर्धश्लोक में राम के वन में रहने का प्रसंग शुरू होता है, जो 1.1.44 के पहले अर्धश्लोक में ऋषियों के आगमन तक चलता है। “वनचरों के साथ” का सम्बन्ध उसी निवास से है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "44": {
+      "en": "...all the sages approached [Rāma] for the slaying of asuras and rākṣasas. He gave them his promise there in the forest of the rākṣasas.",
+      "hi": "...असुरों और राक्षसों के वध के लिए सभी ऋषि [राम के पास] आए। राक्षसों के उस वन में उन्होंने ऋषियों को वचन दिया।",
+      "connection": {
+        "en": "The opening completes the residence clause in 1.1.43b. The second half narrates Rāma’s assent; the precise promise is stated in 1.1.45. No direct quotation is supplied.",
+        "hi": "आरम्भ 1.1.43 के दूसरे अर्धश्लोक से चले आ रहे वाक्य को पूरा करता है। दूसरे अर्धश्लोक में राम की स्वीकृति का वर्णन है। वचन का स्पष्ट विषय 1.1.45 में आता है। यहाँ कोई प्रत्यक्ष संवाद नहीं जोड़ा गया है।"
+      },
+      "context": {
+        "en": "The sages seek help from someone they believe able to act. A modern reflection is to hear a request carefully before undertaking a responsibility.",
+        "hi": "ऋषि ऐसे व्यक्ति से सहायता माँगते हैं जिसे वे कार्य करने में समर्थ मानते हैं। आज के संदर्भ में इससे कोई उत्तरदायित्व लेने से पहले प्रार्थना ध्यान से समझने का विचार मिलता है।"
+      },
+      "teaching": {
+        "en": "Understand the help being sought before giving your word.",
+        "hi": "वचन देने से पहले समझें कि किस सहायता की अपेक्षा की जा रही है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "45": {
+      "en": "Rāma also promised the sages, who resembled fire and lived in the Daṇḍaka forest, that he would slay the rākṣasas in battle.",
+      "hi": "अग्नि के समान उन दण्डकारण्यवासी ऋषियों से राम ने युद्ध में राक्षसों का वध करने की प्रतिज्ञा भी की।",
+      "connection": {
+        "en": "This specifies the promise narrated in 1.1.44b. “Resembled fire” is a poetic description of the sages; “in battle” translates संयति.",
+        "hi": "यह 1.1.44 के दूसरे अर्धश्लोक में आए वचन का विषय स्पष्ट करता है। “अग्नि के समान” ऋषियों की काव्यात्मक उपमा है। “युद्ध में” संयति का अनुवाद है।"
+      },
+      "teaching": {
+        "en": "A commitment becomes concrete when the promised action is clearly stated.",
+        "hi": "प्रतिज्ञा में किए जाने वाले कार्य का स्पष्ट उल्लेख उसे ठोस रूप देता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "46": {
+      "en": "Śūrpaṇakhā, a rākṣasī dwelling in Janasthāna with the power to change her form at will, was disfigured by [Rāma], who was living in that same place.",
+      "hi": "वहीं रहते हुए [राम] ने जनस्थान की निवासी, इच्छानुसार रूप बदलने वाली राक्षसी शूर्पणखा को विरूप कर दिया।",
+      "connection": {
+        "en": "The bracketed name expands तेन, “by him”, referring back to Rāma in this condensed account. This verse gives no details of the injuries or sequence of actions. Read the longer episode for those details.",
+        "hi": "इस संक्षिप्त वर्णन में तेन, अर्थात् “उनके द्वारा”, का संकेत राम की ओर है। इसे स्पष्ट करने के लिए नाम कोष्ठकों में दिया गया है। इस श्लोक में चोटों या घटनाक्रम का विवरण नहीं है। उनके लिए विस्तृत प्रसंग पढ़ें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "47": {
+      "en": "Then all the rākṣasas stirred to action by Śūrpaṇakhā’s words, Khara, Triśiras, and the rākṣasa Dūṣaṇa...",
+      "hi": "तब शूर्पणखा की बात से उद्यत हुए सभी राक्षसों को, खर और त्रिशिरा को तथा राक्षस दूषण को...",
+      "connection": {
+        "en": "These are the objects of the verb in 1.1.48a. The numbered verse ends before that verb. No number of initial attackers or further family relationship is specified here.",
+        "hi": "ये 1.1.48 के पहले अर्धश्लोक में आने वाली क्रिया के कर्म हैं। इस क्रमांकित श्लोक का अन्त उस क्रिया से पहले होता है। यहाँ आरम्भिक आक्रमणकारियों की संख्या या कोई अतिरिक्त पारिवारिक सम्बन्ध नहीं बताया गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "48": {
+      "en": "Rāma slew them and their followers in the forest. Of those dwelling in Janasthāna, by [Rāma] who was living in that forest...",
+      "hi": "राम ने वन में उनका और उनके अनुचरों का वध किया। उस वन में निवास करते हुए [राम] द्वारा जनस्थान में रहने वाले...",
+      "connection": {
+        "en": "The first half completes 1.1.47. The second begins a sentence whose count and completion appear in 1.1.49a. The imported वने, “in the forest”, is retained in the first half; the numbered parallel instead reads रणे, “in battle”.",
+        "hi": "पहला अर्धश्लोक 1.1.47 का वाक्य पूरा करता है। दूसरे से शुरू हुआ वाक्य और उसकी संख्या 1.1.49 के पहले अर्धश्लोक में पूरी होती है। पहले अर्धश्लोक में आयातित वने, अर्थात् “वन में”, रखा गया है। क्रमांकित समानान्तर पाठ में रणे, अर्थात् “युद्ध में”, है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "49": {
+      "en": "...fourteen thousand rākṣasas were killed. Then Rāvaṇa, hearing of the killing of his kin and overwhelmed by anger...",
+      "hi": "...राक्षसों में से चौदह हजार मारे गए। तब अपने बन्धु-बान्धवों के वध की बात सुनकर क्रोध से अभिभूत रावण...",
+      "connection": {
+        "en": "The first half completes 1.1.48b, identifying those killed as rākṣasas of Janasthāna. The second introduces Rāvaṇa, whose action follows in 1.1.50a. ज्ञाति means kin; no narrower relationship is imposed.",
+        "hi": "पहला अर्धश्लोक 1.1.48 के दूसरे अर्धश्लोक का वाक्य पूरा करता है और मारे गए लोगों को जनस्थान के राक्षस बताता है। दूसरे में रावण का प्रसंग शुरू होता है। उनकी क्रिया 1.1.50 के पहले अर्धश्लोक में आती है। ज्ञाति का अर्थ बन्धु-बान्धव रखा गया है, कोई विशेष संकीर्ण रिश्ता नहीं जोड़ा गया है।"
+      },
+      "context": {
+        "en": "Personal loss affects decisions during conflict. The narrative introduces Rāvaṇa’s anger before describing his next move.",
+        "hi": "संघर्ष के समय निजी क्षति निर्णयों को प्रभावित करती है। कथा रावण का अगला कदम बताने से पहले उनके क्रोध का उल्लेख करती है।"
+      },
+      "teaching": {
+        "en": "Pause before deciding how to act when overwhelmed by anger.",
+        "hi": "क्रोध से अभिभूत होने पर अगला कदम तय करने से पहले ठहरें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "50": {
+      "en": "...sought a rākṣasa named Mārīca as an ally. That Rāvaṇa, whom Mārīca was repeatedly urging to desist...",
+      "hi": "...ने मारीच नाम के राक्षस को सहायक बनाना चाहा। वे रावण, जिन्हें मारीच बार-बार रोकने का प्रयत्न कर रहे थे...",
+      "connection": {
+        "en": "The first half completes Rāvaṇa’s action from 1.1.49b. The second begins a continuing clause. Mārīca’s warning is stated in 1.1.51a, followed by Rāvaṇa’s response and action in 1.1.51b–52a. Those words are not moved into this verse.",
+        "hi": "पहला अर्धश्लोक 1.1.49 के दूसरे अर्धश्लोक से शुरू हुई रावण की क्रिया पूरी करता है। दूसरे में आगे चलने वाला वाक्य शुरू होता है। मारीच की चेतावनी 1.1.51 के पहले अर्धश्लोक में है। रावण की प्रतिक्रिया और अगला कार्य 1.1.51 के दूसरे तथा 1.1.52 के पहले अर्धश्लोक में हैं। वे शब्द इस श्लोक में नहीं लाए गए हैं।"
+      },
+      "context": {
+        "en": "An intended ally repeatedly urges caution. In present-day decisions, a colleague’s warning deserves attention even when it obstructs an immediate plan.",
+        "hi": "जिसे सहायक बनाना चाहा गया, वही सहमति देने के बजाय रोकने का प्रयत्न करता है। आज भी किसी सहकर्मी की चेतावनी पर ध्यान देना चाहिए, भले उससे तत्काल योजना में बाधा आए।"
+      },
+      "teaching": {
+        "en": "Hear the reasons for a warning before seeking agreement with your plan.",
+        "hi": "अपनी योजना के लिए सहमति माँगने से पहले चेतावनी के कारण सुनें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary; retrieved indexed IIT base-Sanskrit blocks corroborate selected 41–42, 44–45 and 50–51 passages. Direct IIT access failed. Imported lexical readings are preserved. This is not a full critical collation. No independent human reviewer is claimed."
       }
     }
   }
