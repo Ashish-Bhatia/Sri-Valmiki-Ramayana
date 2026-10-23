@@ -23,7 +23,10 @@ The seven JSON files in `data/sanskrit/` are derived exclusively from:
 2. **Sanskrit Documents** Devanāgarī text derived from Tokunaga/John Smith digitization of the Baroda Critical Edition: https://sanskritdocuments.org/mirrors/ramayana/valmiki/ramayana.htm and https://sanskritdocuments.org/mirrors/ramayana/utf/1_balakanda_1.html . Critical-edition verse numbering and readings differ from the adopted digital corpus.
 3. **GRETIL** Unicode archive: https://gretil.sub.uni-goettingen.de/gret_utfbk.htm . GRETIL's page limits its provided e-text files to scholarly reference and explicitly excludes commercial uses. For this reason its e-texts have **not** been bulk copied into this repository.
 
-## Digital integrity warning\nA preliminary structural scan of the imported text found **3,213 records requiring review** (see [QA report](./QA_REPORT.md)). Imported text therefore must not be described as proofread or guaranteed error-free. The reader visibly labels flagged records. These counts are audit alerts, not independent philological confirmations.\n\n## Correcting and translating
+## Digital integrity warning
+A preliminary structural scan of the imported text found **3,213 records requiring review** (see [QA report](./QA_REPORT.md)). Imported text therefore must not be described as proofread or guaranteed error-free. The reader visibly labels flagged records. These counts are audit alerts, not independent philological confirmations.
+
+## Correcting and translating
 - Keep an immutable source-layer record. Record textual emendations in `data/errata.json`; present the corrected reading with a traceable source.
 - Translate English and Hindi independently into current, readable language. Do not paste modern copyrighted translations from reference sites.
 - Treat modern reflections as editorial views, never as additional original ślokas.
@@ -32,7 +35,19 @@ The seven JSON files in `data/sanskrit/` are derived exclusively from:
 - For each completed sarga, document edition, verse-range check, parallel sources, defects, corrected readings, translation reviewer, coverage, and audit result.
 
 ## Known edition / segmentation issue
-Within the imported Bāla 1.1 corpus, 1.1.18 contains a continuation into the next verse and 1.1.19–1.1.22 include merged or repeated material. This dataset should **not** be treated as one clean śloka per imported JSON record without QA. The critical-edition text also varies in both numbering and wording; do not simply substitute verses from it while retaining Southern Recension labels.
+Within the imported Bāla 1.1 corpus, several rows merge or repeat adjacent verses. Boundary overlays now correct 1.1.18–22 and 1.1.25–30, while preserving every raw source row. The unflagged overrun at 1.1.25 was also identified. This dataset should **not** be treated as one clean śloka per imported JSON record without QA. The critical-edition text also varies in both numbering and wording; do not simply substitute verses from it while retaining Southern Recension labels.
 
 ## Copyright and manuscript images
 The ancient Sanskrit composition is in the public domain; modern typesetting, digitization, translation, critical apparatus and scanned editions can have separate rights or reuse conditions. Keep source-specific attribution and check reuse terms before adding facsimile PDF scans or third-party translations.
+
+## Boundary check completed for 1.1.18–1.1.30
+
+See [the alignment ledger](./TEXTUAL_AUDIT_1_1_18_30.md). The complete numbered parallel used was https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm, a different presentation from the Baroda Critical Edition mirror listed above. IIT Kanpur indexed Sanskrit extracts corroborated selected passages. Direct IIT access was unavailable, and no full fresh direct IIT collation is claimed. The imported lexical readings were retained rather than silently adopting variants or typographic defects from the parallel.
+
+Eleven overlays in `data/errata.json` reconstruct exact numbered verses from two imported hemistichs each. Corrected romanization accompanies these overlays. Original imports remain byte-identical. Two verses, 23 and 24, needed no boundary correction. Thirteen new bilingual translations extend published coverage to 1.1.30. Previous entries 1–17 retain their prior provisional status. No independent human review is claimed.
+
+Raw-source alert counts remain 3,213. Ten baseline alerts now have corrected displays. The 1.1.25 overrun was outside that alert list. Another 3,203 baseline alerts still need resolution. No inference of textual completeness follows from these counts.
+
+## Public and internal files
+
+The public edition page is `sources.html`. It contains reader-facing provenance, source downloads and limitations. Internal research, continuity and audit records remain in `docs/`, excluded from the branch-based Pages build together with `scripts/` and `README.md` by `_config.yml`. Do not restore `.nojekyll` without replacing that exclusion mechanism, because the bypass would publish internal records again. GitHub Pages still deploys from main / (root), using its built-in branch process and no custom workflow.

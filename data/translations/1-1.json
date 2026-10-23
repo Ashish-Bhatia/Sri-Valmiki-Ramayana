@@ -1,8 +1,8 @@
 {
   "kanda": 1,
   "sarga": 1,
-  "translationStatus": "original editorial translation, provisional review",
-  "sourceVerseIds": "1.1.1–1.1.17",
+  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–30, with source-access limitations recorded per verse.",
+  "sourceVerseIds": "1.1.1–1.1.30",
   "verses": {
     "1": {
       "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
@@ -110,6 +110,292 @@
       "context": {
         "en": "These are poetic comparisons expressing depth and fortitude, not measurable physical claims.",
         "hi": "ये उपमाएँ गम्भीरता और धैर्य को व्यक्त करती हैं, कोई भौतिक मापन नहीं।"
+      }
+    },
+    "18": {
+      "en": "In valour he resembles Viṣṇu, and his appearance is pleasing like the moon. In anger he resembles the fire at the end of an age, and in forbearance he equals the earth.",
+      "hi": "पराक्रम में वह विष्णु के समान और चन्द्रमा के समान प्रियदर्शन है। क्रोध में वह युगान्त की अग्नि के समान और क्षमा में पृथ्वी के समान है।",
+      "context": {
+        "en": "These poetic comparisons bring together courage, a pleasing presence, formidable anger and forbearance.",
+        "hi": "ये काव्यात्मक उपमाएँ पराक्रम, सौम्य व्यक्तित्व, प्रबल क्रोध और क्षमाशीलता को एक साथ प्रस्तुत करती हैं।"
+      },
+      "teaching": {
+        "en": "The portrait places patience alongside strength as a quality worthy of praise.",
+        "hi": "इस चरित्र-चित्रण में शक्ति के साथ क्षमाशीलता भी प्रशंसनीय गुण है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "19": {
+      "en": "In generosity he equals Kubera, and in truth he is like another Dharma. This Rāma, endowed with such virtues and unfailing in valour...",
+      "hi": "दानशीलता में वह कुबेर के समान और सत्य में मानो दूसरे धर्मदेव हैं। ऐसे गुणों से सम्पन्न और अमोघ पराक्रम वाले उस राम को...",
+      "connection": {
+        "en": "The second half begins a sentence completed in the first half of 1.1.21.",
+        "hi": "दूसरे अर्धश्लोक से आरम्भ हुआ वाक्य 1.1.21 के पहले अर्धश्लोक में पूरा होता है।"
+      },
+      "context": {
+        "en": "Generosity and truthfulness offer practical standards for judging people entrusted with wealth or authority.",
+        "hi": "धन या अधिकार सँभालने वाले व्यक्तियों को परखने में उदारता और सत्यनिष्ठा उपयोगी कसौटियाँ हैं।"
+      },
+      "teaching": {
+        "en": "Use resources generously and remain truthful in the exercise of responsibility.",
+        "hi": "संसाधनों का उदारतापूर्वक प्रयोग करें और दायित्व निभाते समय सत्यनिष्ठ रहें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "20": {
+      "en": "Daśaratha’s beloved eldest son, endowed with the finest qualities and devoted to the welfare of the people... Wishing to please his subjects, Daśaratha...",
+      "hi": "अपने प्रिय ज्येष्ठ पुत्र को, जो श्रेष्ठ गुणों और प्रजाहितकारी कार्यों से युक्त था, दशरथ प्रजा का प्रिय करने की इच्छा से...",
+      "connection": {
+        "en": "Read with 1.1.19 and the first half of 1.1.21. The king’s intended action appears in 1.1.21.",
+        "hi": "इसे 1.1.19 और 1.1.21 के पहले अर्धश्लोक के साथ पढ़ें। राजा क्या करना चाहते थे, यह 1.1.21 में आता है।"
+      },
+      "context": {
+        "en": "The succession is considered in relation to the people’s welfare, alongside the king’s affection for his son.",
+        "hi": "उत्तराधिकार के विचार में पुत्र के प्रति राजा के स्नेह के साथ प्रजा का हित भी सम्मिलित है।"
+      },
+      "teaching": {
+        "en": "Assess suitability for public responsibility through qualities and service to the people.",
+        "hi": "सार्वजनिक दायित्व की योग्यता को गुणों और जनहितकारी कार्यों से परखें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "21": {
+      "en": "The king affectionately wished to appoint him heir apparent. Then his wife Kaikeyī, seeing the preparations for his consecration...",
+      "hi": "राजा स्नेहपूर्वक उन्हें युवराज पद पर प्रतिष्ठित करना चाहते थे। तब उनकी पत्नी कैकयी, राम के अभिषेक की तैयारियाँ देखकर...",
+      "connection": {
+        "en": "The first half completes 1.1.19–20. The second half introduces Kaikeyī’s request in 1.1.22.",
+        "hi": "पहला अर्धश्लोक 1.1.19–20 का वाक्य पूरा करता है। दूसरा अर्धश्लोक 1.1.22 में आने वाली कैकयी की माँग का आरम्भ है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "22": {
+      "en": "The queen, who had previously been promised boons, asked him for this boon: Rāma’s exile and Bharata’s consecration.",
+      "hi": "पहले वरदानों का वचन पा चुकी उस रानी ने उनसे यह वर माँगा: राम का वनवास और भरत का अभिषेक।",
+      "connection": {
+        "en": "Kaikeyī is the queen introduced in the second half of 1.1.21; “him” refers to Daśaratha.",
+        "hi": "यह रानी 1.1.21 के दूसरे अर्धश्लोक में उल्लिखित कैकयी हैं। “उनसे” का संकेत दशरथ की ओर है।"
+      },
+      "context": {
+        "en": "A promise within the royal family becomes a matter of government, affecting the succession and Rāma’s future.",
+        "hi": "राजपरिवार के भीतर दिया गया वचन शासन का प्रश्न बन जाता है। उसका प्रभाव उत्तराधिकार और राम के भविष्य पर पड़ता है।"
+      },
+      "teaching": {
+        "en": "Consider everyone affected when seeking the fulfilment of a personal promise.",
+        "hi": "किसी निजी वचन की पूर्ति माँगते समय उससे प्रभावित होने वाले सभी लोगों का विचार करें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "23": {
+      "en": "Bound by his pledged word and held by the bond of dharma, King Daśaratha sent his beloved son Rāma into exile.",
+      "hi": "अपने दिए हुए वचन और धर्म के बन्धन से बँधे राजा दशरथ ने अपने प्रिय पुत्र राम को वनवास भेज दिया।",
+      "context": {
+        "en": "The passage presents a painful conflict between a king’s promise and a father’s love.",
+        "hi": "यह प्रसंग राजा के वचन और पिता के स्नेह के बीच पीड़ादायक संघर्ष प्रस्तुत करता है।"
+      },
+      "teaching": {
+        "en": "A promise creates responsibilities whose effects extend beyond the person making it.",
+        "hi": "वचन से उत्पन्न उत्तरदायित्व का प्रभाव वचन देने वाले व्यक्ति से आगे तक जाता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "24": {
+      "en": "The valiant Rāma went to the forest, upholding the promise, following his father’s command and fulfilling Kaikeyī’s wish.",
+      "hi": "वीर राम प्रतिज्ञा का पालन करते हुए, पिता की आज्ञा के अनुसार और कैकयी की इच्छा पूरी करने के लिए वन को चले गए।",
+      "teaching": {
+        "en": "In this episode, Rāma demonstrates his commitment through action in adversity.",
+        "hi": "इस प्रसंग में राम विपरीत परिस्थिति में अपने आचरण से प्रतिज्ञा के प्रति निष्ठा दिखाते हैं।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "25": {
+      "en": "As Rāma departed, his beloved brother Lakṣmaṇa followed him out of affection. Modest and disciplined, Lakṣmaṇa brought joy to Sumitrā.",
+      "hi": "राम के प्रस्थान करने पर उनके प्रिय भाई लक्ष्मण स्नेहवश उनके पीछे चले। विनयसम्पन्न लक्ष्मण अपनी माता सुमित्रा के आनन्द को बढ़ाने वाले थे।",
+      "connection": {
+        "en": "The account of Lakṣmaṇa’s brotherly affection continues in the first half of 1.1.26.",
+        "hi": "लक्ष्मण के भ्रातृस्नेह का वर्णन 1.1.26 के पहले अर्धश्लोक में जारी रहता है।"
+      },
+      "context": {
+        "en": "Support during hardship takes the concrete form of accompanying someone through a difficult change.",
+        "hi": "कठिन परिस्थिति में सहायता का एक ठोस रूप है, परिवर्तन के उस समय में किसी का साथ देना।"
+      },
+      "teaching": {
+        "en": "Affection becomes visible through willing companionship in hardship.",
+        "hi": "कठिन समय में स्वेच्छा से साथ देने से स्नेह प्रकट होता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "26": {
+      "en": "Beloved by his brother, [Lakṣmaṇa followed] him, showing brotherly affection. Rāma’s beloved wife, always as dear to him as his own life and devoted to his welfare...",
+      "hi": "अपने भाई के प्रिय लक्ष्मण, भ्रातृस्नेह प्रकट करते हुए, अपने भाई के पीछे चले। राम की प्रिय पत्नी, जो सदा उन्हें प्राणों के समान प्रिय और उनके हित में तत्पर थीं...",
+      "connection": {
+        "en": "The bracketed verb continues 1.1.25. The first half closes Lakṣmaṇa’s description; the second begins Sītā’s description, continued in 1.1.27–28.",
+        "hi": "लक्ष्मण के पीछे चलने की क्रिया 1.1.25 से जुड़ती है। पहला अर्धश्लोक उनका वर्णन पूरा करता है। दूसरे में सीता का वर्णन आरम्भ होता है, जो 1.1.27–28 में जारी है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "27": {
+      "en": "Born into Janaka’s family, as though fashioned by divine power, endowed with every auspicious mark, a bride foremost among women...",
+      "hi": "जनक के कुल में जन्मी, मानो दैवी शक्ति से रची गई, सभी शुभ लक्षणों से सम्पन्न और नारियों में श्रेष्ठ वह वधू...",
+      "connection": {
+        "en": "Sītā’s description begins in the second half of 1.1.26; her action follows in the first half of 1.1.28.",
+        "hi": "सीता का वर्णन 1.1.26 के दूसरे अर्धश्लोक से आरम्भ होता है। उनकी क्रिया 1.1.28 के पहले अर्धश्लोक में आती है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "28": {
+      "en": "Sītā too followed Rāma, as Rohiṇī follows the moon. The citizens and his father Daśaratha followed him for a long distance...",
+      "hi": "सीता भी राम के साथ चलीं, जैसे रोहिणी चन्द्रमा का साथ देती हैं। नगरवासी और उनके पिता दशरथ भी दूर तक उनके पीछे गए...",
+      "connection": {
+        "en": "The first half completes Sītā’s description. The second begins the departure scene continued in 1.1.29–30; it does not say Daśaratha reached Śṛṅgiberapura.",
+        "hi": "पहला अर्धश्लोक सीता का वर्णन पूरा करता है। दूसरा 1.1.29–30 में जारी प्रस्थान-प्रसंग का आरम्भ है। यहाँ दशरथ के शृङ्गिबेरपुर पहुँचने की बात नहीं कही गई है।"
+      },
+      "context": {
+        "en": "Rohiṇī is traditionally associated with the moon. The comparison expresses companionship through a familiar image in Sanskrit poetry.",
+        "hi": "परम्परा में रोहिणी का सम्बन्ध चन्द्रमा से है। संस्कृत काव्य की इस परिचित उपमा से साथ निभाने का भाव व्यक्त होता है।"
+      },
+      "teaching": {
+        "en": "The episode depicts companionship when security and status are lost.",
+        "hi": "यह प्रसंग सुख-सुविधा और पद छूटने पर भी साथ निभाने का भाव दिखाता है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "29": {
+      "en": "At Śṛṅgiberapura on the bank of the Gaṅgā, Rāma, devoted to dharma, sent back the charioteer after meeting his dear Guha, chief of the Niṣādas.",
+      "hi": "गङ्गा के तट पर शृङ्गिबेरपुर में धर्मात्मा राम ने अपने प्रिय निषादाधिपति गुह से मिलकर सारथि को विदा कर दिया।",
+      "connection": {
+        "en": "The first half of 1.1.30 continues the scene with Guha, Lakṣmaṇa and Sītā.",
+        "hi": "1.1.30 के पहले अर्धश्लोक में गुह, लक्ष्मण और सीता के साथ यह प्रसंग जारी रहता है।"
+      },
+      "teaching": {
+        "en": "The meeting presents affection and friendship across different communities.",
+        "hi": "यह भेंट भिन्न समुदायों के बीच स्नेह और मित्रता का उदाहरण प्रस्तुत करती है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
+      }
+    },
+    "30": {
+      "en": "Rāma was accompanied by Guha, Lakṣmaṇa and Sītā. They went from forest to forest, crossing rivers full of water...",
+      "hi": "राम गुह, लक्ष्मण और सीता के साथ थे। वे एक वन से दूसरे वन में जाते हुए, जल से भरी नदियाँ पार करके...",
+      "connection": {
+        "en": "The first half completes the scene with Guha. The second begins the journey continued in 1.1.31–32. It does not establish that Guha travelled to Citrakūṭa.",
+        "hi": "पहला अर्धश्लोक गुह के साथ का प्रसंग पूरा करता है। दूसरा 1.1.31–32 में जारी यात्रा का आरम्भ है। इससे गुह के चित्रकूट तक जाने का निष्कर्ष नहीं निकलता।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-23",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "IIT evidence was available through indexed extracts; direct access was unavailable. No independent human reviewer or full critical collation is claimed."
       }
     }
   }

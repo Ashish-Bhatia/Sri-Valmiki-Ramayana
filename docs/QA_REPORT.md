@@ -31,7 +31,10 @@
 - Bāla `1.1.21` and `1.1.22` similarly repeat shared content.
 - `1.1.6` contains an apparent transcription error in the digital corpus. `data/errata.json` records a corrected reading cross-checked against IIT Kanpur's Southern Recension.
 
-## Reproduce the scan\nClone the repository and run `node scripts/audit-corpus.mjs --check`. To recompute and write the manifest locally, run `node scripts/audit-corpus.mjs --write`. No GitHub Actions workflow or third-party Node package is required.\n\n## How the scan works
+## Reproduce the scan
+Clone the repository and run `node scripts/audit-corpus.mjs --check`. To recompute and write the manifest locally, run `node scripts/audit-corpus.mjs --write`. No GitHub Actions workflow or third-party Node package is required.
+
+## How the scan works
 1. Read every source record with its numeric `kanda.sarga.shloka` fields.
 2. Detect explicitly written numeric addresses matching forms such as `1.1.19` or similar Devanāgarī punctuation around numbers.
 3. Flag if the row includes distinct embedded addresses beyond its own, lacks its own expected address, or lacks a recognizable embedded address entirely.
@@ -48,3 +51,13 @@
 
 ## Priority
 **Next: Bāla Kāṇḍa Sarga 1, verses 18–30**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
+
+## Completed boundary audit: 1.1.18–1.1.30
+
+Thirteen verses received numbered-boundary checks. Eleven display overlays now correct 18–22 and 25–30. Raw imports and this preliminary flag manifest remain unchanged. Ten existing flags have corrected displays, leaving 3,203 unresolved baseline flags. One newly observed overrun, 1.1.25, was missed by the regex test and has also been corrected in the display.
+
+The [detailed audit](./TEXTUAL_AUDIT_1_1_18_30.md) records source access, all hemistich mappings and interpretive decisions. Direct IIT access was unavailable. Indexed IIT Sanskrit extracts were corroborated against the complete numbered Sanskrit Documents parallel. This is a boundary check, not a full critical collation or independent human review.
+
+Publication checks: `node scripts/verify-publication.mjs`. They verify seven immutable source hashes, 30 consecutive bilingual entries, 11 overlays reconstructed from imported hemistichs, 26 distinct hemistichs across 18–30, correct embedded addresses, bilingual annotations, source links, no internal navigation and branch publication exclusions. Browser QA covers corrected text, original-reading expansion, matching romanization, language selection, corrected search and source downloads.
+
+GitHub Pages baseline evidence: successful built-in run [39869234028](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/39869234028), head `ab2a6a6e0c4fccd21b6e09453a0f3c955ea163ea`. Its build log checks out `ref: main` and uploads `path: .`, confirming the main/root branch deployment. The root public URL returned HTTP 200 with the baseline HTML. The Settings UI required sign-in and was not inspected as an authenticated administrator. Final post-commit deployment and exclusion verification must use the new run and public file responses.

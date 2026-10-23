@@ -3,5 +3,225 @@
     "text": "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः । श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ।।1.1.6।।",
     "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
     "reason": "Digital corpus appears to contain a typographical corruption in त्रिलोकज्ञो and चामन्त्र्य; cross-checked against IIT Kanpur Southern Recension."
+  },
+  "1.1.18": {
+    "text": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः ।\nकालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ।।1.1.18।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.18",
+        "segment": 1
+      },
+      {
+        "row": "1.1.18",
+        "segment": 2
+      }
+    ],
+    "latin": "viṣṇunā sadṛśo vīrye somavatpriyadarśanaḥ | kālāgnisadṛśaḥ krodhe kṣamayā pṛthivīsamaḥ ||"
+  },
+  "1.1.19": {
+    "text": "धनदेन समस्त्यागे सत्ये धर्म इवापरः ।\nतमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् ।।1.1.19।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.18",
+        "segment": 3
+      },
+      {
+        "row": "1.1.19",
+        "segment": 1
+      }
+    ],
+    "latin": "dhanadena samastyāge satye dharma ivāparaḥ | tamevaṃ guṇasampannaṃ rāmaṃ satyaparākramam ||"
+  },
+  "1.1.20": {
+    "text": "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथस्सुतम् ।\nप्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ।।1.1.20।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.19",
+        "segment": 2
+      },
+      {
+        "row": "1.1.19",
+        "segment": 3
+      }
+    ],
+    "latin": "jyeṣṭhaṃ śreṣṭhaguṇairyuktaṃ priyaṃ daśarathassutam | prakṛtīnāṃ hitairyuktaṃ prakṛtipriyakāmyayā ||"
+  },
+  "1.1.21": {
+    "text": "यौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपतिः ।\nतस्याभिषेकसम्भारान्दृष्ट्वा भार्याऽथ कैकयी ।।1.1.21।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.19",
+        "segment": 4
+      },
+      {
+        "row": "1.1.21",
+        "segment": 1
+      }
+    ],
+    "latin": "yauvarājyena saṃyoktumaicchatprītyā mahīpatiḥ | tasyābhiṣekasambhārāndṛṣṭvā bhāryā’tha kaikayī ||"
+  },
+  "1.1.22": {
+    "text": "पूर्वं दत्तवरा देवी वरमेनमयाचत ।\nविवासनं च रामस्य भरतस्याभिषेचनम् ।।1.1.22।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.21",
+        "segment": 2
+      },
+      {
+        "row": "1.1.21",
+        "segment": 3
+      }
+    ],
+    "latin": "pūrvaṃ dattavarā devī varamenamayācata | vivāsanaṃ ca rāmasya bharatasyābhiṣecanam ||"
+  },
+  "1.1.25": {
+    "text": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह ।\nस्नेहाद्विनयसम्पन्नस्सुमित्रानन्दवर्धनः ।।1.1.25।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.25",
+        "segment": 1
+      },
+      {
+        "row": "1.1.25",
+        "segment": 2
+      }
+    ],
+    "latin": "taṃ vrajantaṃ priyo bhrātā lakṣmaṇo’nujagāma ha | snehādvinayasampannassumitrānandavardhanaḥ ||"
+  },
+  "1.1.26": {
+    "text": "भ्रातरं दयितो भ्रातुस्सौभ्रात्रमनुदर्शयन् ।\nरामस्य दयिता भार्या नित्यं प्राणसमा हिता ।।1.1.26।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.25",
+        "segment": 3
+      },
+      {
+        "row": "1.1.26",
+        "segment": 1
+      }
+    ],
+    "latin": "bhrātaraṃ dayito bhrātussaubhrātramanudarśayan | rāmasya dayitā bhāryā nityaṃ prāṇasamā hitā ||"
+  },
+  "1.1.27": {
+    "text": "जनकस्य कुले जाता देवमायेव निर्मिता ।\nसर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः ।।1.1.27।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.26",
+        "segment": 2
+      },
+      {
+        "row": "1.1.26",
+        "segment": 3
+      }
+    ],
+    "latin": "janakasya kule jātā devamāyeva nirmitā | sarvalakṣaṇasampannā nārīṇāmuttamā vadhūḥ ||"
+  },
+  "1.1.28": {
+    "text": "सीताप्यनुगता रामं शशिनं रोहिणी यथा ।\nपौरैरनुगतो दूरं पित्रा दशरथेन च ।।1.1.28।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.26",
+        "segment": 4
+      },
+      {
+        "row": "1.1.28",
+        "segment": 1
+      }
+    ],
+    "latin": "sītāpyanugatā rāmaṃ śaśinaṃ rohiṇī yathā | paurairanugato dūraṃ pitrā daśarathena ca ||"
+  },
+  "1.1.29": {
+    "text": "शृङ्गिबेरपुरे सूतं गङ्गाकूले व्यसर्जयत् ।\nगुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ।।1.1.29।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.28",
+        "segment": 2
+      },
+      {
+        "row": "1.1.28",
+        "segment": 3
+      }
+    ],
+    "latin": "śṛṅgiberapure sūtaṃ gaṅgākūle vyasarjayat | guhamāsādya dharmātmā niṣādādhipatiṃ priyam ||"
+  },
+  "1.1.30": {
+    "text": "गुहेन सहितो रामो लक्ष्मणेन च सीतया ।\nते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः ।।1.1.30।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Verse boundaries restored from the numbered Sanskrit witnesses. The imported reading is retained below; adjacent verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "checkedOn": "2026-10-23",
+    "evidence": "IIT Kanpur indexed Sanskrit extracts, corroborated by the complete numbered Sanskrit Documents parallel. Direct IIT access was unavailable. This is a boundary check, not a full critical collation.",
+    "sourceSegments": [
+      {
+        "row": "1.1.28",
+        "segment": 4
+      },
+      {
+        "row": "1.1.30",
+        "segment": 1
+      }
+    ],
+    "latin": "guhena sahito rāmo lakṣmaṇena ca sītayā | te vanena vanaṃ gatvā nadīstīrtvā bahūdakāḥ ||"
   }
 }

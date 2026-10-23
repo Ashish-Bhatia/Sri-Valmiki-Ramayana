@@ -1,0 +1,7 @@
+# GitHub Pages builds from main / (root). No custom workflow is required.
+# Preserve internal records in Git without publishing them as website files.
+exclude:
+  - docs
+  - scripts
+  - README.md
+  - AGENTS.md
