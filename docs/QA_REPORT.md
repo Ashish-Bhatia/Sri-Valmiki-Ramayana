@@ -50,7 +50,7 @@ Clone the repository and run `node scripts/audit-corpus.mjs --check`. To recompu
 - Before declaring a sarga complete, verify sequential addresses, exact Sanskrit segmentation, parallel same-recension witness, English/Hindi translations, references and teaching vs interpretation classification.
 
 ## Priority
-**Next: Bāla Kāṇḍa Sarga 1, verses 61–70**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
+**Next: Bāla Kāṇḍa Sarga 1, verses 71–80**, carefully align with a same-recension text (IIT Kanpur). Extend English, Hindi and modern context only after source QA. Update this report, published coverage, checkpoint and next-chat prompt.
 
 ## Completed boundary audit: 1.1.18–1.1.30
 
@@ -91,3 +91,16 @@ Cumulative totals: sixty consecutive English/Hindi records, forty-three boundary
 Passed: JavaScript syntax, corpus-manifest and publication checks. All fifty earlier translation objects, thirty-one earlier correction objects, seven raw files, the flag manifest, `_config.yml` and three earlier audit ledgers match baseline `65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c`. Both edition markers are `1.1.60`.
 
 Exactly next: **1.1.61–1.1.70**, beginning चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् from raw row 60. Audit the complete range, including duplicated rows 63/64, before translating. Deployment and focused reader evidence are maintained in `docs/DEPLOYMENT_VERIFICATION.md`.
+
+
+## Completed boundary audit: 1.1.61–1.1.70
+
+Date: 24 October 2026, Asia/Kolkata. [The new ledger](./TEXTUAL_AUDIT_1_1_61_70.md) records boundaries established before translation, actual source access and lexical differences. Four restorations recover 61–64, starting with the pact from raw 60:2 and using the duplicated raw 63/64 block once. Six display/IAST normalizations on correctly bounded 65–70 do not count as new boundary defects. All ten have traceable mappings and imported-reading disclosures.
+
+Direct IIT opens failed. Indexed sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks, and indexed separately numbered Sanskrit embedded in a multi-commentary page corroborates 63–70. The complete numbered parallel supplies every boundary. Its printed differences at 64–65 and the IIT तथा/तदा difference at 66 are disclosed without replacing imported lexemes. No fresh full IIT collation or independent human review is claimed.
+
+Totals: seventy bilingual records; fifty-three boundary-checked verses; 106 distinct half-verses; forty-four boundary restorations plus six display normalizations. The separate 1.1.6 lexical correction makes fifty-one errata objects overall. Baseline flags 63 and 64 now have corrected displays, bringing the resolved count to nineteen and the unresolved count to 3,194. Two unflagged boundary defects, 61 and 62, are also corrected. The original 3,213-flag manifest remains unchanged.
+
+JavaScript syntax, corpus-manifest and publication verification pass. All sixty previous translation objects, forty-one previous correction objects, seven raw files, the manifest, `_config.yml` and four older ledgers match baseline `58f3e1da511a2973cb9d3c8fdb3ec0da9d0089fd`. Runtime logic is unchanged except for the edition marker. Both markers are `1.1.70`. Post-commit public verification is recorded separately when observed.
+
+Exactly next: **1.1.71–1.1.80**, beginning स च सर्वान्समानीय वानरान्वानरर्षभः. Audit duplicated raw rows 76/77 and continuing clauses before translation.

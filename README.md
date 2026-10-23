@@ -5,11 +5,11 @@ A static, mobile-first reader preserving the **seven kāṇḍas → sargas → 
 
 **Website:** https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
 
-### Current scope (23 October 2026)
+### Current scope (24 October 2026)
 - **Sanskrit:** 23,291 imported Sanskrit verse records from a seven-kāṇḍa digitized corpus, arranged in 648 sargas. Imported does not mean critically proofread.
-- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.60 currently published in English and Hindi, with selected modern reflections/teachings.
+- **Original editorial translation:** Bāla Kāṇḍa 1.1.1–1.1.70 currently published in English and Hindi, with selected modern reflections/teachings.
 - **Structural audit:** 3,213 of 23,291 digital verse records have been flagged for review due to numbering markers, multi-verse mergers or observed source overruns. See [QA report](./docs/QA_REPORT.md). A flag is not necessarily a confirmed textual error.
-- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Forty source-preserving overlays now correct verse boundaries in 1.1.18–22, 1.1.25–45 and 1.1.47–60. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
+- **Quality:** 1.1.6 receives a transparent editorial correction, with primary-text comparison. Forty-four source-preserving overlays restore verse boundaries in 1.1.18–22, 1.1.25–45 and 1.1.47–64; six further overlays normalize displays on already correctly bounded 65–70. Direct IIT access was unavailable, so indexed IIT Sanskrit evidence and a complete numbered parallel are documented in the batch audit. Never hide textual limitations.
 - **Architecture:** Plain static HTML, CSS and JavaScript. No build system, cloud database or custom GitHub Actions workflow.
 
 ### GitHub Pages, WITHOUT a custom GitHub Actions workflow
@@ -81,10 +81,19 @@ Current totals: fifty bilingual translations, thirty-three boundary-checked vers
 
 Exactly next: **1.1.51–1.1.60**, beginning न विरोधो बलवता क्षमो रावण तेन ते…, after verifying the latest main/root branch build and internal-file exclusions.
 
-### Latest audited batch: 1.1.51–1.1.60
+### Earlier audited batch: 1.1.51–1.1.60
 
 Ten new English/Hindi translations and ten source-preserving overlays extend coverage to 1.1.60. [The audit](./docs/TEXTUAL_AUDIT_1_1_51_60.md) restores twenty distinct half-verses, resolves the duplicated 54/55 display and excludes the stray `1151` from corrected Sanskrit while retaining all raw records. The imported श्रमणीं variant is documented and preserved. All fifty prior translation objects and thirty-one prior correction objects remain identical.
 
 Current totals: sixty bilingual translations, forty-three boundary-checked verses, forty boundary overlays and eighty-six unique half-verses across 18–60. Seventeen baseline flags have corrected displays; 3,196 remain unresolved by boundary overlays. Both edition markers are `1.1.60`. Modern context and teachings remain separate and bilingual. All local validation passes.
 
 Exactly next: **1.1.61–1.1.70**, beginning चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् in raw row 60's second half. First audit the complete range, including duplicated 63/64 blocks. Verify the managed main/root build and internal-file exclusions without a custom workflow.
+
+
+### Latest audited batch: 1.1.61–1.1.70
+
+Ten independent English/Hindi translations extend coverage to 1.1.70. [The audit](./docs/TEXTUAL_AUDIT_1_1_61_70.md) restores 61–64, beginning with the friendship pact from raw 60:2, and uses duplicated raw 63/64 content once. Six further overlays normalize displays and IAST on correctly bounded 65–70. Every new overlay discloses the imported reading. The parallel's printed differences at 64–65 and indexed IIT तथा/तदा difference at 66 are documented; imported readings remain intact. Direct IIT access failed, and indexed evidence is not a fresh collation.
+
+Current totals: seventy bilingual translations, fifty-three boundary-checked verses and 106 unique half-verses. Fifty display overlays comprise forty-four boundary restorations and six normalizations. The separate earlier lexical correction remains intact. Nineteen baseline flags have corrected displays; 3,194 remain unresolved by the overlays. All sixty previous translations, forty-one previous corrections, raw corpus, flag manifest and publication exclusions are preserved. Both edition markers are `1.1.70`.
+
+Exactly next: **1.1.71–1.1.80**, beginning स च सर्वान्समानीय वानरान्वानरर्षभः. Audit duplicated raw rows 76/77 and every boundary before translation. Preserve the managed main/root deployment and exclusions. No custom workflow or `.nojekyll` is permitted.

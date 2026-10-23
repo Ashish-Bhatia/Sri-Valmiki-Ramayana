@@ -1,8 +1,8 @@
 {
   "kanda": 1,
   "sarga": 1,
-  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–60, with source-access limitations recorded per verse.",
-  "sourceVerseIds": "1.1.1–1.1.60",
+  "translationStatus": "Independent editorial translations; 1–17 retain their previous provisional status; verse boundaries checked for 18–70, with source-access limitations recorded per verse.",
+  "sourceVerseIds": "1.1.1–1.1.70",
   "verses": {
     "1": {
       "en": "The ascetic Vālmīki questioned Nārada, foremost among sages, a master of speech devoted to austerity and sacred study.",
@@ -1084,6 +1084,220 @@
           "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
         ],
         "limitation": "Complete numbered Sanskrit Documents parallel used for all ten boundaries. Indexed IIT base-Sanskrit blocks corroborate selected 50–55 and 57–60 passages; direct IIT verse-56 and verse-59 requests timed out. Imported lexical readings are retained, including श्रमणीं against the parallel’s श्रमणाम् in 57a. This is a boundary check, not a full critical collation. No independent human reviewer is claimed."
+      }
+    },
+    "61": {
+      "en": "...pleased, [Sugrīva] made a pact of friendship with Rāma, with fire as witness. Then, by the vānara king, concerning the account of the enmity...",
+      "hi": "...प्रसन्न होकर [सुग्रीव ने] अग्नि को साक्षी बनाकर राम से मित्रता की। फिर वैर के वृत्तान्त के विषय में वानरराज द्वारा...",
+      "connection": {
+        "en": "Nārada continues his narration to Vālmīki. The first half completes Sugrīva’s response begun in 1.1.60b; his supplied name is bracketed. The second half begins a passive clause completed in 1.1.62a. The Sanskrit gives no spoken wording of the pact or of a question about the enmity.",
+        "hi": "नारद वाल्मीकि को कथा सुना रहे हैं। पहला अर्धश्लोक 1.1.60 के दूसरे अर्धश्लोक से शुरू हुई सुग्रीव की प्रतिक्रिया पूरी करता है। स्पष्टता के लिए उनका नाम कोष्ठकों में है। दूसरे में कर्मवाच्य का वाक्य शुरू होता है, जो 1.1.62 के पहले अर्धश्लोक में पूरा होता है। मित्रता के वचन या वैर के विषय में किसी प्रश्न के प्रत्यक्ष शब्द यहाँ नहीं दिए गए हैं।"
+      },
+      "context": {
+        "en": "The pact follows a hearing of Rāma’s account. For present-day cooperation, agreeing openly on a commitment helps both people understand what they have undertaken.",
+        "hi": "राम की बात सुनने के बाद मित्रता का बन्धन बनता है। आज के सहयोग में किसी प्रतिबद्धता पर स्पष्ट सहमति से दोनों पक्ष अपना दायित्व समझते हैं।"
+      },
+      "teaching": {
+        "en": "Make a shared commitment clear to those entering it.",
+        "hi": "साझा प्रतिबद्धता को उसे स्वीकार करने वालों के सामने स्पष्ट रखें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "62": {
+      "en": "...everything was related to Rāma out of affection by [Sugrīva], who was distressed. Rāma then pledged to slay Vālin.",
+      "hi": "...दुःखी [सुग्रीव] ने स्नेहवश राम को सब कुछ बताया। तब राम ने वालि का वध करने की प्रतिज्ञा की।",
+      "connection": {
+        "en": "The opening completes the account of enmity introduced in 1.1.61b. The bracketed name identifies the vānara king; Hindi uses active wording for the Sanskrit passive. The second half states the subject of Rāma’s pledge without inventing a direct quotation or adding its justification.",
+        "hi": "आरम्भ 1.1.61 के दूसरे अर्धश्लोक में शुरू हुए वैर के वृत्तान्त को पूरा करता है। कोष्ठक का नाम वानरराज को स्पष्ट करता है। संस्कृत के कर्मवाच्य को हिन्दी में कर्तृवाच्य में रखा गया है। दूसरे अर्धश्लोक में राम की प्रतिज्ञा का विषय बताया गया है। उसके प्रत्यक्ष शब्द या उसका औचित्य यहाँ नहीं जोड़े गए हैं।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "63": {
+      "en": "There the vānara [Sugrīva] described Vālin’s strength. Sugrīva remained doubtful about Rāghava’s prowess.",
+      "hi": "वहाँ वानर [सुग्रीव] ने वालि का बल बताया। सुग्रीव को राघव के पराक्रम पर निरन्तर सन्देह बना रहा।",
+      "connection": {
+        "en": "The description follows Rāma’s pledge in 1.1.62b. Rāghava is Rāma. नित्यम् conveys Sugrīva’s continuing doubt. The identical imported 63/64 block is used once in the corrected sequence; the display of 63 ends before the reference to Dundubhi.",
+        "hi": "यह वर्णन 1.1.62 के दूसरे अर्धश्लोक में राम की प्रतिज्ञा के बाद आता है। राघव राम हैं। नित्यम् से सुग्रीव के लगातार बने हुए सन्देह का भाव मिलता है। आयातित 63 और 64 की एक जैसी सामग्री संशोधित क्रम में एक ही बार ली गई है। श्लोक 63 का पाठ दुन्दुभि के उल्लेख से पहले समाप्त होता है।"
+      },
+      "context": {
+        "en": "A promise does not by itself show the ability to carry it out. Sugrīva’s doubt introduces the demonstrations narrated next.",
+        "hi": "केवल प्रतिज्ञा से उसे पूरा करने की क्षमता सिद्ध नहीं होती। सुग्रीव का सन्देह आगे आने वाले शक्ति-प्रदर्शन की भूमिका बनता है।"
+      },
+      "teaching": {
+        "en": "Check the ability needed to carry out a commitment.",
+        "hi": "प्रतिबद्धता पूरी करने के लिए आवश्यक क्षमता की जाँच करें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "64": {
+      "en": "For assurance about Rāghava’s [strength], Sugrīva showed [him] Dundubhi’s huge body, resembling a great mountain.",
+      "hi": "राघव के [बल] के विषय में आश्वस्त होने के लिए सुग्रीव ने [उन्हें] दुन्दुभि का विशाल शरीर दिखाया, जो एक बड़े पर्वत के समान था।",
+      "connection": {
+        "en": "The supplied words connect the compound राघवप्रत्ययार्थं with the doubt in 1.1.63. The numbered parallel instead prints राघवः प्रत्ययार्थम्; the imported compound is retained and also occurs in indexed IIT base Sanskrit. The next verse describes the bones. This verse does not narrate Dundubhi’s death or an earlier throwing distance.",
+        "hi": "कोष्ठकों के शब्द राघवप्रत्ययार्थं को 1.1.63 के सन्देह से जोड़ते हैं। क्रमांकित समानान्तर पाठ में राघवः प्रत्ययार्थम् छपा है। आयातित समास रखा गया है और वही IIT के अनुक्रमित मूल संस्कृत पाठ में भी मिलता है। अगले श्लोक में अस्थियों का उल्लेख है। इस श्लोक में दुन्दुभि की मृत्यु या पहले फेंके जाने की दूरी का वर्णन नहीं है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "65": {
+      "en": "Having looked at the bones and smiled, the mighty-armed, powerful [Rāma] flung [them] a full ten yojanas with his big toe.",
+      "hi": "अस्थियों को देखकर और मुस्कराकर महाबाहु, महाबली [राम] ने पैर के अँगूठे से [उन्हें] पूरे दस योजन दूर फेंक दिया।",
+      "connection": {
+        "en": "The bracketed name and pronoun make the understood subject and object explicit. The imported अस्थि and पादाङ्गुष्ठेन are retained against the parallel’s printed अस्ति and अंगुष्टेन. A yojana is the text’s traditional distance unit; no fixed modern conversion or additional dialogue is supplied.",
+        "hi": "कोष्ठकों का नाम और सर्वनाम निहित कर्ता तथा कर्म को स्पष्ट करते हैं। समानान्तर पाठ के मुद्रित अस्ति और अंगुष्टेन के स्थान पर आयातित अस्थि और पादाङ्गुष्ठेन ही रखे गए हैं। योजन पाठ की परम्परागत दूरी की इकाई है। उसका कोई निश्चित आधुनिक रूपान्तरण या अतिरिक्त संवाद यहाँ नहीं जोड़ा गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "66": {
+      "en": "Again, inspiring confidence in this way, [Rāma] pierced seven sāla trees, a mountain and Rasātala with a single great arrow.",
+      "hi": "फिर इस प्रकार विश्वास उत्पन्न करते हुए [राम] ने एक ही महान बाण से सात साल वृक्षों, एक पर्वत और रसातल को भेद दिया।",
+      "connection": {
+        "en": "The supplied subject is Rāma. The text names sāla trees and Rasātala, a lower world in the epic’s cosmology. The imported तथा, “in this way”, agrees with the numbered parallel and indexed IIT sarga block. An indexed IIT multi-commentary page’s numbered Sanskrit block has तदा, “then”; that reading is disclosed rather than substituted.",
+        "hi": "निहित कर्ता राम हैं। पाठ में साल वृक्ष और महाकाव्य के लोक-वर्णन का अधोलोक रसातल आया है। आयातित तथा, अर्थात् “इस प्रकार”, क्रमांकित समानान्तर पाठ और IIT के अनुक्रमित सर्ग-पाठ से मेल खाता है। IIT के एक अनुक्रमित बहु-टीका पृष्ठ के क्रमांकित संस्कृत खण्ड में तदा, अर्थात् “तब”, है। उस पाठान्तर की सूचना दी गई है, उसे मूल के स्थान पर नहीं रखा गया है।"
+      },
+      "context": {
+        "en": "The extraordinary deed belongs to the epic narrative. A present-day reflection concerns the connection between demonstrated ability and another person’s confidence.",
+        "hi": "यह असाधारण कार्य महाकाव्य के कथानक का भाग है। आज के संदर्भ में इससे दिखाई गई क्षमता और दूसरे व्यक्ति के विश्वास के सम्बन्ध पर विचार मिलता है।"
+      },
+      "teaching": {
+        "en": "Support an assurance of ability with evidence relevant to the task.",
+        "hi": "अपनी क्षमता के आश्वासन के साथ कार्य से सम्बन्धित प्रमाण भी दें।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "67": {
+      "en": "Then, pleased and reassured by that [deed], the great vānara [Sugrīva] went with Rāma to the cave of Kiṣkindhā.",
+      "hi": "तब उस [कार्य] से प्रसन्न और आश्वस्त हुए वे महाकपि [सुग्रीव] राम के साथ किष्किन्धा गुफा में गए।",
+      "connection": {
+        "en": "The bracketed words identify the referent of तेन and the great vānara. This is Sugrīva’s response to the preceding display of strength. गुहाम् is retained as “cave”; the verse does not establish a modern geographical identification.",
+        "hi": "कोष्ठकों के शब्द तेन के संकेत और महाकपि की पहचान को स्पष्ट करते हैं। यह पहले हुए शक्ति-प्रदर्शन के प्रति सुग्रीव की प्रतिक्रिया है। गुहाम् का अर्थ “गुफा” रखा गया है। श्लोक किसी आधुनिक भौगोलिक स्थान की पहचान निश्चित नहीं करता।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "68": {
+      "en": "Then Sugrīva, foremost among vānaras and of a golden tawny hue, roared. At that mighty sound, the vānara lord [Vālin] came out.",
+      "hi": "तब वानरों में श्रेष्ठ, सुनहरे भूरे वर्ण वाले सुग्रीव गरजे। उस प्रबल गर्जना से वानरराज [वालि] बाहर आए।",
+      "connection": {
+        "en": "The bracketed name identifies the vānara lord as Vālin, who is the subject of 1.1.69a. The verse gives a roar, without words of a spoken challenge or a description of repeated encounters.",
+        "hi": "कोष्ठक का नाम वानरराज की पहचान वालि के रूप में स्पष्ट करता है। वे 1.1.69 के पहले अर्धश्लोक के कर्ता हैं। यहाँ गर्जना का उल्लेख है। किसी मौखिक ललकार के शब्द या बार-बार हुई मुठभेड़ों का वर्णन नहीं दिया गया है।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "69": {
+      "en": "Then, after persuading Tārā, [Vālin] met Sugrīva [in combat]. There Rāghava slew him with a single arrow.",
+      "hi": "तब तारा को सहमत करके [वालि] सुग्रीव से [युद्ध में] मिले। वहीं राघव ने एक ही बाण से उनका वध किया।",
+      "connection": {
+        "en": "Nārada remains the narrator. Vālin, carried forward from 1.1.68b, is the subject of the first half; Rāma is the subject of the second. The combat setting is supplied in brackets and is explicit in 1.1.70. अनुमान्य is understood as persuading Tārā to assent. No speech by Tārā or Vālin, firing position, or moral justification is added to this compressed summary.",
+        "hi": "कथावाचक नारद ही हैं। पहले अर्धश्लोक के कर्ता 1.1.68 के दूसरे अर्धश्लोक से चले आ रहे वालि हैं। दूसरे के कर्ता राम हैं। युद्ध का प्रसंग कोष्ठकों में स्पष्ट किया गया है और 1.1.70 में प्रत्यक्ष है। अनुमान्य का अर्थ तारा को सहमत करना लिया गया है। इस संक्षिप्त वर्णन में तारा या वालि के संवाद, बाण चलाने की स्थिति या नैतिक औचित्य नहीं जोड़े गए हैं।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
+      }
+    },
+    "70": {
+      "en": "Then, after slaying Vālin in battle at Sugrīva’s request, Rāghava installed Sugrīva himself [as ruler] in that kingdom.",
+      "hi": "फिर सुग्रीव के कहने पर युद्ध में वालि का वध करके राघव ने उसी राज्य में सुग्रीव को ही [शासक के रूप में] प्रतिष्ठित किया।",
+      "connection": {
+        "en": "The opening refers back to the slaying in 1.1.69; it is not a second killing. सुग्रीवमेव emphasizes Sugrīva himself. The bracketed office makes the understood role explicit. The verse describes succession in the narrative; it supplies neither coronation details nor a general rule authorizing violence for a friend.",
+        "hi": "आरम्भ 1.1.69 में हुए वध का पुनः उल्लेख करता है। यह दूसरा वध नहीं है। सुग्रीवमेव में सुग्रीव को ही प्रतिष्ठित करने पर बल है। कोष्ठकों में निहित पद स्पष्ट किया गया है। श्लोक कथा में उत्तराधिकार का वर्णन करता है। उसमें न राज्याभिषेक का विवरण है, न मित्र के लिए हिंसा करने का कोई सामान्य नियम।"
+      },
+      "review": {
+        "sanskrit": "verse-boundaries-checked",
+        "translation": "independently-authored-editorial-review",
+        "date": "2026-10-24",
+        "speaker": "Nārada narrating to Vālmīki; no direct quotation.",
+        "sources": [
+          "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+          "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm"
+        ],
+        "limitation": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records. No independent human reviewer is claimed."
       }
     }
   }

@@ -811,5 +811,247 @@
       }
     ],
     "latin": "āditastadyathāvṛttaṃ sītāyāśca viśeṣataḥ | sugrīvaścāpi tatsarvaṃ śrutvā rāmasya vānaraḥ ||"
+  },
+  "1.1.61": {
+    "text": "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् ।\nततो वानरराजेन वैरानुकथनं प्रति ।।1.1.61।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from two unchanged imported half-verses. Adjacent numbered verses remain separate. The fire-witnessed pact is 61a, from raw 60:2; ततो वानरराजेन is 61b.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "boundary-restoration",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.60",
+        "segment": 2
+      },
+      {
+        "row": "1.1.61",
+        "segment": 1
+      }
+    ],
+    "latin": "cakāra sakhyaṃ rāmeṇa prītaścaivāgnisākṣikam | tato vānararājena vairānukathanaṃ prati ||"
+  },
+  "1.1.62": {
+    "text": "रामायावेदितं सर्वं प्रणयाद्दुःखितेन च ।\nप्रतिज्ञातं च रामेण तदा वालिवधं प्रति ।।1.1.62।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from two unchanged imported half-verses. Adjacent numbered verses remain separate.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "boundary-restoration",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.61",
+        "segment": 2
+      },
+      {
+        "row": "1.1.62",
+        "segment": 1
+      }
+    ],
+    "latin": "rāmāyāveditaṃ sarvaṃ praṇayādduḥkhitena ca | pratijñātaṃ ca rāmeṇa tadā vālivadhaṃ prati ||"
+  },
+  "1.1.63": {
+    "text": "वालिनश्च बलं तत्र कथयामास वानरः ।\nसुग्रीवश्शङ्कितश्चासीन्नित्यं वीर्येण राघवे ।।1.1.63।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from two unchanged imported half-verses. Adjacent numbered verses remain separate. Raw rows 63 and 64 repeat the same block; the corrected sequence uses it once.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "boundary-restoration",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.62",
+        "segment": 2
+      },
+      {
+        "row": "1.1.63",
+        "segment": 1
+      }
+    ],
+    "latin": "vālinaśca balaṃ tatra kathayāmāsa vānaraḥ | sugrīvaśśaṅkitaścāsīnnityaṃ vīryeṇa rāghave ||"
+  },
+  "1.1.64": {
+    "text": "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम् ।\nदर्शयामास सुग्रीवो महापर्वतसन्निभम् ।।1.1.64।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "Numbered verse boundaries restored from two unchanged imported half-verses. Adjacent numbered verses remain separate. Raw rows 63 and 64 repeat the same block; the corrected sequence uses it once. Retain राघवप्रत्ययार्थं against the parallel’s separated राघवः प्रत्ययार्थम्.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "boundary-restoration",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.63",
+        "segment": 2
+      },
+      {
+        "row": "1.1.63",
+        "segment": 3
+      }
+    ],
+    "latin": "rāghavapratyayārthaṃ tu dundubheḥ kāyamuttamam | darśayāmāsa sugrīvo mahāparvatasannibham ||",
+    "lexicalVariants": [
+      {
+        "location": "64a",
+        "importedReading": "राघवप्रत्ययार्थं",
+        "parallelReading": "राघवः प्रत्ययार्थम्",
+        "decision": "Retain the imported compound, also corroborated by indexed IIT base Sanskrit; the separated parallel form is not adopted."
+      }
+    ]
+  },
+  "1.1.65": {
+    "text": "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः ।\nपादाङ्गुष्ठेन चिक्षेप सम्पूर्णं दशयोजनम् ।।1.1.65।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has correct two-half-verse boundaries. This display overlay normalizes punctuation and ASCII visarga representation and supplies matching IAST; it does not repair a boundary defect. Retain चास्थि and पादाङ्गुष्ठेन against the parallel’s printed च अस्ति and पाद अंगुष्टेन.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.65",
+        "segment": 1
+      },
+      {
+        "row": "1.1.65",
+        "segment": 2
+      }
+    ],
+    "latin": "utsmayitvā mahābāhuḥ prekṣya cāsthi mahābalaḥ | pādāṅguṣṭhena cikṣepa sampūrṇaṃ daśayojanam ||",
+    "lexicalVariants": [
+      {
+        "location": "65a",
+        "importedReading": "चास्थि",
+        "parallelReading": "च अस्ति",
+        "decision": "Retain अस्थि, bones / skeletal remains, corroborated by indexed numbered IIT Sanskrit; do not adopt the parallel’s printed अस्ति."
+      },
+      {
+        "location": "65b",
+        "importedReading": "पादाङ्गुष्ठेन",
+        "parallelReading": "पाद अंगुष्टेन",
+        "decision": "Retain the imported consonants and pādāṅguṣṭhena romanization; the parallel’s printed form is not adopted."
+      }
+    ]
+  },
+  "1.1.66": {
+    "text": "बिभेद च पुनस्सालान्सप्तैकेन महेषुणा ।\nगिरिं रसातलं चैव जनयन्प्रत्ययं तथा ।।1.1.66।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has correct two-half-verse boundaries. This display overlay normalizes punctuation and ASCII visarga representation and supplies matching IAST; it does not repair a boundary defect. Retain तथा, also present in the parallel and indexed IIT sarga block; an indexed IIT multi-commentary page has तदा in its numbered Sanskrit block.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.66",
+        "segment": 1
+      },
+      {
+        "row": "1.1.66",
+        "segment": 2
+      }
+    ],
+    "latin": "bibheda ca punassālānsaptaikena maheṣuṇā | giriṃ rasātalaṃ caiva janayanpratyayaṃ tathā ||",
+    "lexicalVariants": [
+      {
+        "location": "66b",
+        "importedReading": "तथा",
+        "parallelReading": "तथा",
+        "otherReading": "तदा",
+        "otherSource": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&field_sarga_value=1&field_sloka_value=35&language=dv&scaa=1&scgr=1&sckt=1&scmt=1&scnb=1&scss=1&scty=1",
+        "decision": "Retain तथा, matching the complete parallel and indexed IIT sarga block; disclose तदा in the indexed multi-commentary page’s numbered Sanskrit block."
+      }
+    ]
+  },
+  "1.1.67": {
+    "text": "ततः प्रीतमनास्तेन विश्वस्तस्स महाकपिः ।\nकिष्किन्धां रामसहितो जगाम च गुहां तदा ।।1.1.67।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has correct two-half-verse boundaries. This display overlay normalizes punctuation and ASCII visarga representation and supplies matching IAST; it does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.67",
+        "segment": 1
+      },
+      {
+        "row": "1.1.67",
+        "segment": 2
+      }
+    ],
+    "latin": "tataḥ prītamanāstena viśvastassa mahākapiḥ | kiṣkindhāṃ rāmasahito jagāma ca guhāṃ tadā ||"
+  },
+  "1.1.68": {
+    "text": "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः ।\nतेन नादेन महता निर्जगाम हरीश्वरः ।।1.1.68।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has correct two-half-verse boundaries. This display overlay normalizes punctuation and ASCII visarga representation and supplies matching IAST; it does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.68",
+        "segment": 1
+      },
+      {
+        "row": "1.1.68",
+        "segment": 2
+      }
+    ],
+    "latin": "tato'garjaddharivaraḥ sugrīvo hemapiṅgalaḥ | tena nādena mahatā nirjagāma harīśvaraḥ ||"
+  },
+  "1.1.69": {
+    "text": "अनुमान्य तदा तारां सुग्रीवेण समागतः ।\nनिजघान च तत्रैनं शरेणैकेन राघवः ।।1.1.69।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has correct two-half-verse boundaries. This display overlay normalizes punctuation and ASCII visarga representation and supplies matching IAST; it does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.69",
+        "segment": 1
+      },
+      {
+        "row": "1.1.69",
+        "segment": 2
+      }
+    ],
+    "latin": "anumānya tadā tārāṃ sugrīveṇa samāgataḥ | nijaghāna ca tatrainaṃ śareṇaikena rāghavaḥ ||"
+  },
+  "1.1.70": {
+    "text": "ततस्सुग्रीववचनाद्धत्वा वालिनमाहवे ।\nसुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत् ।।1.1.70।।",
+    "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&field_sarga_value=1&language=dv",
+    "parallelSource": "https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm",
+    "reason": "The imported row already has correct two-half-verse boundaries. This display overlay normalizes punctuation and ASCII visarga representation and supplies matching IAST; it does not repair a boundary defect.",
+    "verification": "verse-boundaries-checked",
+    "overlayKind": "display-normalization",
+    "checkedOn": "2026-10-24",
+    "evidence": "Complete numbered Sanskrit Documents parallel used for every boundary. Indexed IIT sarga Sanskrit corroborates selected 61–64, 66–67 and 70 blocks; indexed numbered Sanskrit embedded in an IIT multi-commentary page corroborates 63–70. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed evidence is not a fresh full IIT collation. Imported lexical readings are retained; the parallel’s typographic differences at 64–65 and IIT तथा/तदा difference at 66 are disclosed in the relevant records.",
+    "sourceSegments": [
+      {
+        "row": "1.1.70",
+        "segment": 1
+      },
+      {
+        "row": "1.1.70",
+        "segment": 2
+      }
+    ],
+    "latin": "tatassugrīvavacanāddhatvā vālinamāhave | sugrīvameva tadrājye rāghavaḥ pratyapādayat ||"
   }
 }

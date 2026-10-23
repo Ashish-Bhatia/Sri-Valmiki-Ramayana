@@ -1,64 +1,56 @@
 # PROJECT STATE · CONTROLLING CHECKPOINT
 
-Checkpoint date: 23 October 2026, Asia/Kolkata.
+Checkpoint date: 24 October 2026, Asia/Kolkata.
 Repository: https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana
 Website: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
 Title: Sri Valmiki Ramayana (A Version of the AI Era)
-Baseline latest main read before this batch: `65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c`.
+Baseline latest main read before this batch: `58f3e1da511a2973cb9d3c8fdb3ec0da9d0089fd`.
 
 ## Controlling requirements
 
-- Preserve published text and imported source records. Never reset or clean the repository. Read the latest main checkpoints, sources, audit, QA, deployment evidence, errata and existing translations before editing.
-- Preserve Bāla → Ayodhyā → Araṇya → Kiṣkindhā → Sundara → Yuddha → Uttara, every sarga and every numeric śloka address in order.
-- Publish source-preserving Sanskrit, independently authored English and Hindi, separately labelled modern context and selected grounded teachings. Do not invent, silently merge, duplicate or reorder verses.
-- Keep raw Sanskrit immutable. Record boundary overlays, corrected romanization, original-reading disclosure and traceable source segments in `data/errata.json`. Disclose lexical differences rather than mixing editions silently.
-- Deploy only with GitHub Pages **main / (root)** and its managed branch process. Never add a custom workflow.
-- Preserve `_config.yml` exclusions for `docs`, `scripts`, `README.md` and `AGENTS.md`. Keep `.nojekyll` absent, since it would bypass the exclusions. Public navigation links to `sources.html`.
-- Update this file and `docs/NEXT_CHAT_PROMPT.md` in every project commit. End completion responses with the exact next action and a copy-ready prompt.
-- Advance the `index.html` script edition marker and `EDITION_REVISION` in `assets/app.js` together for each new translation batch.
+- Preserve prior translations, imported records and original project requirements. Never reset or clean the repository. Read latest-main checkpoints, sources, audit, QA, deployment evidence, errata and existing translations before editing.
+- Preserve Bāla → Ayodhyā → Araṇya → Kiṣkindhā → Sundara → Yuddha → Uttara, each sarga and numeric śloka address in order.
+- Publish source-preserving Sanskrit and independently authored English and Hindi. Keep modern context, grounded teachings and connected-verse notes separately labelled and bilingual. Mark supplied words and unfinished clauses. Do not invent, omit, silently merge, duplicate or reorder verses.
+- Keep all raw Sanskrit immutable. Use traceable overlays, matching romanization and original-reading disclosure. Record lexical differences. Distinguish boundary corrections from normalization of already correctly bounded rows.
+- Compare the adopted Southern Recension numbering with an identified complete numbered parallel. Record actual access. Never present indexed extracts as a fresh IIT collation or silently substitute Baroda Critical Edition numbering.
+- Deploy through GitHub Pages **main / (root)** and the managed branch build only. Create no custom workflow.
+- Preserve `_config.yml` exclusions for `docs`, `scripts`, `README.md` and `AGENTS.md`. Keep `.nojekyll` absent. Public navigation links to `sources.html`; internal project records stay excluded from Pages.
+- Update this file and `docs/NEXT_CHAT_PROMPT.md` in every project commit. Supply the exact next action and copy-ready continuation prompt in completion responses.
+- Advance `index.html` script edition and `EDITION_REVISION` in `assets/app.js` together for each translation batch.
 
 ## Coverage and preservation
 
-- Published English/Hindi: **1.1.1–1.1.60**, sixty consecutive records. There is no translation for 61 or later.
-- New batch: **1.1.51–1.1.60**, ten translations, ten boundary overlays and twenty unique half-verses. All fifty prior translation objects and thirty-one prior errata objects are identical to baseline.
-- Boundary-checked sequence: **1.1.18–1.1.60**, forty-three verses and eighty-six distinct half-verses, each once in order. Verses 23–24 and 46 require no overlay. Forty boundary overlays cover 18–22, 25–45 and 47–60. The earlier 1.1.6 lexical correction remains separate.
-- Earlier translations 1–17 retain their provisional editorial status. This is not a fully proofread critical text.
-- Raw Sanskrit: **23,291 records / 648 sargas**, 1.1.1–7.111.25. All seven raw files and the preliminary flag manifest remain byte-identical. `_config.yml` and all three older audit ledgers are unchanged. Imported counts do not prove complete textual coverage.
-- Nārada narrates to Vālmīki. Mārīca speaks in 51a. Kabandha's instruction spans 56b–57a. Connected-verse notes, English/Hindi, modern context and teachings remain separate fields and reader sections.
+- Source coverage: **1.1.1–1.1.70**, seventy consecutive English/Hindi records. Verse 71 and later remain untranslated.
+- New batch: **1.1.61–1.1.70**, ten translations and twenty distinct half-verses. Four overlays restore boundaries in 61–64. Six normalize display/romanization on correctly bounded 65–70 and expose original imports; they are not six new boundary defects.
+- Checked sequence: **18–70**, fifty-three verses and **106** distinct half-verses, once each and in order. Fifty display overlays comprise **44 boundary restorations + 6 display normalizations**. The earlier 1.1.6 lexical correction is separate. Total errata objects: **51**.
+- All **60** earlier translation objects and **41** earlier errata objects match baseline. Earlier 1–17 translations retain their provisional status. This is not a fully proofread critical edition or independent human review.
+- Raw corpus: **23,291 records / 648 sargas**, 1.1.1–7.111.25. All seven raw files, the preliminary flag manifest, `_config.yml` and all four earlier audit ledgers are byte-identical. Runtime logic is unchanged apart from its edition marker. Imported counts do not establish textual completeness.
+- Nārada narrates to Vālmīki throughout the new batch. No direct quotation is invented. Speaker changes within the narrative are disclosed, especially Vālin in 69a and Rāma in 69b.
 
-## New boundary and reading decisions
+## New audit and lexical decisions
 
-Read `docs/TEXTUAL_AUDIT_1_1_51_60.md` and the unchanged earlier ledgers. Verse 51 begins **न विरोधो बलवता क्षमो रावण तेन ते**, from row 50:2. Raw 54 and 55 repeat an identical three-half-verse block. The corrected sequence uses those half-verses once. Raw 56 contains 56a, 56b, 57a and a stray `1151` token. The token remains in raw/imported disclosure and never enters corrected Sanskrit or translation.
+Read `docs/TEXTUAL_AUDIT_1_1_61_70.md`. The boundary audit preceded composition. **61a begins चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्**, from raw 60:2; **ततो वानरराजेन… is 61b**. Raw 63 and 64 repeat an identical three-half-verse block. Its content appears once in the corrected sequence. Raw rows remain unchanged. Verse 61a completes 60b; 61b continues into 62a. All continuing clauses and supplied words are marked.
 
-The complete numbered Sanskrit Documents `sites/valmikiramayan` parallel establishes every new boundary. Indexed IIT base-Sanskrit passages corroborate selected 50–55 and 57–60 blocks. Direct requests failed, including timeouts for 56 and 59. Indexed content is not a fresh full IIT download. No full critical collation or independent human reviewer is claimed.
+The complete numbered `sites/valmikiramayan` parallel supplies all ten boundaries. Direct IIT verse-61, verse-69 and sarga opens failed. Indexed IIT sarga blocks corroborate selected 61–64, 66–67 and 70 passages; indexed separately numbered Sanskrit in a multi-commentary page corroborates 63–70. This is indexed evidence, not a fresh IIT download or full collation. Commentary numbering does not replace base-Sanskrit markers.
 
-The imported **श्रमणीं** in 57a is retained against the parallel's **श्रमणाम्**. Both denote a woman ascetic; no sectarian affiliation is inferred. Prior lexical decisions, including वने in 48a against the parallel's रणे, remain unchanged. The Baroda Critical Edition is not silently substituted. No golden deer, fruit-tasting, additional caste identity or invented dialogue is added from later narrative or commentary.
+Retain the imported **राघवप्रत्ययार्थं** in 64 against the parallel's separated **राघवः प्रत्ययार्थम्**. Retain **चास्थि** and **पादाङ्गुष्ठेन** in 65 against printed **च अस्ति** and **पाद अंगुष्टेन**. Retain **तथा** in 66b, also in the parallel and indexed IIT sarga block, while disclosing **तदा** in an indexed IIT multi-commentary page's numbered Sanskrit block. Prior **श्रमणीं** in 57a and **वने** in 48a remain unchanged.
 
-Verse 60 contains Rāma's account and Sugrīva listening. The pact of friendship beginning **चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्** belongs to **61a**, outside the published translation range.
+No invented dialogue, fixed yojana conversion, palmyra substitution, modern geological claim, firing position or moral justification for Vālin's killing is inserted. Rāma's pledge is narrated as a pledge. Verse 70 refers back to the killing in 69, not another killing.
 
 ## Quality ledger
 
-- Immutable preliminary manifest: **3,213 raw-source flags**.
-- This batch resolves displays for existing flags **54 and 55** and corrects eight unflagged defects in **51–53 and 56–60**.
-- Cumulative baseline flags resolved in the display: **seventeen**. Remaining baseline flags unresolved by these overlays: **3,196**. Unflagged rows still require review.
-- Exactly next: **1.1.61–1.1.70**. Begin 61 with the pact in raw row 60:2, not raw 61's ततो वानरराजेन… half-verse. Audit all boundaries first, including the duplicated raw 63/64 block.
+The immutable preliminary manifest retains **3,213 flags**. Two additional baseline flags, 63 and 64, have corrected displays: **19** resolved in the display and **3,194** unresolved by these overlays. Two unflagged boundary defects in 61 and 62 are corrected. Six display normalizations do not count as new defects. Unflagged rows still need review.
 
-## Validation and publication status
+## Validation and publication
 
-Passed: `node --check assets/app.js`, `node scripts/audit-corpus.mjs --check`, `node scripts/verify-publication.mjs`, and explicit baseline object/byte comparisons. The verifier checks sixty consecutive bilingual records, forty-three checked verses, forty boundary overlays, eighty-six unique half-verses, exact new mappings, the preserved raw duplication/token, श्रमणीं, retained वने, pending 61, seven raw hashes, both edition markers and publication separation.
+Passed: JavaScript syntax, unchanged corpus-manifest check, expanded publication verifier and explicit baseline object/byte comparisons. The verifier checks seventy consecutive records, fifty-three checked verses, fifty display overlays, 106 distinct half-verses, exact mappings, raw duplicate/token preservation, prior lexical readings, the new variants, speakers, pending 71 and publication separation. An independent script also compares new Devanāgarī and IAST.
 
-Both edition markers are **1.1.60**. `index.html`, `sources.html` and README coverage are updated. The reader's structure and controls are preserved.
+Both edition markers are **1.1.70**. `index.html`, `sources.html` and current README coverage are updated. Reader controls and runtime behavior remain intact.
 
-Baseline main **65881d11f3a9dfeb9b6d41d47474d8c04f4b4d6c** has successful managed Pages run **39888137638**, build job **120201087696**, deploy job **120201221917**. Inspected build logs confirm `ref: main`, Jekyll `source: .`, the matching revision, `_config.yml` and explicit docs/scripts/README exclusions. There is no custom repository workflow. The public root returned HTTP 200. Administrative Pages settings were not read; main/root is verified from successful actual build inputs.
+The baseline main's managed Pages run **40005649424** completed successfully. Build job **120592755827** and deploy job **120593017308** passed. Inspected logs confirm `ref: main`, Jekyll `source: .`, matching baseline revision, `_config.yml` and explicit docs/scripts/README exclusions. No custom workflow or `.nojekyll` exists. Baseline public root returned HTTP 200. Administrative settings were not read; actual build inputs establish main/root.
 
-Content commit **97b4168e9473909cf15bc88630d2a5ce61dba791** deployed successfully in managed Pages run **40004902628**. Build job **120590218426** and deploy job **120590432606** completed successfully. The inspected build confirms `ref: main`, Jekyll `source: .`, the matching revision, `_config.yml` and explicit docs/scripts/README exclusions. Administrative settings were not read; successful actual build inputs establish main/root.
-
-Fourteen public files, including the unchanged flag manifest and seven raw downloads, returned HTTP 200 with exact content-commit bytes using `edition=1.1.60`. The root URL, both without a query and with the edition query, also returned HTTP 200 with the new committed HTML. Sixteen internal/prohibited paths returned HTTP 404, including every internal Markdown file, both audit scripts, README, AGENTS, `_config.yml`, `.nojekyll` and the custom workflow path.
-
-Live reader QA confirms sixty translations, exact 51 opening, correctly bounded 56 and 60, retained imported `1151` in the disclosure, corrected 57 romanization, Hindi-only translation and note selection, one search match for कबन्धन्नाम रूपेण at 55, and explicitly pending 61. The verse-56 clipboard payload matches its corrected Sanskrit and ID, with no stray token. No internal navigation or horizontal overflow was found at the tested desktop viewport. No separate mobile viewport test is claimed. Final reader state is both languages, transliteration off, verse 60 selected. Full evidence is in `docs/DEPLOYMENT_VERIFICATION.md`.
-
-This evidence commit updates excluded internal documents and both continuity checkpoints only. Verified public runtime bytes remain unchanged. Check its actual managed branch result before final handoff; this record does not claim its own future run was inspected.
+New content publication status: **local checks pass; post-commit managed build, exact public-byte checks, exclusions and focused live reader checks are pending**. Update this section only with observed results. Full build and reader evidence belongs in `docs/DEPLOYMENT_VERIFICATION.md`.
 
 ## Exact next action
 
-Check the latest managed evidence-commit build, then continue **Bāla Kāṇḍa, Sarga 1, 1.1.61–1.1.70** after a full boundary audit. Preserve everything through 60 and all raw Sanskrit. Advance both markers only with the next published translation batch.
+Finish post-commit verification for the seventy-verse release, then continue **Bāla Kāṇḍa, Sarga 1, 1.1.71–1.1.80**. Begin 71 with **स च सर्वान्समानीय वानरान्वानरर्षभः**. Audit duplicated raw 76/77 and their continuing clauses first. Preserve all work through 70 and the raw corpus.

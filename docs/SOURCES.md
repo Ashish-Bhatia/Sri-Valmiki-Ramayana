@@ -1,5 +1,5 @@
 # Sanskrit source, edition and translation policy
-Updated: 2026-10-23
+Updated: 2026-10-24
 
 ## Fundamental textual distinction
 There is no surviving autograph manuscript by Vālmīki. The Rāmāyaṇa survives through several manuscript traditions and published editions. The familiar description of ~24,000 ślokas is conventional; digital corpora may contain different record counts, numbering and readings.
@@ -77,3 +77,12 @@ Ten new overlays restore the next ten numbered verses. Duplicate raw rows 54/55 
 Coverage is now 1.1.1–1.1.60. All fifty previous translations, thirty-one previous corrections, seven raw files and the flag manifest remain unchanged. Forty boundary overlays cover 18–22, 25–45 and 47–60, plus the separate 1.1.6 lexical correction. Forty-three checked verses contain eighty-six distinct half-verses. Seventeen baseline flags have corrected displays; 3,196 remain unresolved by the boundary overlays. Eight previously unflagged rows in this batch are also corrected. The initial 1–17 translations retain their provisional status.
 
 Mārīca's warning is in 51a. Kabandha's instruction spans 56b–57a. Rāma's account spans 59b–60a, while Sugrīva's pact of friendship belongs to 61a. Exactly next: 1.1.61–1.1.70, after auditing all boundaries, including the duplicated 63/64 block.
+
+
+## Boundary check completed for 1.1.61–1.1.70
+
+[The new audit](./TEXTUAL_AUDIT_1_1_61_70.md), dated 24 October 2026, identifies the complete numbered `sites/valmikiramayan` parallel and actual indexed IIT witnesses. Direct IIT verse-61, verse-69 and sarga requests failed; no fresh full IIT collation is claimed. Indexed base-Sanskrit markers are distinguished from prose groupings and commentary numbering. No modern translated or commentary prose is copied.
+
+Ten independently authored English/Hindi records extend coverage through 1.1.70. Four overlays restore 61–64; six normalize display/romanization on already correctly bounded 65–70, with imported readings disclosed. Raw 63/64 duplication remains untouched. Imported राघवप्रत्ययार्थं, चास्थि and पादाङ्गुष्ठेन are retained against the parallel's printed forms. Imported तथा in 66b agrees with the complete parallel and indexed IIT sarga block; the indexed multi-commentary page's numbered तदा reading is separately disclosed. Previous श्रमणीं in 57a and वने in 48a remain unchanged.
+
+All sixty earlier translations and forty-one earlier errata objects are preserved. There are fifty-three checked verses, 106 unique half-verses, forty-four boundary restorations, six normalizations and the separate earlier lexical correction. Nineteen baseline flags have corrected displays; 3,194 remain unresolved by the overlays. These totals do not establish a fully proofread corpus. Exactly next: 1.1.71–1.1.80, after auditing duplicated raw 76/77 and all remaining boundaries in that range.

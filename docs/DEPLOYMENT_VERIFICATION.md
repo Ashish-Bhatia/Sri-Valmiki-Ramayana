@@ -1,3 +1,15 @@
+# Publication verification in progress: 1.1.61–1.1.70
+
+Date: 24 October 2026, Asia/Kolkata.
+
+Baseline main `58f3e1da511a2973cb9d3c8fdb3ec0da9d0089fd` has successful managed run `40005649424`, build job `120592755827`, deploy job `120593017308`. Inspected logs confirm `ref: main`, `source: .`, matching baseline revision, `_config.yml` and explicit `/docs`, `/scripts`, `/README.md` exclusions. The public root returned HTTP 200. Administrative Pages settings were not read; observed successful build inputs establish main/root. There are no repository custom workflows and `.nojekyll` is absent.
+
+The seventy-verse content passes local syntax, corpus, publication and baseline preservation checks. Post-commit managed-build completion, exact public-file comparisons, exclusion checks and focused reader checks remain pending. Do not treat preparation as publication evidence.
+
+---
+
+## Earlier verification record: coverage through 1.1.60
+
 # Verified publication: Bāla Kāṇḍa 1.1.51–1.1.60
 
 Date: 23 October 2026, Asia/Kolkata.
