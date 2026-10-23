@@ -1,22 +1,79 @@
-# Release checkpoint: Bāla Kāṇḍa 1.1.71–1.1.80
+# Verified publication: Bāla Kāṇḍa 1.1.71–1.1.80
 
 Date: 24 October 2026, Asia/Kolkata.
 Website: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/
+Verified reader: https://ashish-bhatia.github.io/Sri-Valmiki-Ramayana/?k=1&s=1&v=80
 
-## Baseline build inspected before editing
+## Release and managed branch build
 
-- Latest main was `9c55fdf15b8e81a41fcd6c8a71d602041a3b25aa`.
-- Managed run [40013216331](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/40013216331) completed successfully. Build `120618597377` and deploy `120618842614` passed.
-- Inspected build log: checkout `ref: main`; Jekyll source `.`; matching baseline build revision; `/github/workspace/./_config.yml`; explicit exclusions for `/scripts`, `/README.md` and `/docs`.
-- Actual build inputs establish **main / (root)**. Administrative Pages settings were not read. The workflow is GitHub-managed `dynamic/pages/pages-build-deployment`; the repository has no custom workflow and `.nojekyll` is absent.
+- Content commit: [988e0fd971fd8a7a7bccc5e61efcd35614dd71d0](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/commit/988e0fd971fd8a7a7bccc5e61efcd35614dd71d0). Its tree `f882d237b09e658e3d0e126432217d19f27300f7` exactly matches the locally checked tree. The connected GitHub tools created the atomic commit and advanced main with an expected-head check; both continuity checkpoints changed in that commit.
+- Managed Pages run [40015727004](https://github.com/Ashish-Bhatia/Sri-Valmiki-Ramayana/actions/runs/40015727004) completed successfully. Build **120627181229**, deploy **120627363348** and report-build-status **120627363401** passed. Workflow path: `dynamic/pages/pages-build-deployment`.
+- Inspected build log checks out `ref: main`, uses Jekyll `source: .`, records `build_revision: 988e0fd971fd8a7a7bccc5e61efcd35614dd71d0`, loads `/github/workspace/./_config.yml`, and explicitly excludes `/scripts`, `/README.md` and `/docs`.
+- Actual successful build inputs and public output establish **main / (root)**. Administrative Pages settings were not read. No custom workflow or `.nojekyll` exists. `_config.yml` remains byte-identical to baseline.
+- Baseline main `9c55fdf15b8e81a41fcd6c8a71d602041a3b25aa` also had successful run **40013216331**, build **120618597377** and deploy **120618842614**, with inspected matching revision, main/root inputs and exclusions. The initial public request before completion of the new deployment still returned the older seventy-verse HTML; no premature success was claimed.
 
-## New content release
+## Exact public bytes and exclusions
 
-Local syntax, corpus, publication, baseline-preservation and independent Sanskrit/IAST checks pass for eighty bilingual records. Both cache markers are `1.1.80`. Seventy prior translations and fifty-one prior corrections retain exact values and value bytes; fifteen immutable whole files match baseline. The raw corpus and preliminary 3,213-flag manifest are unchanged.
+Fourteen public files returned **HTTP 200 with exact committed bytes**, using `edition=1.1.80`: index, public sources page, app JavaScript, CSS, translations, errata, preliminary flag manifest and all seven raw Sanskrit files. Both unversioned root and edition-query root also matched the committed index.
 
-The new content commit and its managed build do not yet exist at this checkpoint. New-release HTTP byte comparisons, internal-file exclusions and focused live reader checks are **pending**. Record them only after observing the published revision. The previous verified seventy-verse release and its evidence follow below.
+| File | SHA-256 |
+|---|---|
+| index.html | `4c2fcfb37e410bca7d928e1e031121644af30838051bf7086740105d6599bda9` |
+| assets/app.js | `5d0ac55776d0c50159db8815732f0de28866e0f90c2ebeae5e5b1771effe3592` |
+| data/translations/1-1.json | `4db019d7f53b87de87dc85526ec4197468ea270e26268be5292d9735bf2e8328` |
+| data/errata.json | `0e136f8d229d49eb92dde0c5a3a35050950609765185b878a945622e007b5056` |
+
+Both edition markers are **1.1.80**. Public data contains eighty consecutive bilingual records. Sixty display overlays comprise forty-six restorations and fourteen normalizations; the separate earlier lexical correction makes sixty-one errata objects. The raw Sanskrit and flag manifest retain baseline hashes. Twenty-one baseline flags have corrected displays; 3,192 remain unresolved by these overlays.
+
+All **eighteen** internal/prohibited paths returned **HTTP 404**:
+
+- `docs/TEXTUAL_AUDIT_1_1_18_30.md`
+- `docs/NEXT_CHAT_PROMPT.md`
+- `docs/SOURCES.md`
+- `docs/TEXTUAL_AUDIT_1_1_61_70.md`
+- `docs/TEXTUAL_AUDIT_1_1_31_40.md`
+- `docs/TEXTUAL_AUDIT_1_1_71_80.md`
+- `docs/TEXTUAL_AUDIT_1_1_41_50.md`
+- `docs/TEXTUAL_AUDIT_1_1_51_60.md`
+- `docs/QA_REPORT.md`
+- `docs/DEPLOYMENT_VERIFICATION.md`
+- `docs/PROJECT_STATE.md`
+- `scripts/audit-corpus.mjs`
+- `scripts/verify-publication.mjs`
+- `README.md`
+- `AGENTS.md`
+- `.nojekyll`
+- `.github/workflows/pages.yml`
+- `_config.yml`
+
+These checks include every committed internal Markdown file, including the new 71–80 ledger, and both local verification scripts. AGENTS, `.nojekyll` and the custom workflow path are absent from the repository as well. Internal records remain accessible in the public GitHub repository; the exclusions apply to Pages output.
+
+## Focused live reader checks
+
+- DOM shows **80** translations and `./assets/app.js?edition=1.1.80`. Every new verse’s displayed Sanskrit and both translations were inspected. Verse 71 starts exactly स च सर्वान्समानीय वानरान्वानरर्षभः. Modern context, teachings and connected notes are distinct sections.
+- Verses 76 and 77 have separate corrected displays with exactly their own markers. The fragment at 76 and continuation at 77 are visible in English and Hindi. Opening 76’s disclosure visibly exposes the unchanged raw block containing both 76 and 77. The raw 77 disclosure content is the same untouched block.
+- Corrected IAST is visible at 74, 76, 77 and 78, including `nivedayitvā''bhijñānaṃ`, `punarāyānmahākapiḥ` and `so'dhigamya`. Sanskrit and bilingual notes retain and disclose the relevant readings at 74, 77 and 78.
+- Hindi-only mode displays **12** Hindi translation blocks, **zero** English translation blocks, **14** Hindi annotation paragraphs and **zero** English annotation paragraphs on the tested 73–84 page. Both languages were restored afterward.
+- Searching **ततो दग्ध्वा पुरीं लङ्कामृते** returns exactly **one** corrected result, 1.1.77, with no duplicate raw 76 result.
+- Copy at 77 produces “Sanskrit verse copied” in the status region. The automation clipboard reader returned an empty string/list, so **exact clipboard payload readback is not verified**. This is reported as a verification limitation, not a confirmed reader defect. Copy logic is byte-identical to baseline.
+- Keyboard Tab from the verse selector focuses **Copy verse 1.1.61** on the 61–72 page, with visible outline style `auto`. Status feedback retains `role="status"` and `aria-live="polite"`. Actual screen-reader speech was not tested.
+- Verses 81–84 remain visibly pending in both languages. No new translation or correction is assigned to them.
+- No internal navigation links or desktop horizontal overflow at **1363 CSS pixels**. Browser warning/error inspection found extension-origin metadata errors, with no site-origin error observed in the inspected set. No separate mobile viewport test is claimed.
+- After reloading, the reader restores verse **80**, both languages and transliteration off. Search is empty. A viewport capture, `docs/reader_1_1_80_20261024.jpg`, shows eighty published translations and the verse-80 selection. It is an internal verification image under excluded `docs`, not a public-site asset.
+
+## Preservation and textual limits
+
+Passed: JavaScript syntax, corpus-manifest, expanded publication verifier, baseline preservation and independent Devanāgarī/IAST checks. All **70** prior translation objects and **51** prior errata objects preserve exact values and original value bytes. Fifteen whole files are byte-identical: seven raw Sanskrit files, manifest, `_config.yml`, CSS and five earlier ledgers. Runtime logic changes only its edition marker.
+
+[The audit](./TEXTUAL_AUDIT_1_1_71_80.md) records every half-verse, actual source access and lexical differences. Cached/indexed IIT evidence and the complete numbered parallel were compared. No full fresh IIT collation or independent human review is claimed. Earlier 1–17 translations remain provisional. Prior वने, श्रमणीं and तथा remain unchanged.
+
+Exactly next: **1.1.81–1.1.90**, beginning **तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे**. Explicitly audit 83/84 ordering against numbered IIT base Sanskrit and the complete parallel before translating; do not silently transfer another arrangement or Baroda numbering.
+
+This evidence update changes excluded internal records, the internal verification image and both continuity checkpoints only. Public runtime bytes remain identical to the verified content release. Its own resulting managed branch build and exclusion of the new image must be checked before final handoff; this document does not claim to have inspected its future run.
 
 ---
+
+## Earlier verification record: coverage through 1.1.70
 
 # Verified publication: Bāla Kāṇḍa 1.1.61–1.1.70
 
