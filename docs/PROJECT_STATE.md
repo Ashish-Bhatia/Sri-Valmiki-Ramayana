@@ -50,7 +50,9 @@ Passed before this content commit:
 
 The reader retains seven-book/sarga navigation, forty published translations, language selection, corrected Sanskrit and romanization, original imports, copy/link, search and explicit pending labels for verse 41 onward. Public edition coverage is updated in `index.html` and `sources.html`.
 
-Latest-main baseline Pages run **39880131695**, head `ef2f97b5118706c69008d68fcd5448aa620902c2`, completed successfully using GitHub-managed `dynamic/pages/pages-build-deployment`. Previous content/live verification is recorded in `docs/DEPLOYMENT_VERIFICATION.md`. **The new forty-verse content still requires post-push deployment and live-reader verification.** Do not treat baseline evidence as verification of this batch. Administrative Pages settings have not been read; verify actual main/root build inputs and public responses honestly.
+Content commit `65c589d381b607268d0f70733334e2dfede677f8` deployed successfully in built-in Pages run **39885497223**. Build job `120192607921` checked out `main`, used Jekyll `source: .`, loaded `_config.yml` and explicitly excluded docs, scripts and README.md. Thirteen public files, including all seven raw Sanskrit downloads, returned HTTP 200 with exact committed bytes. Nine internal/prohibited paths returned 404. Unversioned HTTP requests also returned the new forty-verse files.
+
+Live browser QA exposed cached thirty-verse JSON despite those successful HTTP checks. A small follow-up adds the `1.1.40` edition marker to the app script, translations and errata request URLs, ensuring a fresh cache key for the release. Advance both the script marker and `EDITION_REVISION` when publishing the next batch. **This cache-refresh change still needs its own managed deployment and browser verification.** Administrative Pages settings have not been read; branch/root is verified through the actual build inputs.
 
 ## Exact next action
 

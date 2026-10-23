@@ -77,6 +77,8 @@ assert.equal(ordered.length,46);
 assert.equal(new Set(ordered).size,46);
 const index=read('index.html');
 assert.match(index,/<strong id="translatedCount">40<\/strong>/);
+assert.match(index,/assets\/app\.js\?edition=1\.1\.40/);
+assert.match(read('assets/app.js'),/EDITION_REVISION="1\.1\.40"/);
 assert.match(index,/<title>Sri Valmiki Ramayana \(A Version of the AI Era\)<\/title>/);
 assert.ok(!existsSync(resolve(root,'.nojekyll')),'The .nojekyll bypass would disable publication exclusions.');
 for(const path of ['docs','scripts','README.md','AGENTS.md'])assert.ok(read('_config.yml').includes(`  - ${path}`));
